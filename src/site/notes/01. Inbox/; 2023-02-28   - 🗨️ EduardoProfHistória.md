@@ -11,7 +11,7 @@
 
 # Canal [EduardoProfHistória](http://www.youtube.com/@EduardoProfHistoria)
 
-## Este canal tem `$=dv.pages().where(p => p.canal == "EduardoProfHistória").length` vídeos de interesse registrados
+## Este canal tem ```$=dv.pages().where(p => p.canal == "EduardoProfHistória").length``` vídeos de interesse registrados
 
 ### Informações
 <small> Levantadas no dia 2023-02-28 </small>
