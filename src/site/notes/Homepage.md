@@ -14,8 +14,8 @@ Este site está em constante processo de construção.
 
 
 ## Ultimas publicações:
-- [[01. Inbox/; 2023-02-28   - 🗨️ EduardoProfHistória\|; 2023-02-28   - 🗨️ EduardoProfHistória]]
 - [[01. Inbox/2023-03-02 - 🗨️ William Amorim\|2023-03-02 - 🗨️ William Amorim]]
+- [[01. Inbox/; 2023-02-28   - 🗨️ EduardoProfHistória\|; 2023-02-28   - 🗨️ EduardoProfHistória]]
 - [[01. Inbox/+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.\|+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.]]
 - [[01. Inbox/+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.\|+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.]]
 - [[01. Inbox/2023-03-02 - 🗨️ Rafael Albani\|2023-03-02 - 🗨️ Rafael Albani]]
