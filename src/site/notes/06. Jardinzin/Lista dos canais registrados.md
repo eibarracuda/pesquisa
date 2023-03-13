@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/06-jardinzin/lista-dos-canais-registrados/"}
 ---
 
+# Lista dos canais registrados
 | File                                                                                                                                                                         | Quantidade de videos de interesse registrados |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [[03. Acervos/Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ Titina Corso\|; 2023-03-07 - 🗨️ Titina Corso]]                                                           | 8                                             |
