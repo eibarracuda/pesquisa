@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-diana-conde-cr/","tags":["🧠️/📥️/🗨️/🟩️"]}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-diana-conde-cr/","tags":["🧠️/📥️/🗨️/🟩️"],"created":"2023-03-08T16:23:00.762-03:00","updated":"2023-03-13T17:34:02.947-03:00"}
 ---
 
 >[!abstract]+ Sobre
