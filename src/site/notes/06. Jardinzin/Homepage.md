@@ -15,10 +15,10 @@ Este site está em constante processo de construção.
 
 
 ## Ultimas publicações:
+- [[04. Cadernos/🌱️ 2023-03-11 - 📝️ Os dados do youtube\|🌱️ 2023-03-11 - 📝️ Os dados do youtube]]
 - [[04. Cadernos/🌱️ 2023-02-15 - Jardins digitais, uma abordagem para a divulgação de ciência\|🌱️ 2023-02-15 - Jardins digitais, uma abordagem para a divulgação de ciência]]
 - [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Como Limpar Livro Antigo [Método Definitivo]  ATELIÊ de RESTAURO\|+ 2023-03-10   -  🎥️ Como Limpar Livro Antigo [Método Definitivo]  ATELIÊ de RESTAURO]]
 - [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-09   -  🎥️ Kintsugi, técnica japonesa de restauração de cerâmicas e porcelanas - Paulo Hatanaka.\|+ 2023-03-09   -  🎥️ Kintsugi, técnica japonesa de restauração de cerâmicas e porcelanas - Paulo Hatanaka.]]
 - [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauração de Santo Antonio\|+ 2023-03-08   -  🎥️ Restauração de Santo Antonio]]
-- [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!\|+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!]]
 
 
