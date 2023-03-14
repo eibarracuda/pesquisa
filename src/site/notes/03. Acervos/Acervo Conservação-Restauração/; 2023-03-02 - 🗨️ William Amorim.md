@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-william-amorim/","tags":["🧠️/📥️/🗨️/🟩️"]}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-william-amorim/","tags":["🧠️/📥️/🗨️/🟩️"],"created":"2023-03-02T16:51:52.537-03:00","updated":"2023-03-13T16:40:13.499-03:00"}
 ---
 
 >[!abstract]+ Sobre
