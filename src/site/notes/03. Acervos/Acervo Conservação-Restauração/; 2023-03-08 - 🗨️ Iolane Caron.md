@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-iolane-caron/","tags":["🧠️/📥️/🗨️/🟩️"]}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-iolane-caron/","tags":["🧠️/📥️/🗨️/🟩️"],"created":"2023-03-08T10:30:26.132-03:00","updated":"2023-03-13T17:35:20.219-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -50,7 +50,7 @@ Videos 360º: 0
 | [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ IDEIA PARA RESTAURAR A PINTURA DE UM VASO DE CERÂMICA! ‹ Iolane Caron ›\|+ 2023-03-08   -  🎥️ IDEIA PARA RESTAURAR A PINTURA DE UM VASO DE CERÂMICA! ‹ Iolane Caron ›]] | 2023-03-08 11:08 | 2023-03-08 14:17 | Levantamento TCC | video | Iolane Caron |
 | [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restaurar Gesso - APRENDA a FAZER com Iolane Caron!!\|+ 2023-03-08   -  🎥️ Restaurar Gesso - APRENDA a FAZER com Iolane Caron!!]]                                       | 2023-03-08 12:04 | 2023-03-08 14:18 | Levantamento TCC | video | Iolane Caron |
 | [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ PASSO A PASSO DA RESTAURAÇÃO DESTA IMAGEM DE CRISTO! ‹ Iolane Caron ›\|+ 2023-03-08   -  🎥️ PASSO A PASSO DA RESTAURAÇÃO DESTA IMAGEM DE CRISTO! ‹ Iolane Caron ›]]     | 2023-03-08 11:14 | 2023-03-08 14:18 | Levantamento TCC | video | Iolane Caron |
-| [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!\|+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!]]                                                                       | 2023-03-08 12:03 | 2023-03-08 14:19 | Levantamento TCC | video | Iolane Caron |
+| [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!\|+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!]]                                                                       | 2023-03-08 12:03 | 2023-03-13 23:05 | Levantamento TCC | video | Iolane Caron |
 | [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauração - parte 2\|+ 2023-03-08   -  🎥️ Restauração - parte 2]]                                                                                                     | 2023-03-08 10:48 | 2023-03-08 14:19 | Levantamento TCC | video | Iolane Caron |
 | [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ RESTAURAÇÃO COM MASSA CERÂMICA!! ‹ Iolane Caron ›\|+ 2023-03-08   -  🎥️ RESTAURAÇÃO COM MASSA CERÂMICA!! ‹ Iolane Caron ›]]                                             | 2023-03-08 11:46 | 2023-03-08 14:18 | Levantamento TCC | video | Iolane Caron |
 | [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ RESTAURAÇÃO DE UMA PEÇA DE VIDRO! ‹ Iolane Caron ›\|+ 2023-03-08   -  🎥️ RESTAURAÇÃO DE UMA PEÇA DE VIDRO! ‹ Iolane Caron ›]]                                           | 2023-03-08 11:39 | 2023-03-08 14:19 | Levantamento TCC | video | Iolane Caron |
