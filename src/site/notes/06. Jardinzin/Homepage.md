@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03T09:04:52.499-03:00","updated":"2023-03-14T15:14:20.522-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03T09:04:52.499-03:00","updated":"2023-03-14T17:05:12.430-03:00"}
 ---
 
 
@@ -30,10 +30,11 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 
 ## Ultimas publicações:
+- [[⚙️ Taxonomia\|⚙️ Taxonomia]]
 - [[06. Jardinzin/Currículo\|Currículo]]
 - [[06. Jardinzin/Diário de desenvolvimento\|Diário de desenvolvimento]]
 - [[04. Cadernos/🌱️ 2023-03-11 - 📝️ Os dados do youtube\|🌱️ 2023-03-11 - 📝️ Os dados do youtube]]
 - [[04. Cadernos/🌱️ 2023-02-15 - Jardins digitais, uma abordagem para a divulgação de ciência\|🌱️ 2023-02-15 - Jardins digitais, uma abordagem para a divulgação de ciência]]
-- [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Como Limpar Livro Antigo [Método Definitivo]  ATELIÊ de RESTAURO\|+ 2023-03-10   -  🎥️ Como Limpar Livro Antigo [Método Definitivo]  ATELIÊ de RESTAURO]]
+
 
 
