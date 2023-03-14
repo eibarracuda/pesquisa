@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-fundacao-joaquim-nabuco/","tags":["🧠️/📥️/🗨️/🟩️"]}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-fundacao-joaquim-nabuco/","tags":["🧠️/📥️/🗨️/🟩️"],"created":"2023-03-08T13:09:42.973-03:00","updated":"2023-03-13T17:41:06.223-03:00"}
 ---
 
 >[!abstract]+ Sobre
