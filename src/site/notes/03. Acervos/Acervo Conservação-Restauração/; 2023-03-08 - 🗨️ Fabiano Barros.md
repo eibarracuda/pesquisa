@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-fabiano-barros/","tags":["🧠️/📥️/🗨️/🟩️"]}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-fabiano-barros/","tags":["🧠️/📥️/🗨️/🟩️"],"created":"2023-03-08T14:54:25.735-03:00","updated":"2023-03-13T17:27:27.922-03:00"}
 ---
 
 >[!abstract]+ Sobre
