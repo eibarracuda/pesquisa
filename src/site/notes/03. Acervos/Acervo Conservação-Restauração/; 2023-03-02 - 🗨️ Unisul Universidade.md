@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-unisul-universidade/","tags":["🧠️/📥️/🗨️/🟩️"]}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-unisul-universidade/","tags":["🧠️/📥️/🗨️/🟩️"],"created":"2023-03-02T21:25:04.069-03:00","updated":"2023-03-13T16:57:21.780-03:00"}
 ---
 
 >[!abstract]+ Sobre
