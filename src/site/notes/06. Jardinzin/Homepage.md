@@ -1,22 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03T09:04:52.499-03:00","updated":"2023-03-14T15:09:28.158-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03T09:04:52.499-03:00","updated":"2023-03-14T15:14:20.522-03:00"}
 ---
 
 
 # Home
-
-> [!infobox]
-> # Sobre
-> ![Pasted image 20230314135017.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230314135017.png)
-> ###### 
-> | 29 anos |  MG | 
-> | ---- | ---- |
-> | ![naobinario.png](/img/user/XX%20-%20Anexos/naobinario.png) | ![autista.png](/img/user/XX%20-%20Anexos/autista.png)|
-> |**[GitHub](https://github.com/eibarracuda)**| [**Lattes**](http://lattes.cnpq.br/0892701521172605)|
-> | [**Discord**](https://discord.com/users/175446804274479105) | [[06. Jardinzin/Currículo\|Currículo]] |
-> | Conservação e Restauração| Encadernação e História do Livro
-> | Divulgação Cientifica| Patrimônio e Cultura
-> | Programação | Tradução e Legendagem
 
 
 Escrever é uma forma de expressão que envolve vários processos cognitivos, como a organização das ideias, a seleção de palavras adequadas e a estruturação de frases e parágrafos. Quando escrevemos, estamos mobilizando diversas áreas do cérebro e instigando a memória, a linguagem e a atenção.<br>
