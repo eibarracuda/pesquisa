@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-03-11-os-dados-do-youtube/","tags":["🧠️/📝️/🌱️"],"created":"2023-03-11T13:53:43.146-03:00","updated":"2023-03-14T08:55:12.230-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-03-11-os-dados-do-youtube/","tags":["🧠️/📝️/🌱️"],"created":"2023-03-11T13:53:43.146-03:00","updated":"2023-03-14T09:00:07.222-03:00"}
 ---
 
 
@@ -92,3 +92,6 @@ Enquanto não fechamos o escopo desses videos pretendo ir fazendo:
 - Manipulação dos metadados dos videos do universo total, ver se eles nos trazem alguma informação interessante;
 - Análise dos metadados dos canais institucionais (referentes ao segundo levantamento, cujo escopo é os 16 museus melhor classificados em "Já estamos lá?" (Mendes, 2022)^[trata-se de uma pesquisa realizada online exatamente com o publico que buscamos compreender melhor, os profissionais de museus - foram 405 participantes, entre conservadores (7%), educadores (11%) e comunicadores/designers/mkt (14%). ] )
 - Apesar de não fazer parte da escrita do meu projeto, pretendo organizar melhor as informações no jardim digital também.
+
+
+Para mais explorações: [[06. Jardinzin/Lista dos canais registrados\|Lista dos canais registrados]]
