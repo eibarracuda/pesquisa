@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-06-tv-cancao-nova/","tags":["🧠️/📥️/🗨️/🟩️️"]}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-06-tv-cancao-nova/","tags":["🧠️/📥️/🗨️/🟩️️"],"created":"2023-03-06T16:57:47.483-03:00","updated":"2023-03-13T16:53:27.425-03:00"}
 ---
 
 >[!abstract]+ Sobre
