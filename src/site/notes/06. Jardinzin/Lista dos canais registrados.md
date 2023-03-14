@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/lista-dos-canais-registrados/"}
+{"dg-publish":true,"permalink":"/06-jardinzin/lista-dos-canais-registrados/","created":"2023-03-13T18:22:42.757-03:00","updated":"2023-03-13T20:07:18.973-03:00"}
 ---
 
 # Lista dos canais registrados
