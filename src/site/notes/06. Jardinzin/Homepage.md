@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03T09:04:52.499-03:00","updated":"2023-03-14T17:05:12.430-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03T09:04:52.499-03:00","updated":"2023-03-15T16:25:37.849-03:00"}
 ---
 
 
@@ -30,11 +30,11 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 
 ## Ultimas publicações:
+- [[05. Utilitários/⚙️ Taxonomia\|⚙️ Taxonomia]]
+- [[04. Cadernos/🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)\|🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)]]
 - [[04. Cadernos/🌲️ 2022-09 - 📝️ Visitando Museus - Uma proposta de DC\|🌲️ 2022-09 - 📝️ Visitando Museus - Uma proposta de DC]]
 - [[04. Cadernos/🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro\|🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro]]
 - [[04. Cadernos/🌲️ 2022-05 - 📝️ Discussões - Princípios da Divulgação Cientifica\|🌲️ 2022-05 - 📝️ Discussões - Princípios da Divulgação Cientifica]]
-- [[⚙️ Taxonomia\|⚙️ Taxonomia]]
-- [[06. Jardinzin/Currículo\|Currículo]]
 
 
 
