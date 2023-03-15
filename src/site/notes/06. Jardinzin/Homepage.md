@@ -30,11 +30,11 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 
 ## Ultimas publicações:
+- [[04. Cadernos/🌲️ 2022-09 - 📝️ Visitando Museus - Uma proposta de DC\|🌲️ 2022-09 - 📝️ Visitando Museus - Uma proposta de DC]]
+- [[04. Cadernos/🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro\|🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro]]
+- [[04. Cadernos/🌲️ 2022-05 - 📝️ Discussões - Princípios da Divulgação Cientifica\|🌲️ 2022-05 - 📝️ Discussões - Princípios da Divulgação Cientifica]]
 - [[⚙️ Taxonomia\|⚙️ Taxonomia]]
 - [[06. Jardinzin/Currículo\|Currículo]]
-- [[06. Jardinzin/Diário de desenvolvimento\|Diário de desenvolvimento]]
-- [[04. Cadernos/🌱️ 2023-03-11 - 📝️ Os dados do youtube\|🌱️ 2023-03-11 - 📝️ Os dados do youtube]]
-- [[04. Cadernos/🌱️ 2023-02-15 - Jardins digitais, uma abordagem para a divulgação de ciência\|🌱️ 2023-02-15 - Jardins digitais, uma abordagem para a divulgação de ciência]]
 
 
 
