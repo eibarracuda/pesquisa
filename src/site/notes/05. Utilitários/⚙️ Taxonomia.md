@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/05-utilitarios/taxonomia/","created":"2023-03-14T16:30:40.756-03:00","updated":"2023-03-15T12:30:22.786-03:00"}
+{"dg-publish":true,"permalink":"/05-utilitarios/taxonomia/","created":"2023-03-14T16:30:40.756-03:00","updated":"2023-03-21T09:54:08.447-03:00"}
 ---
 
+# Escolhas visuais: entenda o sistema
 ##  Taxonomia
 
 - 💭️ ==Notas sobre o desenvolvimento deste jardim==
@@ -19,6 +20,9 @@
 		- 🟨️ Sintetizando
 		- 🟩️️ Completa!
 - ✨ ==Acervos | Notas do inbox processadas | Filmes, Seriados e Videogames que consumo para cnsulta e/ou registro==
+	- 🖼️ ==Acervo de Conservação-Restauração==
+		- 🎥️ ==Acervo de videos==
+		- 🗨️ ==Acervo de canais==
 	- 👾 ==Videogames==
 	- 🎬 ==Filmes==
 	- 📺 ==Séries | Animes==
