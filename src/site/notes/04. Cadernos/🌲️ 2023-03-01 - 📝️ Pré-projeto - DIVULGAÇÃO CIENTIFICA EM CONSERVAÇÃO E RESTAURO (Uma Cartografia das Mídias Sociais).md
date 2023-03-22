@@ -8,7 +8,7 @@
 ***
 | Relacionados                                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[06. Jardinzin/Homepage\|Homepage]]<br><small>*Modificado em: 4:25 PM - March 15, 2023*</small> \| <small>Criado em: 9:04 AM - March 03, 2023</small> |
+| [[06. Jardinzin/Homepage\|Homepage]]<br><small>*Modificado em: 4:26 PM - March 15, 2023*</small> \| <small>Criado em: 9:04 AM - March 03, 2023</small> |
 
 ***
 
