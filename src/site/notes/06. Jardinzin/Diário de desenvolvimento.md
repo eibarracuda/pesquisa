@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/diario-de-desenvolvimento/","tags":["logjardim"],"created":"2023-03-14T13:17:39.206-03:00","updated":"2023-03-14T13:19:04.278-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin/diario-de-desenvolvimento/","tags":["logjardim"],"created":"2023-03-14T13:17:39.206-03:00","updated":"2023-03-15T20:20:13.531-03:00"}
 ---
 
 
