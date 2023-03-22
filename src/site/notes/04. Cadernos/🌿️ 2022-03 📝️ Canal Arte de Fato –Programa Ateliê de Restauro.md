@@ -22,7 +22,7 @@ Especialização em Divulgação e Popularização da Ciência – Casa Oswaldo 
 
 ## O que é?
 
-• O **Ateliê de Restauro** é um dos programas dentro do canal [[03. Acervos/Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Arte de fato\|Arte de fato]] do Youtube;
+• O **Ateliê de Restauro** é um dos programas dentro do canal [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Arte de fato\|Arte de fato]] do Youtube;
 
 • Até a presente data, a playlist do Ateliê de Restauro possui **24 vídeos**, publicados entre maio de  2019 e outubro de 2021. Não existe indicio que o projeto tenha-se encerrado, mas aparenta estar pausado desde a ultima publicação;
 
@@ -50,7 +50,7 @@ Especialização em Divulgação e Popularização da Ciência – Casa Oswaldo 
 >“Fazemos assim porque acreditamos na popularização de valores como a importância da preservação do patrimônio e da cultura [...]” (SANCHES, Cristina)
 
 
-• No vídeo [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Como limpar fungos em livros [ATUALIZADO 2022]  ATELIÊ de RESTAURO\|+ 2023-03-10   -  🎥️ Como limpar fungos em livros [ATUALIZADO 2022]  ATELIÊ de RESTAURO]] aos 1:26 minutos:
+• No vídeo [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Como limpar fungos em livros [ATUALIZADO 2022]  ATELIÊ de RESTAURO\|+ 2023-03-10   -  🎥️ Como limpar fungos em livros [ATUALIZADO 2022]  ATELIÊ de RESTAURO]] aos 1:26 minutos:
 
 >[...] nós queremos com esse vídeo poder ajudar a divulgar boas informações e *pesquisas cientificas que ajudem a preservar os nossos acervos e bibliotecas* [...]” (SANCHES, Cristina)
 
@@ -101,13 +101,13 @@ Especialização em Divulgação e Popularização da Ciência – Casa Oswaldo 
 
 • Dá dicas de como lidar com problemas na sua biblioteca, os mais vistos foram:
 
-• [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-11   -  🎥️ BOLOR nos livros! O que fazer  ATELIÊ de RESTAURO\|+ 2023-03-11   -  🎥️ BOLOR nos livros! O que fazer  ATELIÊ de RESTAURO]]
+• [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-11   -  🎥️ BOLOR nos livros! O que fazer  ATELIÊ de RESTAURO\|+ 2023-03-11   -  🎥️ BOLOR nos livros! O que fazer  ATELIÊ de RESTAURO]]
 
-• [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Como Limpar Livro Antigo [Método Definitivo]  ATELIÊ de RESTAURO\|+ 2023-03-10   -  🎥️ Como Limpar Livro Antigo [Método Definitivo]  ATELIÊ de RESTAURO]]
+• [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Como Limpar Livro Antigo [Método Definitivo]  ATELIÊ de RESTAURO\|+ 2023-03-10   -  🎥️ Como Limpar Livro Antigo [Método Definitivo]  ATELIÊ de RESTAURO]]
 
-• [[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-11   -  🎥️ Como fazer Papel Reciclado [ Fórmula Fácil ]  ATELIÊ de RESTAURO\|+ 2023-03-11   -  🎥️ Como fazer Papel Reciclado [ Fórmula Fácil ]  ATELIÊ de RESTAURO]]
+• [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-11   -  🎥️ Como fazer Papel Reciclado [ Fórmula Fácil ]  ATELIÊ de RESTAURO\|+ 2023-03-11   -  🎥️ Como fazer Papel Reciclado [ Fórmula Fácil ]  ATELIÊ de RESTAURO]]
 
-[[03. Acervos/Acervo Conservação-Restauração/+ 2023-03-11   -  🎥️ Paspatur, o método definitivo  ATELIÊ de RESTAURO\|+ 2023-03-11   -  🎥️ Paspatur, o método definitivo  ATELIÊ de RESTAURO]]
+[[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-11   -  🎥️ Paspatur, o método definitivo  ATELIÊ de RESTAURO\|+ 2023-03-11   -  🎥️ Paspatur, o método definitivo  ATELIÊ de RESTAURO]]
 
 
 
