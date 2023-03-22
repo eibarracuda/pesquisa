@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-11-tecnica-incrivel-de-restauro-de-livros-com-reenfibragem-atelie-de-restauro/","tags":["🖼️/🎥️"],"created":"2023-03-11T12:36:43.054-03:00","updated":"2023-03-17T10:42:16.599-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-11-tecnica-incrivel-de-restauro-de-livros-com-reenfibragem-atelie-de-restauro/","tags":["🖼️/🎥️"],"created":"2023-03-11T12:36:43.054-03:00","updated":"2023-03-21T21:44:22.855-03:00"}
 ---
 
 
