@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Acervos/Conrest/; 2023-03-08 - 🗨️ Deum Laudamus Arte Sacra e Restauração.md","permalink":"/acervos/conrest/2023-03-08-deum-laudamus-arte-sacra-e-restauracao/","tags":["🖼️/🗨️"],"created":"2023-03-08T16:44:42.118-03:00","updated":"2023-03-17T10:26:37.128-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-deum-laudamus-arte-sacra-e-restauracao/","tags":["🖼️/🗨️"],"created":"2023-03-08T16:44:42.118-03:00","updated":"2023-03-17T10:26:37.128-03:00"}
 ---
 
 >[!abstract]+ Sobre
