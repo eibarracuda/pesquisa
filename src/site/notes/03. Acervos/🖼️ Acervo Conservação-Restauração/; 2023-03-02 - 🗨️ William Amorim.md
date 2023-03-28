@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-william-amorim/","tags":["🖼️/🗨️"],"created":"2023-03-02T16:51:52.537-03:00","updated":"2023-03-17T10:28:13.599-03:00"}
+{"dg-publish":true,"dg-path":"Acervos/Conrest/; 2023-03-02 - 🗨️ William Amorim.md","permalink":"/acervos/conrest/2023-03-02-william-amorim/","tags":["🖼️/🗨️"],"created":"2023-03-02T16:51:52.537-03:00","updated":"2023-03-17T10:28:13.599-03:00"}
 ---
 
 >[!abstract]+ Sobre
