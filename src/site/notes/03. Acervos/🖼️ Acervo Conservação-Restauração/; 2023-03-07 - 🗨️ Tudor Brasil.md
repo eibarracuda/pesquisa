@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-tudor-brasil/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:36:15.610-03:00","updated":"2023-03-17T10:26:36.922-03:00"}
+{"dg-publish":true,"dg-path":"Acervos/Conrest/; 2023-03-07 - 🗨️ Tudor Brasil.md","permalink":"/acervos/conrest/2023-03-07-tudor-brasil/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:36:15.610-03:00","updated":"2023-03-17T10:26:36.922-03:00"}
 ---
 
 >[!abstract]+ Sobre
