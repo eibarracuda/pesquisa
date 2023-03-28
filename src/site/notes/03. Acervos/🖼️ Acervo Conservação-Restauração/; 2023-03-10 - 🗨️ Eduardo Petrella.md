@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Acervos/Conrest/; 2023-03-10 - 🗨️ Eduardo Petrella.md","permalink":"/acervos/conrest/2023-03-10-eduardo-petrella/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:45:20.248-03:00","updated":"2023-03-17T10:26:36.835-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-eduardo-petrella/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:45:20.248-03:00","updated":"2023-03-17T10:26:36.835-03:00"}
 ---
 
 >[!abstract]+ Sobre
