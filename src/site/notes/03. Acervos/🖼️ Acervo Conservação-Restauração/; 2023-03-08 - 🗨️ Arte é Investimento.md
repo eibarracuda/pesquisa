@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-arte-e-investimento/","tags":["🖼️/🗨️"],"created":"2023-03-08T21:26:31.617-03:00","updated":"2023-03-17T10:26:36.861-03:00"}
+{"dg-publish":true,"dg-path":"Acervos/Conrest/; 2023-03-08 - 🗨️ Arte é Investimento.md","permalink":"/acervos/conrest/2023-03-08-arte-e-investimento/","tags":["🖼️/🗨️"],"created":"2023-03-08T21:26:31.617-03:00","updated":"2023-03-17T10:26:36.861-03:00"}
 ---
 
 >[!abstract]+ Sobre
