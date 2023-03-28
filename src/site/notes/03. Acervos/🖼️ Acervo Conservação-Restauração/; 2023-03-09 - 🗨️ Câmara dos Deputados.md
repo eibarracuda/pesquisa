@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Acervos/Conrest/; 2023-03-09 - 🗨️ Câmara dos Deputados.md","permalink":"/acervos/conrest/2023-03-09-camara-dos-deputados/","tags":["🖼️/🗨️"],"created":"2023-03-09T16:21:47.008-03:00","updated":"2023-03-17T10:26:36.932-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-09-camara-dos-deputados/","tags":["🖼️/🗨️"],"created":"2023-03-09T16:21:47.008-03:00","updated":"2023-03-17T10:26:36.932-03:00"}
 ---
 
 >[!abstract]+ Sobre
