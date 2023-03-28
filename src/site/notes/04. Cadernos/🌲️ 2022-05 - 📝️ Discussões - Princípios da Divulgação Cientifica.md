@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Meus cadernos/🌲️ 2022-05 - 📝️ Discussões - Princípios da Divulgação Cientifica.md","permalink":"/meus-cadernos/2022-05-discussoes-principios-da-divulgacao-cientifica/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-14T17:30:42.294-03:00","updated":"2023-03-14T17:44:14.819-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-05-discussoes-principios-da-divulgacao-cientifica/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-14T17:30:42.294-03:00","updated":"2023-03-14T17:44:14.819-03:00"}
 ---
 
 
