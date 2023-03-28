@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Acervos/Conrest/; 2023-03-07 - 🗨️ ministeriopublicosc.md","permalink":"/acervos/conrest/2023-03-07-ministeriopublicosc/","tags":["🖼️/🗨️"],"created":"2023-03-07T20:55:58.396-03:00","updated":"2023-03-17T10:26:36.848-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-ministeriopublicosc/","tags":["🖼️/🗨️"],"created":"2023-03-07T20:55:58.396-03:00","updated":"2023-03-17T10:26:36.848-03:00"}
 ---
 
 >[!abstract]+ Sobre
