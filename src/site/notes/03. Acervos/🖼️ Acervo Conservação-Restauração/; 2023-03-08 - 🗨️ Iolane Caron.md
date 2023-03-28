@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-iolane-caron/","tags":["🖼️/🗨️"],"created":"2023-03-08T10:30:26.132-03:00","updated":"2023-03-17T10:28:11.700-03:00"}
+{"dg-publish":true,"dg-path":"Acervos/Conrest/; 2023-03-08 - 🗨️ Iolane Caron.md","permalink":"/acervos/conrest/2023-03-08-iolane-caron/","tags":["🖼️/🗨️"],"created":"2023-03-08T10:30:26.132-03:00","updated":"2023-03-17T10:28:11.700-03:00"}
 ---
 
 >[!abstract]+ Sobre
