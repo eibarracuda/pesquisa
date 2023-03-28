@@ -30,8 +30,8 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 
 ## Ultimas publicações:
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-11   -  🎥️ Técnica INCRÍVEL de Restauro de Livros com Reenfibragem!  ATELIÊ de RESTAURO\|+ 2023-03-11   -  🎥️ Técnica INCRÍVEL de Restauro de Livros com Reenfibragem!  ATELIÊ de RESTAURO]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra\|+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-11   -  🎥️ Técnica INCRÍVEL de Restauro de Livros com Reenfibragem!  ATELIÊ de RESTAURO\|+ 2023-03-11   -  🎥️ Técnica INCRÍVEL de Restauro de Livros com Reenfibragem!  ATELIÊ de RESTAURO]]
 - [[05. Utilitários/⚙️ Taxonomia\|⚙️ Taxonomia]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauração Arte Sacra TCC Templo da Arte\|+ 2023-03-07   -  🎥️ Restauração Arte Sacra TCC Templo da Arte]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Restauração de São Francisco\|+ 2023-02-27   -  🎥️ Restauração de São Francisco]]
