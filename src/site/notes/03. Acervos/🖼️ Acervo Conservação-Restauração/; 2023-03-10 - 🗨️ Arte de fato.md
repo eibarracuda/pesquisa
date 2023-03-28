@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-arte-de-fato/","tags":["🖼️/🗨️"],"created":"2023-03-10T21:17:10.400-03:00","updated":"2023-03-17T10:26:36.973-03:00"}
+{"dg-publish":true,"dg-path":"Acervos/Conrest/; 2023-03-10 - 🗨️ Arte de fato.md","permalink":"/acervos/conrest/2023-03-10-arte-de-fato/","tags":["🖼️/🗨️"],"created":"2023-03-10T21:17:10.400-03:00","updated":"2023-03-17T10:26:36.973-03:00"}
 ---
 
 >[!abstract]+ Sobre
