@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Acervos/Conrest/; 2023-03-06 - 🗨️ TV Canção Nova.md","permalink":"/acervos/conrest/2023-03-06-tv-cancao-nova/","tags":["🖼️/🗨️️"],"created":"2023-03-06T16:57:47.483-03:00","updated":"2023-03-17T10:26:36.872-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-06-tv-cancao-nova/","tags":["🖼️/🗨️️"],"created":"2023-03-06T16:57:47.483-03:00","updated":"2023-03-17T10:26:36.872-03:00"}
 ---
 
 >[!abstract]+ Sobre
