@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/lista-dos-canais-registrados/","created":"2023-03-13T18:22:42.757-03:00","updated":"2023-03-13T20:07:18.973-03:00"}
+{"dg-publish":true,"permalink":"/06. Jardinzin/Lista dos canais registrados/","created":"2023-03-13T18:22:42.757-03:00","updated":"2023-03-13T20:07:18.973-03:00"}
 ---
 
 # Lista dos canais registrados
-| File                                                                                                                                                                             | Quantidade de videos de interesse registrados |
+| Arquivo                                                                                                                                                                          | Quantidade de videos de interesse registrados |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ Titina Corso\|; 2023-03-07 - 🗨️ Titina Corso]]                                                           | 8                                             |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Fundação Joaquim Nabuco\|; 2023-03-08 - 🗨️ Fundação Joaquim Nabuco]]                                     | 7                                             |
