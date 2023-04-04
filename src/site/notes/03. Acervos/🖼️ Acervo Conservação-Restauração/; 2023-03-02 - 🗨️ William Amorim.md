@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-william-amorim/","tags":["🖼️/🗨️"],"created":"2023-03-02T16:51:52.537-03:00","updated":"2023-03-17T10:28:13.599-03:00"}
+{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ William Amorim/","tags":["🖼️/🗨️"],"created":"2023-03-02T16:51:52.537-03:00","updated":"2023-03-17T10:28:13.599-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -45,7 +45,7 @@ Videos 360º: 0
 
 ***
 ## Videos deste canal analisados:
-| File                                                                                                                                                                                                                                                                                         | Criado em        | Modificado       | Tema             | Tipo  | Canal          |
+| Arquivo                                                                                                                                                                                                                                                                                      | Criado em        | Modificado       | Tema             | Tipo  | Canal          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | -------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de objetos sacros.\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de objetos sacros.]]                                                                                         | 2023-03-02 16:26 | 2023-03-11 13:34 | Levantamento TCC | video | William Amorim |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.\|+ 2023-02-27   -  🎥️ Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.]]                         | 2023-02-27 15:49 | 2023-03-11 13:33 | Levantamento TCC | video | William Amorim |
@@ -63,7 +63,7 @@ tipo:: #canaljornalismo
 Gospel, gospel, Música gospel, Jornal do Maranhão, Betel, Maranhão, Notícias do Maranhão, São Luís, igreja, Estado do Maranhão, Louvor, Igreja, Ma news, News ma, Festa da igreja
 
 ### Usadas nos vídeos sobre restauração deste canal
-| File                                                                                                                                                                                                                                                                                         | Titulo                                                                                       | Tags usadas |
+| Arquivo                                                                                                                                                                                                                                                                                      | Titulo                                                                                       | Tags usadas |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de objetos sacros.\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de objetos sacros.]]                                                                                         | Conheça a arte da restauração de objetos sacros.                                             | \-          |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.\|+ 2023-02-27   -  🎥️ Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.]]                         | Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.             | \-          |
