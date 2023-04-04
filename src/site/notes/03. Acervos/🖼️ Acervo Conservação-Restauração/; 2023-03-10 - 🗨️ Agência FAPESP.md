@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-agencia-fapesp/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:25:50.744-03:00","updated":"2023-03-17T10:26:36.945-03:00"}
+{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Agência FAPESP/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:25:50.744-03:00","updated":"2023-03-17T10:26:36.945-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -44,7 +44,7 @@ Videos 360º: 0
 
 ***
 ## Videos deste canal analisados:
-| File                                                                                                                                                                                                                                               | Criado em        | Modificado       | Tema             | Tipo  | Canal          |
+| Arquivo                                                                                                                                                                                                                                            | Criado em        | Modificado       | Tema             | Tipo  | Canal          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | -------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte\|+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte]] | 2023-03-10 16:33 | 2023-03-17 10:26 | Levantamento TCC | video | Agência FAPESP |
 
@@ -56,7 +56,7 @@ Videos 360º: 0
 FAPESP, pesquisa, fapesp, USP, coronavírus, Fundação de Amparo à Pesquisa do Estado de São Paulo, usp, ciência, vacina, são paulo, coronavac, butantan, vacinasim, paulo artaxo, artaxo
 
 ### Usadas nos vídeos sobre restauração deste canal
-| File                                                                                                                                                                                                                                               | Titulo                                                                    | Tags usadas                                                                                                                                                                                                                                                                                            |
+| Arquivo                                                                                                                                                                                                                                            | Titulo                                                                    | Tags usadas                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte\|+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte]] | Ciência e arte se aliam na restauração do quadro "Independência ou Morte" | <ul><li>pintura</li><li>museu</li><li>museudoipiraga</li><li>uso</li><li>restauro</li><li>restauração</li><li>pintor</li><li>pedroamérico</li><li>história</li><li>arte</li><li>art</li><li>brazilianart</li><li>artebrasileira</li><li>pesquisa</li><li>usp</li><li>sãopaulo</li><li>FAPESP</li></ul> |
 
