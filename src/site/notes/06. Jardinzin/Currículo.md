@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06. Jardinzin/Currículo/","created":"2023-03-14T14:03:05.815-03:00","updated":"2023-03-14T15:18:13.112-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin/curriculo/","created":"2023-03-14T14:03:05.815-03:00","updated":"2023-03-14T15:18:13.112-03:00"}
 ---
 
 # Marta Safaneta
