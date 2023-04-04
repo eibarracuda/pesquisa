@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ Stellantis South America/","tags":["🖼️/🗨️"],"created":"2023-03-07T20:34:57.230-03:00","updated":"2023-03-17T10:28:13.426-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-stellantis-south-america/","tags":["🖼️/🗨️"],"created":"2023-03-07T20:34:57.230-03:00","updated":"2023-03-17T10:28:13.426-03:00"}
 ---
 
 >[!abstract]+ Sobre
