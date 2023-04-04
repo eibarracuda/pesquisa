@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Agência FAPESP/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:25:50.744-03:00","updated":"2023-03-17T10:26:36.945-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-agencia-fapesp/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:25:50.744-03:00","updated":"2023-03-17T10:26:36.945-03:00"}
 ---
 
 >[!abstract]+ Sobre
