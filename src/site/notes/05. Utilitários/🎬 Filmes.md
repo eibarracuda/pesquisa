@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05. Utilitários/🎬 Filmes/","created":"2023-03-15T15:08:44.404-03:00","updated":"2023-03-16T09:15:24.729-03:00"}
+{"dg-publish":true,"permalink":"/05-utilitarios/filmes/","created":"2023-03-15T15:08:44.404-03:00","updated":"2023-03-16T09:15:24.729-03:00"}
 ---
 
 # 🎬 Filmes
