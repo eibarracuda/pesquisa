@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ Titina Corso/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:46:06.902-03:00","updated":"2023-03-17T10:28:12.996-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-titina-corso/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:46:06.902-03:00","updated":"2023-03-17T10:28:12.996-03:00"}
 ---
 
 >[!abstract]+ Sobre
