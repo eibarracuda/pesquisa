@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Restauração de São Francisco/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:28:49.112-03:00","updated":"2023-03-17T14:04:23.071-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-restauracao-de-sao-francisco/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:28:49.112-03:00","updated":"2023-03-17T14:04:23.071-03:00"}
 ---
 
 
