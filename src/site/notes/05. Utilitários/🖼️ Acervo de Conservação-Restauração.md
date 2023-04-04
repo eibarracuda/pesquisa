@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05. Utilitários/🖼️ Acervo de Conservação-Restauração/","created":"2023-03-15T17:05:38.836-03:00","updated":"2023-03-21T21:42:24.226-03:00"}
+{"dg-publish":true,"permalink":"/05-utilitarios/acervo-de-conservacao-restauracao/","created":"2023-03-15T17:05:38.836-03:00","updated":"2023-03-21T21:42:24.226-03:00"}
 ---
 
 
