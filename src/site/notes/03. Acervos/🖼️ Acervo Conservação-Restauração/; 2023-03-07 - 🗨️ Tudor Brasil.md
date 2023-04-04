@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-tudor-brasil/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:36:15.610-03:00","updated":"2023-03-17T10:26:36.922-03:00"}
+{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ Tudor Brasil/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:36:15.610-03:00","updated":"2023-03-17T10:26:36.922-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -44,7 +44,7 @@ Videos 360º: 0
 
 ***
 ## Videos deste canal analisados:
-| File                                                                                                                                                                                                   | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
+| Arquivo                                                                                                                                                                                                | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ---------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!\|+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!]] | 2023-02-27 15:30 | 2023-03-17 10:26 | Levantamento TCC | video | Tudor Brasil - Tudo Sobre História |
 
@@ -56,7 +56,7 @@ Videos 360º: 0
 história, Bridgerton, Netflix, curiosidades, rainhas, Imperatriz Sissi, Elizabeth II, Ana Bolena, Mary Stuart, Elizabeth I, Catarina de Medici, Reign, The Crown, higiene, higiene na história
 
 ### Usadas nos vídeos sobre restauração deste canal
-| File                                                                                                                                                                                                   | Titulo                                            | Tags usadas                                                                                                                  |
+| Arquivo                                                                                                                                                                                                | Titulo                                            | Tags usadas                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!\|+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!]] | INCRÍVEL!!!! Restauração de uma pintura jacobina! | <ul><li>história</li><li>restauração de tela</li><li>jacobina</li><li>Inglaterra</li><li>Philip Mold</li><li>Tudor</li></ul> |
 
