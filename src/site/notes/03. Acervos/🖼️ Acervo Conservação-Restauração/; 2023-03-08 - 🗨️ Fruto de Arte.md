@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Fruto de Arte/","tags":["🖼️/🗨️"],"created":"2023-03-08T14:18:48.624-03:00","updated":"2023-03-17T10:28:12.823-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-fruto-de-arte/","tags":["🖼️/🗨️"],"created":"2023-03-08T14:18:48.624-03:00","updated":"2023-03-17T10:28:12.823-03:00"}
 ---
 
 >[!abstract]+ Sobre
