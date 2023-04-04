@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-fruto-de-arte/","tags":["🖼️/🗨️"],"created":"2023-03-08T14:18:48.624-03:00","updated":"2023-03-17T10:28:12.823-03:00"}
+{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Fruto de Arte/","tags":["🖼️/🗨️"],"created":"2023-03-08T14:18:48.624-03:00","updated":"2023-03-17T10:28:12.823-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -43,7 +43,7 @@ Videos 360º: 0
 
 ***
 ## Videos deste canal analisados:
-| File                                                                                                                                                                                               | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
+| Arquivo                                                                                                                                                                                            | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ---------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conservação e Restauração de Documentos\|+ 2023-02-27   -  🎥️ Conservação e Restauração de Documentos]]                 | 2023-02-27 15:02 | 2023-03-17 10:26 | Levantamento TCC | video | Fruto de Arte Materiais Artísticos |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco\|+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco]] | 2023-03-08 14:38 | 2023-03-17 10:26 | Levantamento TCC | video | Fruto de Arte Materiais Artísticos |
@@ -56,7 +56,7 @@ Videos 360º: 0
 
 fruto de arte, aquarela, caligrafia, material artístico, material de desenho, caneta tinteiro, material, para desenho, presente de natal, lettering, desenho, natal, material para aquarela, pintura em tela, watercolor, presente
 ### Usadas nos vídeos sobre restauração deste canal
-| File                                                                                                                                                                                               | Titulo                                          | Tags usadas                                                                                                                                             |
+| Arquivo                                                                                                                                                                                            | Titulo                                          | Tags usadas                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conservação e Restauração de Documentos\|+ 2023-02-27   -  🎥️ Conservação e Restauração de Documentos]]                 | Conservação e Restauração de Documentos         | <ul><li>conservação de documentos</li><li>preservação de documentos</li><li>limpeza de documentos</li><li>lineco</li></ul>                              |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco\|+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco]] | Materiais para Restauração e Conservação Lineco | <ul><li>papel tengujo</li><li>papel para restauração</li><li>papel para conservação</li><li>papel</li><li>fruto de arte</li><li>papel japonês</li></ul> |
