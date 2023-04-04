@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-titina-corso/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:46:06.902-03:00","updated":"2023-03-17T10:28:12.996-03:00"}
+{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ Titina Corso/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:46:06.902-03:00","updated":"2023-03-17T10:28:12.996-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -45,7 +45,7 @@ Videos 360º: 0
 
 ***
 ## Videos deste canal analisados:
-| File                                                                                                                                                                                   | Criado em        | Modificado       | Tema             | Tipo  | Canal        |
+| Arquivo                                                                                                                                                                                | Criado em        | Modificado       | Tema             | Tipo  | Canal        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ------------ |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Restauração de São Francisco\|+ 2023-02-27   -  🎥️ Restauração de São Francisco]]                           | 2023-02-27 15:29 | 2023-03-17 14:04 | Levantamento TCC | video | Titina Corso |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restaurando São Ciro\|+ 2023-03-07   -  🎥️ Restaurando São Ciro]]                                           | 2023-03-07 20:18 | 2023-03-17 10:26 | Levantamento TCC | video | Titina Corso |
@@ -64,7 +64,7 @@ Videos 360º: 0
 arte sacra, arte, Titina Corso, Titina, Conservação, conservação, educação, Arte Sacra, exposição, Atelier, imagem sacra, Corso, escultura, restauração, pintura
 
 ### Usadas nos vídeos sobre restauração deste canal
-| File                                                                                                                                                                                   | Titulo                                    | Tags usadas                                                                                                                     |
+| Arquivo                                                                                                                                                                                | Titulo                                    | Tags usadas                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Restauração de São Francisco\|+ 2023-02-27   -  🎥️ Restauração de São Francisco]]                           | Restauração de São Francisco              | Created by Filmix                                                                                                               |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restaurando São Ciro\|+ 2023-03-07   -  🎥️ Restaurando São Ciro]]                                           | Restaurando São Ciro                      | <ul><li>História</li><li>Santo</li><li>Conservação</li><li>Arte Sacra</li><li>Restauro</li></ul>                                |
