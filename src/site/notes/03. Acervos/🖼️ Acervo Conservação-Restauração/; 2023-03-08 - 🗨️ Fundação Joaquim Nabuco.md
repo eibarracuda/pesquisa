@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Fundação Joaquim Nabuco/","tags":["🖼️/🗨️"],"created":"2023-03-08T13:09:42.973-03:00","updated":"2023-03-17T10:28:11.804-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-fundacao-joaquim-nabuco/","tags":["🖼️/🗨️"],"created":"2023-03-08T13:09:42.973-03:00","updated":"2023-03-17T10:28:11.804-03:00"}
 ---
 
 >[!abstract]+ Sobre
