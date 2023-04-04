@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-superior-tribunal-de-justica-stj/","tags":["🖼️/🗨️"],"created":"2023-03-08T19:16:18.086-03:00","updated":"2023-03-17T10:28:11.617-03:00"}
+{"dg-publish":true,"permalink":"/03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Superior Tribunal de Justiça (STJ)/","tags":["🖼️/🗨️"],"created":"2023-03-08T19:16:18.086-03:00","updated":"2023-03-17T10:28:11.617-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -43,7 +43,7 @@ Videos 360º: 0
 
 ***
 ## Videos deste canal analisados:
-| File                                                                                                                                                                                                           | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
+| Arquivo                                                                                                                                                                                                        | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ---------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão]] | 2023-02-27 14:58 | 2023-03-17 10:28 | Levantamento TCC | video | Superior Tribunal de Justiça (STJ) |
 
@@ -55,7 +55,7 @@ Videos 360º: 0
 stj, direito, tribunal, superior, justiça, lei, cidadania, judiciário, de, jurisprudência, brasil, TV Justiça, Jornal da Justiça, tv justiça, cidadão
 
 ### Usadas nos vídeos sobre restauração deste canal
-| File                                                                                                                                                                                                           | Titulo                                                | Tags usadas                                                                                                                                                                                                   |
+| Arquivo                                                                                                                                                                                                        | Titulo                                                | Tags usadas                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão]] | Conheça a arte da restauração de livros - STJ Cidadão | <ul><li>stj</li><li>superior</li><li>tribunal</li><li>justiça</li><li>cidadania</li><li>direito</li><li>judiciário</li><li>lei</li><li>cidadão</li><li>restauração</li><li>livro</li><li>biblioteca</li></ul> |
 
