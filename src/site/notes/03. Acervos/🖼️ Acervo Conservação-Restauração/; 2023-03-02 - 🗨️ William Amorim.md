@@ -52,6 +52,7 @@ Videos 360º: 0
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.\|+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.]]                                                   | 2023-03-02 18:37 | 2023-03-13 16:43 | Levantamento TCC | video | William Amorim |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.\|+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.]] | 2023-03-02 18:16 | 2023-03-13 16:43 | Levantamento TCC | video | William Amorim |
 
+{ .block-language-dataview}
 ***
 
 ## Tags
@@ -70,6 +71,7 @@ Gospel, gospel, Música gospel, Jornal do Maranhão, Betel, Maranhão, Notícias
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.\|+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.]]                                                   | Antiga estação ferroviária da REFFSA é inaugurada após restauração.                          | \-          |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.\|+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.]] | MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas. | \-          |
 
+{ .block-language-dataview}
 
 
 
