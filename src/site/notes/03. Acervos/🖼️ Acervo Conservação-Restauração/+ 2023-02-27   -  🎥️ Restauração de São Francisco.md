@@ -60,4 +60,5 @@ Source: Playlist: <a target='_blank' href='https://www.youtube.com/playlist?list
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauro do Pastor\|+ 2023-03-07   -  🎥️ Restauro do Pastor]]                                               | 2023-03-07 20:19 | 2023-03-08 13:06 | Levantamento TCC | video | Titina Corso |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauração\|+ 2023-03-07   -  🎥️ Restauração]]                                                             | 2023-03-07 20:10 | 2023-03-17 10:26 | Levantamento TCC | video | Titina Corso |
 
+{ .block-language-dataview}
 ***
