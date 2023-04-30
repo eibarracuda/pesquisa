@@ -47,6 +47,7 @@ Videos 360º: 0
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ---------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão]] | 2023-02-27 14:58 | 2023-03-17 10:28 | Levantamento TCC | video | Superior Tribunal de Justiça (STJ) |
 
+{ .block-language-dataview}
 ***
 
 ## Tags
@@ -59,6 +60,7 @@ stj, direito, tribunal, superior, justiça, lei, cidadania, judiciário, de, jur
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão]] | Conheça a arte da restauração de livros - STJ Cidadão | <ul><li>stj</li><li>superior</li><li>tribunal</li><li>justiça</li><li>cidadania</li><li>direito</li><li>judiciário</li><li>lei</li><li>cidadão</li><li>restauração</li><li>livro</li><li>biblioteca</li></ul> |
 
+{ .block-language-dataview}
 
 
 tipo:: #canalinstitucional/publico
