@@ -48,6 +48,7 @@ Videos 360º: 0
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | -------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte\|+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte]] | 2023-03-10 16:33 | 2023-03-17 10:26 | Levantamento TCC | video | Agência FAPESP |
 
+{ .block-language-dataview}
 ***
 
 ## Tags
@@ -60,6 +61,7 @@ FAPESP, pesquisa, fapesp, USP, coronavírus, Fundação de Amparo à Pesquisa do
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte\|+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte]] | Ciência e arte se aliam na restauração do quadro "Independência ou Morte" | <ul><li>pintura</li><li>museu</li><li>museudoipiraga</li><li>uso</li><li>restauro</li><li>restauração</li><li>pintor</li><li>pedroamérico</li><li>história</li><li>arte</li><li>art</li><li>brazilianart</li><li>artebrasileira</li><li>pesquisa</li><li>usp</li><li>sãopaulo</li><li>FAPESP</li></ul> |
 
+{ .block-language-dataview}
 
 
 tipo:: #canalinstitucional/publico
