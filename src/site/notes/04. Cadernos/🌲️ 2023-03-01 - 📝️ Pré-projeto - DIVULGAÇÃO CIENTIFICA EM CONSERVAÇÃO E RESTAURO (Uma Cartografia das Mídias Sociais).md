@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-03-01-pre-projeto-divulgacao-cientifica-em-conservacao-e-restauro-uma-cartografia-das-midias-sociais/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-01T12:50:03.527-03:00","updated":"2023-03-15T12:18:21.899-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-03-01-pre-projeto-divulgacao-cientifica-em-conservacao-e-restauro-uma-cartografia-das-midias-sociais/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-01T12:50:03.527-03:00","updated":"2023-04-26T11:03:21.104-03:00"}
 ---
 
 # 🌲️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)
@@ -10,6 +10,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[06. Jardinzin/Homepage\|Homepage]]<br><small>*Modificado em: 4:26 PM - March 15, 2023*</small> \| <small>Criado em: 9:04 AM - March 03, 2023</small> |
 
+{ .block-language-dataview}
 ***
 
 **Resumo**: Acompanhando o impacto positivo de comunicadores científicos em diversos campos do saber a partir da internet e das mídias sociais, essa pesquisa de viés exploratório busca investigar quem fala e como se fala de conservação e restauração no ciberespaço. Com ênfase no levantamento de dados e análise do discurso, investiga-se como ocorre a comunicação nas redes sobre um tema fundamental, mas atravessado de especificidades e jargões particulares, que eventualmente podem aumentar a distância entre pesquisadores e sociedade.
@@ -160,6 +161,7 @@ TAVARES, Denise; REZENDE, Renata(orgs.). **Mídias & Divulgação Científica**:
 | Arquivo | Criado em | Modificado em | Tags | Tema | Status |
 | ------- | --------- | ------------- | ---- | ---- | ------ |
 
+{ .block-language-dataview}
 
 
 ***
