@@ -48,6 +48,7 @@ Videos 360º: 0
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ---------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!\|+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!]] | 2023-02-27 15:30 | 2023-03-17 10:26 | Levantamento TCC | video | Tudor Brasil - Tudo Sobre História |
 
+{ .block-language-dataview}
 ***
 
 ## Tags
@@ -60,6 +61,7 @@ história, Bridgerton, Netflix, curiosidades, rainhas, Imperatriz Sissi, Elizabe
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!\|+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!]] | INCRÍVEL!!!! Restauração de uma pintura jacobina! | <ul><li>história</li><li>restauração de tela</li><li>jacobina</li><li>Inglaterra</li><li>Philip Mold</li><li>Tudor</li></ul> |
 
+{ .block-language-dataview}
 
 
 
