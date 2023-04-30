@@ -49,6 +49,7 @@ Videos 360º: 0
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.\|+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.]]     | 2023-03-10 16:24 | 2023-03-17 10:26 | Levantamento TCC | video | Arte da Restauração |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧\|+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧]] | 2023-03-10 16:21 | 2023-03-17 10:26 | Levantamento TCC | video | Arte da Restauração |
 
+{ .block-language-dataview}
 ***
 
 ## Tags
@@ -62,6 +63,7 @@ Restauração, GUCCI, ASMR, Relaxar, Som para dormir, Faça você mesmo, restaur
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.\|+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.]]     | Arte da Restauração em Arte na Motocicleta Soviética.   | <ul><li>Faça você mesmo</li><li>restauração</li><li>Dy</li><li>Motos</li><li>mecânica</li></ul>  |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧\|+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧]] | Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧 | <ul><li>Restauração</li><li>GUCCI</li><li>ASMR</li><li>Relaxar</li><li>Som para dormir</li></ul> |
 
+{ .block-language-dataview}
 
 
 
