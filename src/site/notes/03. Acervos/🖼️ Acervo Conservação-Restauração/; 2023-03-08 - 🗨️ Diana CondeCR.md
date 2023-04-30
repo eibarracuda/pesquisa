@@ -48,6 +48,7 @@ Videos 360º: 0
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish\|+ 2023-02-27   -  🎥️ Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish]] | 2023-02-27 15:01 | 2023-03-17 10:26 | Levantamento TCC | video | Diana CondeCR |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde\|+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde]]                                                                                     | 2023-03-08 16:42 | 2023-03-17 10:26 | Levantamento TCC | video | Diana CondeCR |
 
+{ .block-language-dataview}
 ***
 
 ## Tags
@@ -61,6 +62,7 @@ pintura, restauro, conservação e restauro de pintura, paintings restoration, v
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish\|+ 2023-02-27   -  🎥️ Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish]] | Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish | <ul><li>Restauro de pintura</li><li>limpeza de verniz</li><li>cleaning a painting</li><li>old varnish cleaning</li></ul>                    |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde\|+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde]]                                                                                     | Restauro de pintura- Diana Conde                                           | <ul><li>pintura</li><li>restauro</li><li>conservação e restauro de pintura</li><li>paintings restoration</li><li>varnish cleaning</li></ul> |
 
+{ .block-language-dataview}
 
 
 
