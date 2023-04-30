@@ -49,6 +49,7 @@ Videos 360º: 1
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra\|+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra]]                                   | 2023-02-27 15:08 | 2023-03-27 23:30 | Levantamento TCC | video | ministeriopublicosc |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC\|+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC]] | 2023-03-08 09:23 | 2023-03-08 13:08 | Levantamento TCC | video | ministeriopublicosc |
 
+{ .block-language-dataview}
 ***
 
 ## Tags
@@ -61,6 +62,7 @@ Ministério, Público, Santa, Catarina, Promotor, de, Justiça, MPSC, promotor d
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra\|+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra]]                                   | Como é feita a restauração de uma obra sacra?                 | Promotor,de,Justiça,Ministério,Público,Santa,Catarina,Restauração,Nossa senhora das dores,Garopaba,obra sacra,patrimônio histórico,arte sacra,Fundação catarinense de cultura,Atecor |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC\|+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC]] | Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC | <ul><li>MPSC</li><li>FRBL</li><li>promotor de justiça</li><li>adolfo mello</li><li>teatro</li></ul>                                                                                  |
 
+{ .block-language-dataview}
 
 
 tipo:: #canalinstitucional/publico
