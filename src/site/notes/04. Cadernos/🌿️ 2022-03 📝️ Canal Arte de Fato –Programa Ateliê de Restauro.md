@@ -10,6 +10,7 @@
 | Relacionados |
 | ------------ |
 
+{ .block-language-dataview}
 ***
 
 # 🌿️ 2022-03 📝️ Analise Canal Arte de Fato –Programa Ateliê de Restauro
