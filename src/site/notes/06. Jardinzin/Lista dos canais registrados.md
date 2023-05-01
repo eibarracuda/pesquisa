@@ -7,7 +7,6 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ Titina Corso\|; 2023-03-07 - 🗨️ Titina Corso]]                                                           | 8                                             |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Fundação Joaquim Nabuco\|; 2023-03-08 - 🗨️ Fundação Joaquim Nabuco]]                                     | 7                                             |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Unisul Universidade\|; 2023-03-02 - 🗨️ Unisul Universidade]]                                             | 6                                             |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ vivieuvi\|; 2023-03-02 - 🗨️ vivieuvi]]                                                                   | 4                                             |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ William Amorim\|; 2023-03-02 - 🗨️ William Amorim]]                                                       | 4                                             |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ MAS SP - Museu de Arte Sacra de São Paulo\|; 2023-03-08 - 🗨️ MAS SP - Museu de Arte Sacra de São Paulo]] | 4                                             |
@@ -21,8 +20,8 @@
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ TV Brasil\|; 2023-03-07 - 🗨️ TV Brasil]]                                                                 | 12                                            |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-09 - 🗨️ Câmara dos Deputados\|; 2023-03-09 - 🗨️ Câmara dos Deputados]]                                           | 12                                            |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Arte de fato\|; 2023-03-10 - 🗨️ Arte de fato]]                                                           | 12                                            |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Arte é Investimento\|; 2023-03-08 - 🗨️ Arte é Investimento]]                                             | 11                                            |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Ateliê, Arte e Restauração\|; 2023-03-08 - 🗨️ Ateliê, Arte e Restauração]]                               | 11                                            |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Arte é Investimento\|; 2023-03-08 - 🗨️ Arte é Investimento]]                                             | 11                                            |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Iolane Caron\|; 2023-03-08 - 🗨️ Iolane Caron]]                                                           | 10                                            |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-02-28   - 🗨️ EduardoProfHistória\|; 2023-02-28   - 🗨️ EduardoProfHistória]]                                         | 1                                             |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Rafael Albani\|; 2023-03-02 - 🗨️ Rafael Albani]]                                                         | 1                                             |
@@ -36,5 +35,6 @@
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Superior Tribunal de Justiça (STJ)\|; 2023-03-08 - 🗨️ Superior Tribunal de Justiça (STJ)]]               | 12                                            |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ CHCnaTV\|; 2023-03-10 - 🗨️ CHCnaTV]]                                                                     | 12                                            |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Eduardo Petrella\|; 2023-03-10 - 🗨️ Eduardo Petrella]]                                                   | 12                                            |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Unisul Universidade\|; 2023-03-02 - 🗨️ Unisul Universidade]]                                             | 6                                             |
 
 { .block-language-dataview}
