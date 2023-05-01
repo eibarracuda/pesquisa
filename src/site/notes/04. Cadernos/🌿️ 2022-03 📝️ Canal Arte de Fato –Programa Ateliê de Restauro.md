@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2022-03-canal-arte-de-fato-programa-atelie-de-restauro/","tags":["🧠️/📝️/🌿️"],"created":"2023-03-14T17:54:18.030-03:00","updated":"2023-03-14T19:30:14.807-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-03-canal-arte-de-fato-programa-atelie-de-restauro/","tags":["🧠️/📝️/🌿️"],"created":"2023-03-14T17:54:18.030-03:00","updated":"2023-05-01T19:48:28.708-03:00"}
 ---
 
 
@@ -138,11 +138,3 @@ Especialização em Divulgação e Popularização da Ciência – Casa Oswaldo 
 
 • Pesquisa no *google forms* sobre quais assuntos abordar no canal.
 
-### Outras notas nessa mesma fase de desenvolvimento ou com as mesmas palavras chaves
-````` dataview
-table created AS "Criado em", tags AS "Tags", tema AS "Tema", keywords, status AS "Status"
-from ""
-where contains(tags, "#cuidardelivros,#amolivro,#cuidadoscomlivros,#cuidadoscombibioteca,#livros,#biblioteca,#livrosmofados,#bolor,#papelreciclado,#papelartesanal,#papelfeitoamao`") OR contains(canal, "Arte de Fato") and folhan != "FN-5"
-``````
-
-***
