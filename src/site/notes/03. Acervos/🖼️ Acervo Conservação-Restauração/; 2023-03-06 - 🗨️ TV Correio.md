@@ -45,7 +45,7 @@ Vídeos 3D: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                                                                                | Criado em        | Modificado       | Tema             | Tipo  | Canal      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ---------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves\|+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves]] | 2023-03-06 16:30 | 2023-05-01 20:40 | Levantamento TCC | video | TV Correio |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves\|+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves]] | 2023-03-06 16:30 | 2023-05-01 20:50 | Levantamento TCC | video | TV Correio |
 
 { .block-language-dataview}
 ***
