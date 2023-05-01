@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-03-11-os-dados-do-youtube/","tags":["🧠️/📝️/🌱️"],"created":"2023-03-11T13:53:43.146-03:00","updated":"2023-05-01T19:42:38.852-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-03-11-os-dados-do-youtube/","tags":["🧠️/📝️/🌱️"],"created":"2023-03-11T13:53:43.146-03:00","updated":"2023-05-01T19:43:08.867-03:00"}
 ---
 
 
