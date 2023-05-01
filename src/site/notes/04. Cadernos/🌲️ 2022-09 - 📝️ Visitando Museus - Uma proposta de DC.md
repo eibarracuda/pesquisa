@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2022-09-visitando-museus-uma-proposta-de-dc/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-15T08:48:38.936-03:00","updated":"2023-04-26T11:12:08.861-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-09-visitando-museus-uma-proposta-de-dc/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-15T08:48:38.936-03:00","updated":"2023-05-01T19:56:37.934-03:00"}
 ---
 
 
@@ -94,7 +94,6 @@ Contamos com uma boa parcela de divulgação orgânica nas redes sociais, por in
 <br>
 
 
-<iframe src="https://www.instagram.com/visit_museus/"  width="700" height="300"></iframe>
 
 ## Bibliografia 
 
