@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-03-01-pre-projeto-divulgacao-cientifica-em-conservacao-e-restauro-uma-cartografia-das-midias-sociais/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-01T12:50:03.527-03:00","updated":"2023-04-26T11:03:21.104-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-03-01-pre-projeto-divulgacao-cientifica-em-conservacao-e-restauro-uma-cartografia-das-midias-sociais/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-01T12:50:03.527-03:00","updated":"2023-05-01T19:21:07.130-03:00"}
 ---
 
 # 🌲️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)
