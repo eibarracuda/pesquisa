@@ -46,8 +46,8 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                            | Criado em        | Modificado       | Tema             | Tipo  | Canal               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.\|+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.]]     | 2023-03-10 16:24 | 2023-05-01 20:40 | Levantamento TCC | video | Arte da Restauração |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧\|+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧]] | 2023-03-10 16:21 | 2023-05-01 20:40 | Levantamento TCC | video | Arte da Restauração |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.\|+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.]]     | 2023-03-10 16:24 | 2023-05-01 20:50 | Levantamento TCC | video | Arte da Restauração |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧\|+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧]] | 2023-03-10 16:21 | 2023-05-01 20:50 | Levantamento TCC | video | Arte da Restauração |
 
 { .block-language-dataview}
 ***
