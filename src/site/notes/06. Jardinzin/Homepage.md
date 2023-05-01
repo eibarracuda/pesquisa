@@ -31,10 +31,10 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 ## Ultimas publicações:
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Conversas MAS  Restauro de Materiais Vítreos Porcelana, Faianças e Azulejos\|+ 2023-03-08   -  🎥️ Conversas MAS  Restauro de Materiais Vítreos Porcelana, Faianças e Azulejos]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!\|+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauração de Santo Antonio\|+ 2023-03-08   -  🎥️ Restauração de Santo Antonio]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-09   -  🎥️ Kintsugi, técnica japonesa de restauração de cerâmicas e porcelanas - Paulo Hatanaka.\|+ 2023-03-09   -  🎥️ Kintsugi, técnica japonesa de restauração de cerâmicas e porcelanas - Paulo Hatanaka.]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-09   -  🎥️ Muro Escultórico passa por restauração e higienização - Obra de Athos Bulcão - 260123\|+ 2023-03-09   -  🎥️ Muro Escultórico passa por restauração e higienização - Obra de Athos Bulcão - 260123]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123\|+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123]]
 
 { .block-language-dataview}
 
