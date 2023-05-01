@@ -30,11 +30,11 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 
 ## Ultimas publicações:
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-06 - 🗨️ TV Correio\|; 2023-03-06 - 🗨️ TV Correio]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-02-28   - 🗨️ EduardoProfHistória\|; 2023-02-28   - 🗨️ EduardoProfHistória]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Unisul Universidade\|; 2023-03-02 - 🗨️ Unisul Universidade]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ MAS SP - Museu de Arte Sacra de São Paulo\|; 2023-03-08 - 🗨️ MAS SP - Museu de Arte Sacra de São Paulo]]
 - [[04. Cadernos/🌲️ 2022-09 - 📝️ Visitando Museus - Uma proposta de DC\|🌲️ 2022-09 - 📝️ Visitando Museus - Uma proposta de DC]]
-- [[04. Cadernos/🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro\|🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro]]
-- [[04. Cadernos/🌲️ 2022-05 - 📝️ Discussões - Princípios da Divulgação Cientifica\|🌲️ 2022-05 - 📝️ Discussões - Princípios da Divulgação Cientifica]]
-- [[04. Cadernos/🌱️ 2023-03-11 - 📝️ Os dados do youtube\|🌱️ 2023-03-11 - 📝️ Os dados do youtube]]
 
 { .block-language-dataview}
 
