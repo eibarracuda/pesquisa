@@ -30,11 +30,11 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 
 ## Ultimas publicações:
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-06 - 🗨️ TV Correio\|; 2023-03-06 - 🗨️ TV Correio]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-02-28   - 🗨️ EduardoProfHistória\|; 2023-02-28   - 🗨️ EduardoProfHistória]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Unisul Universidade\|; 2023-03-02 - 🗨️ Unisul Universidade]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ MAS SP - Museu de Arte Sacra de São Paulo\|; 2023-03-08 - 🗨️ MAS SP - Museu de Arte Sacra de São Paulo]]
-- [[04. Cadernos/🌲️ 2022-09 - 📝️ Visitando Museus - Uma proposta de DC\|🌲️ 2022-09 - 📝️ Visitando Museus - Uma proposta de DC]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte e a ciência da restauração\|+ 2023-02-27   -  🎥️ A arte e a ciência da restauração]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Arte Faz Parte - Restauro e conservação de obras de artes\|+ 2023-02-27   -  🎥️ Arte Faz Parte - Restauro e conservação de obras de artes]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra\|+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Mais um restauro desastroso - Vivi Arte News VIVIEUVI\|+ 2023-03-02   -  🎥️ Mais um restauro desastroso - Vivi Arte News VIVIEUVI]]
 
 { .block-language-dataview}
 
