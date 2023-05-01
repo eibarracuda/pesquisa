@@ -46,7 +46,7 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ---------------------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!\|+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!]] | 2023-02-27 15:30 | 2023-03-17 10:26 | Levantamento TCC | video | Tudor Brasil - Tudo Sobre História |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!\|+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!]] | 2023-02-27 15:30 | 2023-05-01 20:40 | Levantamento TCC | video | Tudor Brasil - Tudo Sobre História |
 
 { .block-language-dataview}
 ***
