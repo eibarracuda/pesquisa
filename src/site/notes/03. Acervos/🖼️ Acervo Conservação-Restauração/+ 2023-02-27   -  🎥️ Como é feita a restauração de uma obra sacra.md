@@ -56,7 +56,7 @@ Source: Playlist: <a target='_blank' href='https://www.youtube.com/playlist?list
 #### Relacionados:
 | Arquivo                                                                                                                                                                                                                        | Criado em        | Modificado       | Tema             | Tipo  | Canal               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC\|+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC]] | 2023-03-08 09:23 | 2023-05-01 20:40 | Levantamento TCC | video | ministeriopublicosc |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC\|+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC]] | 2023-03-08 09:23 | 2023-05-01 20:50 | Levantamento TCC | video | ministeriopublicosc |
 
 { .block-language-dataview}
 ***
