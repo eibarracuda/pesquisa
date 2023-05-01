@@ -1,17 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2022-05-discussoes-principios-da-divulgacao-cientifica/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-14T17:30:42.294-03:00","updated":"2023-05-01T19:52:08.358-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-05-discussoes-principios-da-divulgacao-cientifica/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-14T17:30:42.294-03:00","updated":"2023-05-01T20:01:01.315-03:00"}
 ---
 
 
 
 
-
-***
-| Relacionados |
-| ------------ |
-
-{ .block-language-dataview}
-***
 
 # 🌲️ 2022-05 - 📝️ Discussões - Princípios da Divulgação Cientifica
 Trabalho final da disciplina de Princípios da Divulgação Cientifica
@@ -67,7 +60,7 @@ SCHEUFELE, D & KRAUSEA, N. Science audiences, misinformation, and fake news. PNA
 ``` dataview
 table created AS "Criado em", tags AS "Tags", tema AS "Tema", keywords, status AS "Status"
 from ""
-where contains(keywords, "Divulgação Cientifica") and folhan != "FN-4"
+where contains(keywords, "Divulgação") and folhan != "FN-4"
 ```
 
 ***
