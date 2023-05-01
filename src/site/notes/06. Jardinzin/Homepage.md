@@ -30,11 +30,11 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 
 ## Ultimas publicações:
+- [[04. Cadernos/🌱️ 2023-03-11 - 📝️ Os dados do youtube\|🌱️ 2023-03-11 - 📝️ Os dados do youtube]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Unisul Universidade\|; 2023-03-02 - 🗨️ Unisul Universidade]]
 - [[04. Cadernos/🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)\|🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)]]
 - [[03. Acervos/📺/📺 Beef (2023–)\|📺 Beef (2023–)]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Unisul Universidade\|; 2023-03-02 - 🗨️ Unisul Universidade]]
 - [[04. Cadernos/🌲️ 2022-09 - 📝️ Visitando Museus - Uma proposta de DC\|🌲️ 2022-09 - 📝️ Visitando Museus - Uma proposta de DC]]
-- [[04. Cadernos/🌲️ 2022-05 - 📝️ Discussões - Princípios da Divulgação Cientifica\|🌲️ 2022-05 - 📝️ Discussões - Princípios da Divulgação Cientifica]]
 
 { .block-language-dataview}
 
