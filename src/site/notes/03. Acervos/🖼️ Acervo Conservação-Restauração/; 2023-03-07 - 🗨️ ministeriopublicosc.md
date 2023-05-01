@@ -47,7 +47,7 @@ Videos 360º: 1
 | Arquivo                                                                                                                                                                                                                        | Criado em        | Modificado       | Tema             | Tipo  | Canal               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra\|+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra]]                                   | 2023-02-27 15:08 | 2023-05-01 20:40 | Levantamento TCC | video | ministeriopublicosc |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC\|+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC]] | 2023-03-08 09:23 | 2023-05-01 20:40 | Levantamento TCC | video | ministeriopublicosc |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC\|+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC]] | 2023-03-08 09:23 | 2023-05-01 20:50 | Levantamento TCC | video | ministeriopublicosc |
 
 { .block-language-dataview}
 ***
