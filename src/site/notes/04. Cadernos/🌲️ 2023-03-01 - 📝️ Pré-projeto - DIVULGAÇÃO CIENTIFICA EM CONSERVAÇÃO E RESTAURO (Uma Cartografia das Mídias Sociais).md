@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-03-01-pre-projeto-divulgacao-cientifica-em-conservacao-e-restauro-uma-cartografia-das-midias-sociais/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-01T12:50:03.527-03:00","updated":"2023-05-01T19:40:05.960-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-03-01-pre-projeto-divulgacao-cientifica-em-conservacao-e-restauro-uma-cartografia-das-midias-sociais/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-01T12:50:03.527-03:00","updated":"2023-05-01T19:41:14.363-03:00"}
 ---
 
 # 🌲️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)
@@ -334,7 +334,7 @@ TAVARES, Denise; REZENDE, Renata(orgs.). **Mídias & Divulgação Científica**:
 | [[04. Cadernos/🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro\|🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro]]                                                                                                                                                         | 2023-03-14 17:55 | 2023-03-14 19:30 | 🧠️/📝️/🌿️ | TCC              | 🟩️    |
 | [[04. Cadernos/🌿️ 2023-03-17 - 📝️ Canais conrest\|🌿️ 2023-03-17 - 📝️ Canais conrest]]                                                                                                                                                                                                                 | 2023-03-17 13:41 | 2023-04-26 11:12 | 🧠️/📝️/    | TCC              | 🟥     |
 | [[04. Cadernos/🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos\|🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos]]                                                                                                       | 2023-03-14 15:35 | 2023-04-26 11:11 | 🧠️/📝️/🌲️ | TCC              | 🟩️    |
-| [[04. Cadernos/🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)\|🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)]]                                         | 2022-02-08 12:53 | 2023-05-01 19:21 | 🧠️/📝️/🌲️ | TCC              | 🟩️    |
+| [[04. Cadernos/🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)\|🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)]]                                         | 2022-02-08 12:53 | 2023-05-01 19:41 | 🧠️/📝️/🌲️ | TCC              | 🟩️    |
 
 { .block-language-dataview}
 
