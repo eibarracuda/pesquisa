@@ -45,7 +45,7 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                        | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ---------------------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão]] | 2023-02-27 14:58 | 2023-05-01 20:40 | Levantamento TCC | video | Superior Tribunal de Justiça (STJ) |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão]] | 2023-02-27 14:58 | 2023-05-01 20:50 | Levantamento TCC | video | Superior Tribunal de Justiça (STJ) |
 
 { .block-language-dataview}
 ***
