@@ -1,17 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2022-03-canal-arte-de-fato-programa-atelie-de-restauro/","tags":["🧠️/📝️/🌿️"],"created":"2023-03-14T17:54:18.030-03:00","updated":"2023-05-01T19:48:28.708-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-03-canal-arte-de-fato-programa-atelie-de-restauro/","tags":["🧠️/📝️/🌿️"],"created":"2023-03-14T17:54:18.030-03:00","updated":"2023-05-01T20:04:15.227-03:00"}
 ---
 
 
 
 
 
-***
-| Relacionados |
-| ------------ |
 
-{ .block-language-dataview}
-***
 
 # 🌿️ 2022-03 📝️ Analise Canal Arte de Fato –Programa Ateliê de Restauro
 <small>03/2022</small>
