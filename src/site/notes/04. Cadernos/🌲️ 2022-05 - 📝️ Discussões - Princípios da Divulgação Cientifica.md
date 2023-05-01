@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2022-05-discussoes-principios-da-divulgacao-cientifica/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-14T17:30:42.294-03:00","updated":"2023-04-26T11:11:28.471-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-05-discussoes-principios-da-divulgacao-cientifica/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-14T17:30:42.294-03:00","updated":"2023-05-01T19:52:08.358-03:00"}
 ---
 
 
@@ -64,11 +64,11 @@ SCHEUFELE, D & KRAUSEA, N. Science audiences, misinformation, and fake news. PNA
 
 
 ### Outras notas nessa mesma fase de desenvolvimento ou com as mesmas palavras chaves
-````` dataview
+``` dataview
 table created AS "Criado em", tags AS "Tags", tema AS "Tema", keywords, status AS "Status"
 from ""
-where contains(tags, "`") OR contains(keywords, "Divulgação Cientifica") and folhan != "FN-4"
-``````
+where contains(keywords, "Divulgação Cientifica") and folhan != "FN-4"
+```
 
 ***
 
