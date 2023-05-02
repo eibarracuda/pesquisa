@@ -46,7 +46,7 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                                                            | Criado em        | Modificado       | Tema             | Tipo  | Canal          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | -------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte\|+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte]] | 2023-03-10 16:33 | 2023-05-01 21:26 | Levantamento TCC | video | Agência FAPESP |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte\|+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte]] | 2023-03-10 16:33 | 2023-05-01 21:43 | Levantamento TCC | video | Agência FAPESP |
 
 { .block-language-dataview}
 ***
