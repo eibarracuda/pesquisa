@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-06-tv-correio/","tags":["🖼️/🗨️"],"created":"2023-03-06T15:50:33.218-03:00","updated":"2023-05-01T20:25:01.135-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-06-tv-correio/","tags":["🖼️/🗨️"],"created":"2023-03-06T15:50:33.218-03:00","updated":"2023-05-01T21:22:14.587-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -45,7 +45,7 @@ Vídeos 3D: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                                                                                | Criado em        | Modificado       | Tema             | Tipo  | Canal      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ---------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves\|+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves]] | 2023-03-06 16:30 | 2023-05-01 20:50 | Levantamento TCC | video | TV Correio |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves\|+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves]] | 2023-03-06 16:30 | 2023-05-01 21:26 | Levantamento TCC | video | TV Correio |
 
 { .block-language-dataview}
 ***
