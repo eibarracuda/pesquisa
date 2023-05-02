@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-arte-da-restauracao/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:13:04.160-03:00","updated":"2023-03-17T10:28:11.444-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-arte-da-restauracao/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:13:04.160-03:00","updated":"2023-05-01T21:22:13.330-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -46,8 +46,8 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                            | Criado em        | Modificado       | Tema             | Tipo  | Canal               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.\|+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.]]     | 2023-03-10 16:24 | 2023-05-01 20:50 | Levantamento TCC | video | Arte da Restauração |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧\|+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧]] | 2023-03-10 16:21 | 2023-05-01 20:50 | Levantamento TCC | video | Arte da Restauração |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.\|+ 2023-03-10   -  🎥️ Arte da Restauração em Arte na Motocicleta Soviética.]]     | 2023-03-10 16:24 | 2023-05-01 21:26 | Levantamento TCC | video | Arte da Restauração |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧\|+ 2023-03-10   -  🎥️ Restauração Sapato Gucci de $1.000 + o Calmante ASMR 🎧]] | 2023-03-10 16:21 | 2023-05-01 21:26 | Levantamento TCC | video | Arte da Restauração |
 
 { .block-language-dataview}
 ***
