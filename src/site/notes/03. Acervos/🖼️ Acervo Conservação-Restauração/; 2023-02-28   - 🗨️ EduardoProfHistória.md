@@ -58,7 +58,7 @@ História, Educação, EduardoProfHistória, Motivação, Vida, Ciências Sociai
 #### Videos deste canal:
 | Arquivo                                                                                                                                                              | Criado em        | Modificado       | Tema             | Tipo  | Canal               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]] | 2023-02-27 14:29 | 2023-05-01 21:20 | Levantamento TCC | video | EduardoProfHistória |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]] | 2023-02-27 14:29 | 2023-05-01 21:49 | Levantamento TCC | video | EduardoProfHistória |
 
 { .block-language-dataview}
 ***
