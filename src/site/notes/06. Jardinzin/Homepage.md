@@ -30,11 +30,11 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 
 ## Ultimas publicações:
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte e a ciência da restauração\|+ 2023-02-27   -  🎥️ A arte e a ciência da restauração]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Iolane Caron\|; 2023-03-08 - 🗨️ Iolane Caron]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Mais um restauro desastroso - Vivi Arte News VIVIEUVI\|+ 2023-03-02   -  🎥️ Mais um restauro desastroso - Vivi Arte News VIVIEUVI]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauração Arte Sacra TCC Templo da Arte\|+ 2023-03-07   -  🎥️ Restauração Arte Sacra TCC Templo da Arte]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Conversas MAS  Restauro de Materiais Vítreos Porcelana, Faianças e Azulejos\|+ 2023-03-08   -  🎥️ Conversas MAS  Restauro de Materiais Vítreos Porcelana, Faianças e Azulejos]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!\|+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!]]
 
 { .block-language-dataview}
 
