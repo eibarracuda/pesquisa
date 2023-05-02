@@ -46,7 +46,7 @@ Videos 360º: 0
 | Arquivo                                                                                                                                                                                                                                                  | Criado em        | Modificado       | Tema             | Tipo  | Canal         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish\|+ 2023-02-27   -  🎥️ Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish]] | 2023-02-27 15:01 | 2023-05-01 21:49 | Levantamento TCC | video | Diana CondeCR |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde\|+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde]]                                                                                     | 2023-03-08 16:42 | 2023-05-01 21:43 | Levantamento TCC | video | Diana CondeCR |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde\|+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde]]                                                                                     | 2023-03-08 16:42 | 2023-05-01 21:53 | Levantamento TCC | video | Diana CondeCR |
 
 { .block-language-dataview}
 ***
