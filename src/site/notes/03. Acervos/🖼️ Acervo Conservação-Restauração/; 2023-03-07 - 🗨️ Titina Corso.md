@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-titina-corso/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:46:06.902-03:00","updated":"2023-03-17T10:28:12.996-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-titina-corso/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:46:06.902-03:00","updated":"2023-05-01T21:20:25.582-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -47,14 +47,14 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                | Criado em        | Modificado       | Tema             | Tipo  | Canal        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ------------ |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Restauração de São Francisco\|+ 2023-02-27   -  🎥️ Restauração de São Francisco]]                           | 2023-02-27 15:29 | 2023-03-17 14:04 | Levantamento TCC | video | Titina Corso |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restaurando São Ciro\|+ 2023-03-07   -  🎥️ Restaurando São Ciro]]                                           | 2023-03-07 20:18 | 2023-05-01 20:50 | Levantamento TCC | video | Titina Corso |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauração Arte Sacra TCC Templo da Arte\|+ 2023-03-07   -  🎥️ Restauração Arte Sacra TCC Templo da Arte]] | 2023-03-07 20:13 | 2023-05-01 20:50 | Levantamento TCC | video | Titina Corso |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauração do Santo Ivo\|+ 2023-03-07   -  🎥️ Restauração do Santo Ivo]]                                   | 2023-03-07 20:23 | 2023-05-01 20:52 | Levantamento TCC | video | Titina Corso |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauração\|+ 2023-03-07   -  🎥️ Restauração]]                                                             | 2023-03-07 20:10 | 2023-05-01 20:52 | Levantamento TCC | video | Titina Corso |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauro do Menino Jesus II\|+ 2023-03-07   -  🎥️ Restauro do Menino Jesus II]]                             | 2023-03-07 20:24 | 2023-05-01 20:52 | Levantamento TCC | video | Titina Corso |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauro do Menino Jesus\|+ 2023-03-07   -  🎥️ Restauro do Menino Jesus]]                                   | 2023-03-07 20:30 | 2023-05-01 20:52 | Levantamento TCC | video | Titina Corso |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauro do Pastor\|+ 2023-03-07   -  🎥️ Restauro do Pastor]]                                               | 2023-03-07 20:19 | 2023-05-01 20:52 | Levantamento TCC | video | Titina Corso |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Restauração de São Francisco\|+ 2023-02-27   -  🎥️ Restauração de São Francisco]]                           | 2023-02-27 15:29 | 2023-05-01 21:23 | Levantamento TCC | video | Titina Corso |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restaurando São Ciro\|+ 2023-03-07   -  🎥️ Restaurando São Ciro]]                                           | 2023-03-07 20:18 | 2023-05-01 21:26 | Levantamento TCC | video | Titina Corso |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauração Arte Sacra TCC Templo da Arte\|+ 2023-03-07   -  🎥️ Restauração Arte Sacra TCC Templo da Arte]] | 2023-03-07 20:13 | 2023-05-01 21:23 | Levantamento TCC | video | Titina Corso |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauração do Santo Ivo\|+ 2023-03-07   -  🎥️ Restauração do Santo Ivo]]                                   | 2023-03-07 20:23 | 2023-05-01 21:26 | Levantamento TCC | video | Titina Corso |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauração\|+ 2023-03-07   -  🎥️ Restauração]]                                                             | 2023-03-07 20:10 | 2023-05-01 21:23 | Levantamento TCC | video | Titina Corso |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauro do Menino Jesus II\|+ 2023-03-07   -  🎥️ Restauro do Menino Jesus II]]                             | 2023-03-07 20:24 | 2023-05-01 21:26 | Levantamento TCC | video | Titina Corso |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauro do Menino Jesus\|+ 2023-03-07   -  🎥️ Restauro do Menino Jesus]]                                   | 2023-03-07 20:30 | 2023-05-01 21:23 | Levantamento TCC | video | Titina Corso |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauro do Pastor\|+ 2023-03-07   -  🎥️ Restauro do Pastor]]                                               | 2023-03-07 20:19 | 2023-05-01 21:24 | Levantamento TCC | video | Titina Corso |
 
 { .block-language-dataview}
 ***
