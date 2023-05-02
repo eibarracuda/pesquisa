@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-agencia-fapesp/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:25:50.744-03:00","updated":"2023-03-17T10:26:36.945-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-agencia-fapesp/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:25:50.744-03:00","updated":"2023-05-01T21:22:13.487-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -46,7 +46,7 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                                                            | Criado em        | Modificado       | Tema             | Tipo  | Canal          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | -------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte\|+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte]] | 2023-03-10 16:33 | 2023-05-01 20:50 | Levantamento TCC | video | Agência FAPESP |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte\|+ 2023-03-10   -  🎥️ Ciência e arte se aliam na restauração do quadro Independência ou Morte]] | 2023-03-10 16:33 | 2023-05-01 21:26 | Levantamento TCC | video | Agência FAPESP |
 
 { .block-language-dataview}
 ***
