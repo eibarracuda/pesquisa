@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-stellantis-south-america/","tags":["🖼️/🗨️"],"created":"2023-03-07T20:34:57.230-03:00","updated":"2023-03-17T10:28:13.426-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-stellantis-south-america/","tags":["🖼️/🗨️"],"created":"2023-03-07T20:34:57.230-03:00","updated":"2023-05-01T21:20:25.566-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -45,8 +45,8 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                                                                                        | Criado em        | Modificado       | Tema             | Tipo  | Canal                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ------------------------ |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Exposição Aleijadinho, arte revelada o legado de um restauro, na Casa Fiat de Cultura\|+ 2023-02-27   -  🎥️ Exposição Aleijadinho, arte revelada o legado de um restauro, na Casa Fiat de Cultura]] | 2023-03-07 20:33 | 2023-05-01 20:50 | Levantamento TCC | video | Stellantis South America |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Aleijadinho, arte revelada o legado de um restauro\|+ 2023-03-07   -  🎥️ Aleijadinho, arte revelada o legado de um restauro]]                                                                       | 2023-03-07 20:50 | 2023-05-01 20:47 | Levantamento TCC | video | Stellantis South America |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Exposição Aleijadinho, arte revelada o legado de um restauro, na Casa Fiat de Cultura\|+ 2023-02-27   -  🎥️ Exposição Aleijadinho, arte revelada o legado de um restauro, na Casa Fiat de Cultura]] | 2023-03-07 20:33 | 2023-05-01 21:26 | Levantamento TCC | video | Stellantis South America |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Aleijadinho, arte revelada o legado de um restauro\|+ 2023-03-07   -  🎥️ Aleijadinho, arte revelada o legado de um restauro]]                                                                       | 2023-03-07 20:50 | 2023-05-01 21:23 | Levantamento TCC | video | Stellantis South America |
 
 { .block-language-dataview}
 ***
