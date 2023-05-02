@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-como-e-feita-a-restauracao-de-uma-obra-sacra/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:08:10.977-03:00","updated":"2023-05-01T20:40:18.057-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-como-e-feita-a-restauracao-de-uma-obra-sacra/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:08:10.977-03:00","updated":"2023-05-01T21:26:11.854-03:00"}
 ---
 
 Profissionais:: Marcelino Correia, Karen Kremer
@@ -56,7 +56,7 @@ Source: Playlist: <a target='_blank' href='https://www.youtube.com/playlist?list
 #### Relacionados:
 | Arquivo                                                                                                                                                                                                                        | Criado em        | Modificado       | Tema             | Tipo  | Canal               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC\|+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC]] | 2023-03-08 09:23 | 2023-05-01 20:50 | Levantamento TCC | video | ministeriopublicosc |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC\|+ 2023-03-08   -  🎥️ Teatro Adolfo Mello é restaurado com recursos do FRBL do MPSC]] | 2023-03-08 09:23 | 2023-05-01 21:23 | Levantamento TCC | video | ministeriopublicosc |
 
 { .block-language-dataview}
 ***
