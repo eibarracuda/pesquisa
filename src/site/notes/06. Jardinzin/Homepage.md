@@ -30,11 +30,11 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 
 ## Ultimas publicações:
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Rafael Albani\|; 2023-03-02 - 🗨️ Rafael Albani]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-06 - 🗨️ TVUNIMEP\|; 2023-03-06 - 🗨️ TVUNIMEP]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte e a ciência da restauração\|+ 2023-02-27   -  🎥️ A arte e a ciência da restauração]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Arte Faz Parte - Restauro e conservação de obras de artes\|+ 2023-02-27   -  🎥️ Arte Faz Parte - Restauro e conservação de obras de artes]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra\|+ 2023-02-27   -  🎥️ Como é feita a restauração de uma obra sacra]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!\|+ 2023-03-08   -  🎥️ Restaurarando Uma PINTURA de Gesso!!]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123\|+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123]]
 
 { .block-language-dataview}
 
