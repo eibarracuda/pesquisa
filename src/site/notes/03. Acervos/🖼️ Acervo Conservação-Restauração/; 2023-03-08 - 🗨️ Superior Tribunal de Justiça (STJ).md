@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-superior-tribunal-de-justica-stj/","tags":["🖼️/🗨️"],"created":"2023-03-08T19:16:18.086-03:00","updated":"2023-03-17T10:28:11.617-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-superior-tribunal-de-justica-stj/","tags":["🖼️/🗨️"],"created":"2023-03-08T19:16:18.086-03:00","updated":"2023-05-01T21:22:14.434-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -45,7 +45,7 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                        | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ---------------------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão]] | 2023-02-27 14:58 | 2023-05-01 20:50 | Levantamento TCC | video | Superior Tribunal de Justiça (STJ) |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de livros - STJ Cidadão]] | 2023-02-27 14:58 | 2023-05-01 21:26 | Levantamento TCC | video | Superior Tribunal de Justiça (STJ) |
 
 { .block-language-dataview}
 ***
