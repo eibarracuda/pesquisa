@@ -30,11 +30,11 @@ Este site está em constante processo de construção. por isso uso um sistema d
 
 
 ## Ultimas publicações:
+- [[04. Cadernos/🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)\|🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Arte Faz Parte - Restauro e conservação de obras de artes\|+ 2023-02-27   -  🎥️ Arte Faz Parte - Restauro e conservação de obras de artes]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte e a ciência da restauração\|+ 2023-02-27   -  🎥️ A arte e a ciência da restauração]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Iolane Caron\|; 2023-03-08 - 🗨️ Iolane Caron]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Mais um restauro desastroso - Vivi Arte News VIVIEUVI\|+ 2023-03-02   -  🎥️ Mais um restauro desastroso - Vivi Arte News VIVIEUVI]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauração Arte Sacra TCC Templo da Arte\|+ 2023-03-07   -  🎥️ Restauração Arte Sacra TCC Templo da Arte]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Conversas MAS  Restauro de Materiais Vítreos Porcelana, Faianças e Azulejos\|+ 2023-03-08   -  🎥️ Conversas MAS  Restauro de Materiais Vítreos Porcelana, Faianças e Azulejos]]
 
 { .block-language-dataview}
 
