@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-tudor-brasil/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:36:15.610-03:00","updated":"2023-03-17T10:26:36.922-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-tudor-brasil/","tags":["🖼️/🗨️"],"created":"2023-03-07T19:36:15.610-03:00","updated":"2023-05-01T21:20:25.617-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -46,7 +46,7 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ---------------------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!\|+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!]] | 2023-02-27 15:30 | 2023-05-01 20:50 | Levantamento TCC | video | Tudor Brasil - Tudo Sobre História |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!\|+ 2023-02-27   -  🎥️ INCRÍVEL!!!! Restauração de uma pintura jacobina!]] | 2023-02-27 15:30 | 2023-05-01 21:26 | Levantamento TCC | video | Tudor Brasil - Tudo Sobre História |
 
 { .block-language-dataview}
 ***
