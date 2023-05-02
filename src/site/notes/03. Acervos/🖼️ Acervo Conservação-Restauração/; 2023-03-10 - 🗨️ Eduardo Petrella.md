@@ -46,7 +46,7 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                    | Criado em        | Modificado       | Tema             | Tipo  | Canal            |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ---------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO\|+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO]] | 2023-02-27 14:49 | 2023-05-01 21:26 | Levantamento TCC | video | Eduardo Petrella |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO\|+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO]] | 2023-02-27 14:49 | 2023-05-01 21:41 | Levantamento TCC | video | Eduardo Petrella |
 
 { .block-language-dataview}
 ***
