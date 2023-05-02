@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-arte-faz-parte-restauro-e-conservacao-de-obras-de-artes/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:33:51.055-03:00","updated":"2023-05-01T21:49:08.299-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-arte-faz-parte-restauro-e-conservacao-de-obras-de-artes/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:33:51.055-03:00","updated":"2023-05-02T13:25:20.542-03:00"}
 ---
 
 
@@ -48,8 +48,9 @@ Source: Playlist: <a target='_blank' href='https://www.youtube.com/playlist?list
 
 ***
 #### Relacionados:
-| Arquivo | Criado em | Modificado | Tema | Tipo | Canal |
-| ------- | --------- | ---------- | ---- | ---- | ----- |
+| Arquivo                                                                                                                                                                                                                | Criado em        | Modificado       | Tema             | Tipo  | Canal    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | -------- |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Arte Faz Parte - Restauro e conservação de obras de artes\|+ 2023-02-27   -  🎥️ Arte Faz Parte - Restauro e conservação de obras de artes]] | 2023-02-27 15:34 | 2023-05-02 13:25 | Levantamento TCC | video | TVUNIMEP |
 
 { .block-language-dataview}
 ***
