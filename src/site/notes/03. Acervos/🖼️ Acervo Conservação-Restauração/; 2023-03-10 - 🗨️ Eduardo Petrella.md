@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-eduardo-petrella/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:45:20.248-03:00","updated":"2023-03-17T10:26:36.835-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-eduardo-petrella/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:45:20.248-03:00","updated":"2023-05-01T21:22:12.858-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -46,7 +46,7 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                    | Criado em        | Modificado       | Tema             | Tipo  | Canal            |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ---------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO\|+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO]] | 2023-02-27 14:49 | 2023-05-01 20:47 | Levantamento TCC | video | Eduardo Petrella |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO\|+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO]] | 2023-02-27 14:49 | 2023-05-01 21:26 | Levantamento TCC | video | Eduardo Petrella |
 
 { .block-language-dataview}
 ***
