@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-a-arte-e-a-ciencia-da-restauracao/","tags":["🖼️/🎥️"],"created":"2023-02-27T14:43:38.174-03:00","updated":"2023-05-01T21:49:06.836-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-a-arte-e-a-ciencia-da-restauracao/","tags":["🖼️/🎥️"],"created":"2023-02-27T14:43:38.174-03:00","updated":"2023-05-02T12:04:37.335-03:00"}
 ---
 
 
@@ -56,10 +56,7 @@ Source: Playlist: <a target='_blank' href='https://www.youtube.com/playlist?list
 
 ***
 #### Relacionados:
-| Arquivo | Criado em | Modificado | Tema | Tipo | Canal |
-| ------- | --------- | ---------- | ---- | ---- | ----- |
-
-{ .block-language-dataview}
+ - Único vídeo do canal
 ***
 
 #temadc
