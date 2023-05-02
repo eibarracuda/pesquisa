@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-28-eduardo-prof-historia/","tags":["🖼️/🗨️"],"created":"2023-03-06T14:59:52.306-03:00","updated":"2023-05-01T20:24:08.905-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-28-eduardo-prof-historia/","tags":["🖼️/🗨️"],"created":"2023-03-06T14:59:52.306-03:00","updated":"2023-05-01T21:22:15.179-03:00"}
 ---
 
 >[!abstract]+ Sobre
@@ -58,7 +58,7 @@ História, Educação, EduardoProfHistória, Motivação, Vida, Ciências Sociai
 #### Videos deste canal:
 | Arquivo                                                                                                                                                              | Criado em        | Modificado       | Tema             | Tipo  | Canal               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]] | 2023-02-27 14:29 | 2023-05-01 20:52 | Levantamento TCC | video | EduardoProfHistória |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]] | 2023-02-27 14:29 | 2023-05-01 21:20 | Levantamento TCC | video | EduardoProfHistória |
 
 { .block-language-dataview}
 ***
