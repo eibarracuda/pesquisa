@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-a-arte-da-restauracao-de-livros/","tags":["🖼️/🎥️"],"created":"2023-02-27T14:29:12.638-03:00","updated":"2023-05-01T21:49:10.578-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-a-arte-da-restauracao-de-livros/","tags":["🖼️/🎥️"],"created":"2023-02-27T14:29:12.638-03:00","updated":"2023-05-05T12:49:18.560-03:00"}
 ---
 
 
@@ -48,7 +48,7 @@
 #### Relacionados:
 | Arquivo                                                                                                                                                              | Criado em        | Modificado       | Tema             | Tipo  | Canal               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]] | 2023-02-27 14:29 | 2023-05-01 21:49 | Levantamento TCC | video | EduardoProfHistória |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]] | 2023-02-27 14:29 | 2023-05-05 12:49 | Levantamento TCC | video | EduardoProfHistória |
 
 { .block-language-dataview}
 ***
