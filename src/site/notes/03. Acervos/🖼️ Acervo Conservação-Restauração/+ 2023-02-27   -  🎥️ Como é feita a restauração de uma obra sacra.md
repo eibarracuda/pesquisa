@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-como-e-feita-a-restauracao-de-uma-obra-sacra/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:08:10.977-03:00","updated":"2023-05-01T21:26:11.854-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-como-e-feita-a-restauracao-de-uma-obra-sacra/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:08:10.977-03:00","updated":"2023-05-05T13:02:08.963-03:00"}
 ---
 
 Profissionais:: Marcelino Correia, Karen Kremer
@@ -23,7 +23,7 @@ Profissionais:: Marcelino Correia, Karen Kremer
 >**Descrição**
 > ` =this.Description`
 > 
-> **Tags usadas:** Promotor,de,Justiça,Ministério,Público,Santa,Catarina,Restauração,Nossa senhora das dores,Garopaba,obra sacra,patrimônio histórico,arte sacra,Fundação catarinense de cultura,Atecor
+> **Tags usadas:** Promotor de Justiça,Ministério,Público,Santa Catarina,Restauração,Nossa senhora das dores,Garopaba,obra sacra,patrimônio histórico,arte sacra,Fundação catarinense de cultura,Atecor
 
 
 ## Anotações
@@ -32,13 +32,13 @@ Profissionais:: Marcelino Correia, Karen Kremer
 **- Qual suporte?**
 	madeira policromada
 **- Qual é a abordagem com o objeto?**
-	Leiga/Técnica
+	Técnica
 **- Qual o conteúdo?**
 	Explicativo,Laboratório (ARTECOR),materiais,processos
 **- Qual o publico alvo?**
 	leigos porém com jargões
 **- Coisas interessantes:**
-	Entrevistas com profissionais em ateliê, video institucional da Fundação catarinense de cultura
+	Entrevistas com profissionais em ateliê,video institucional da Fundação catarinense de cultura
 
 ## Notas:
 
