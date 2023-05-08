@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-mais-um-restauro-desastroso-vivi-arte-news-vivieuvi/","tags":["🖼️/🎥️"],"created":"2023-03-02T20:50:29.000-03:00","updated":"2023-05-01T21:53:06.548-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-mais-um-restauro-desastroso-vivi-arte-news-vivieuvi/","tags":["🖼️/🎥️"],"created":"2023-03-02T20:50:29.000-03:00","updated":"2023-05-05T15:42:16.989-03:00"}
 ---
 
 
@@ -56,10 +56,10 @@ Source: Playlist: <a target='_blank' href='https://www.youtube.com/playlist?list
 #### Relacionados:
 | Arquivo                                                                                                                                                                                                                        | Criado em        | Modificado       | Tema             | Tipo  | Canal    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | -------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Restauro ao Vivo do Rembrandt - Vivi Arte News VIVIEUVI\|+ 2023-02-27   -  🎥️ Restauro ao Vivo do Rembrandt - Vivi Arte News VIVIEUVI]]             | 2023-02-27 15:39 | 2023-05-01 21:53 | Levantamento TCC | video | vivieuvi |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Mais um restauro desastroso - Vivi Arte News VIVIEUVI\|+ 2023-03-02   -  🎥️ Mais um restauro desastroso - Vivi Arte News VIVIEUVI]]                 | 2023-03-02 20:51 | 2023-05-01 21:53 | Levantamento TCC | video | vivieuvi |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Mais um Restauro Imperdível - Vivi Arte News VIVIEUVI\|+ 2023-03-02   -  🎥️ Mais um Restauro Imperdível - Vivi Arte News VIVIEUVI]]                 | 2023-03-02 20:40 | 2023-05-01 21:53 | Levantamento TCC | video | vivieuvi |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Novo restauro desastroso na Espanha – Vivi Arte News VIVIEUVI\|+ 2023-03-02   -  🎥️ Novo restauro desastroso na Espanha – Vivi Arte News VIVIEUVI]] | 2023-03-02 21:05 | 2023-05-01 21:53 | Levantamento TCC | video | vivieuvi |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Restauro ao Vivo do Rembrandt - Vivi Arte News VIVIEUVI\|+ 2023-02-27   -  🎥️ Restauro ao Vivo do Rembrandt - Vivi Arte News VIVIEUVI]]             | 2023-02-27 15:39 | 2023-05-05 15:34 | Levantamento TCC | video | vivieuvi |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Mais um restauro desastroso - Vivi Arte News VIVIEUVI\|+ 2023-03-02   -  🎥️ Mais um restauro desastroso - Vivi Arte News VIVIEUVI]]                 | 2023-03-02 20:51 | 2023-05-05 15:42 | Levantamento TCC | video | vivieuvi |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Mais um Restauro Imperdível - Vivi Arte News VIVIEUVI\|+ 2023-03-02   -  🎥️ Mais um Restauro Imperdível - Vivi Arte News VIVIEUVI]]                 | 2023-03-02 20:40 | 2023-05-06 19:38 | Levantamento TCC | video | vivieuvi |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Novo restauro desastroso na Espanha – Vivi Arte News VIVIEUVI\|+ 2023-03-02   -  🎥️ Novo restauro desastroso na Espanha – Vivi Arte News VIVIEUVI]] | 2023-03-02 21:05 | 2023-05-05 15:49 | Levantamento TCC | video | vivieuvi |
 
 { .block-language-dataview}
 ***
