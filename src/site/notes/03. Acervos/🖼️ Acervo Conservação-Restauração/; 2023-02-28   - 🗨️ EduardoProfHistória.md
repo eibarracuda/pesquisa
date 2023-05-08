@@ -47,9 +47,9 @@ tipo:: #canalhistória
 História, Educação, EduardoProfHistória, Motivação, Vida, Ciências Sociais, Ciências Humanas, Cultura, Itaguaí, Cultural, Culturabetizar, Arte, Eduardo Cultura Itaguaí (Administrative Division), Poesia
 
 ### Usadas nos vídeos de interesse deste canal
-| Arquivo                                                                                                                                                              | Titulo                           | Tags usadas                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]] | A arte da restauração de livros. | Restauração,Patrimônio,Educação patrimonial,História de Itaguaí,Itaguaí |
+| Arquivo                                                                                                                                                              | Titulo                           | Tags usadas                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]] | A arte da restauração de livros. | <ul><li>Restauração</li><li>Patrimônio</li><li>Educação patrimonial</li><li>História de Itaguaí</li><li>Itaguaí</li></ul> |
 
 { .block-language-dataview}
 
@@ -58,7 +58,7 @@ História, Educação, EduardoProfHistória, Motivação, Vida, Ciências Sociai
 #### Videos deste canal:
 | Arquivo                                                                                                                                                              | Criado em        | Modificado       | Tema             | Tipo  | Canal               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ------------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]] | 2023-02-27 14:29 | 2023-05-01 21:49 | Levantamento TCC | video | EduardoProfHistória |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ A arte da restauração de livros.\|+ 2023-02-27   -  🎥️ A arte da restauração de livros.]] | 2023-02-27 14:29 | 2023-05-05 12:49 | Levantamento TCC | video | EduardoProfHistória |
 
 { .block-language-dataview}
 ***
