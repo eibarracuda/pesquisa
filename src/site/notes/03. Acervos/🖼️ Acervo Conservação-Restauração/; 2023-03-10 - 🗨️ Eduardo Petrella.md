@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-eduardo-petrella/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:45:20.248-03:00","updated":"2023-05-01T21:22:12.858-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-eduardo-petrella/","tags":["🖼️/🗨️"],"created":"2023-03-10 16:46","updated":"2023-05-01 21:22"}
 ---
 
 >[!abstract]+ Sobre
