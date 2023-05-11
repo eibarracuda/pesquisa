@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-mas-sp-museu-de-arte-sacra-de-sao-paulo/","tags":["🖼️/🗨️"],"created":"2023-03-08T09:34:52.014-03:00","updated":"2023-05-01T21:20:25.750-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-mas-sp-museu-de-arte-sacra-de-sao-paulo/","tags":["🖼️/🗨️"],"created":"2023-03-08 09:39","updated":"2023-05-01 21:20"}
 ---
 
 >[!abstract]+ Sobre
