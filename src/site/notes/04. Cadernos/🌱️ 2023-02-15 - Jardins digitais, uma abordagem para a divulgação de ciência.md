@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-02-15-jardins-digitais-uma-abordagem-para-a-divulgacao-de-ciencia/","tags":["🧠️/📝️/🌱️"],"created":"2023-02-15T11:57:24.385-03:00","updated":"2023-03-13T23:57:27.645-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-02-15-jardins-digitais-uma-abordagem-para-a-divulgacao-de-ciencia/","tags":["🧠️/📝️/🌱️"],"created":"2023-02-15 11:59","updated":"2023-03-13 23:57"}
 ---
 
 # Jardins digitais: uma abordagem para a divulgação de ciência?
