@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-utilitarios/taxonomia/","created":"2023-03-14T16:30:40.756-03:00","updated":"2023-04-13T20:12:10.804-03:00"}
+{"dg-publish":true,"permalink":"/05-utilitarios/taxonomia/","created":"2023-03-14 16:32","updated":"2023-04-13 20:12"}
 ---
 
 # Escolhas visuais: entenda o sistema
