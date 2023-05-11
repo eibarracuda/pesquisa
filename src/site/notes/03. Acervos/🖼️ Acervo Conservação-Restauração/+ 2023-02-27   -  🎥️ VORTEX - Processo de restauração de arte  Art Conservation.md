@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-vortex-processo-de-restauracao-de-arte-art-conservation/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:40:23.228-03:00","updated":"2023-05-05T15:45:13.326-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-vortex-processo-de-restauracao-de-arte-art-conservation/","tags":["🖼️/🎥️"],"created":"2023-02-27 15:41","updated":"2023-05-05 15:45"}
 ---
 
 
