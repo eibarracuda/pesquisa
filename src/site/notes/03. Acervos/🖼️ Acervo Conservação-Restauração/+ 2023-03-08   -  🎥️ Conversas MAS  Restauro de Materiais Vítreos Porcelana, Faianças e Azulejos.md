@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-conversas-mas-restauro-de-materiais-vitreos-porcelana-faiancas-e-azulejos/","tags":["🖼️/🎥️"],"created":"2023-03-08T09:46:45.321-03:00","updated":"2023-05-01T21:53:03.532-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-conversas-mas-restauro-de-materiais-vitreos-porcelana-faiancas-e-azulejos/","tags":["🖼️/🎥️"],"created":"2023-03-08 09:53","updated":"2023-05-01 21:53"}
 ---
 
 
