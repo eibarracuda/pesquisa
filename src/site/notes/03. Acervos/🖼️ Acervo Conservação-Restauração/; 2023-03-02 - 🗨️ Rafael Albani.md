@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-rafael-albani/","tags":["🖼️/🗨️"],"created":"2023-03-02T18:57:16.347-03:00","updated":"2023-05-01T21:34:17.159-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-rafael-albani/","tags":["🖼️/🗨️"],"created":"2023-03-02 18:58","updated":"2023-05-01 21:34"}
 ---
 
 >[!abstract]+ Sobre
