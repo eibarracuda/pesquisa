@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-ministeriopublicosc/","tags":["🖼️/🗨️"],"created":"2023-03-07T20:55:58.396-03:00","updated":"2023-05-01T21:20:25.532-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-ministeriopublicosc/","tags":["🖼️/🗨️"],"created":"2023-03-07 20:56","updated":"2023-05-01 21:20"}
 ---
 
 >[!abstract]+ Sobre

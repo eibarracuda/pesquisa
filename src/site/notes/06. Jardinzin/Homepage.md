@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03T09:04:52.499-03:00","updated":"2023-03-15T16:26:08.106-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03 09:05","updated":"2023-03-15 16:26"}
 ---
 
 

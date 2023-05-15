@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-fruto-de-arte/","tags":["🖼️/🗨️"],"created":"2023-03-08T14:18:48.624-03:00","updated":"2023-05-01T21:20:25.710-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-fruto-de-arte/","tags":["🖼️/🗨️"],"created":"2023-03-08 14:21","updated":"2023-05-01 21:20"}
 ---
 
 >[!abstract]+ Sobre

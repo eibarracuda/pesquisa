@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-arte-faz-parte-restauro-e-conservacao-de-obras-de-artes/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:33:51.055-03:00","updated":"2023-05-05T12:47:07.431-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-arte-faz-parte-restauro-e-conservacao-de-obras-de-artes/","tags":["🖼️/🎥️"],"created":"2023-02-27 15:34","updated":"2023-05-05 12:47"}
 ---
 
 

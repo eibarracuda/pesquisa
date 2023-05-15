@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-arte-da-restauracao/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:13:04.160-03:00","updated":"2023-05-01T21:22:13.330-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-arte-da-restauracao/","tags":["🖼️/🗨️"],"created":"2023-03-10 16:14","updated":"2023-05-01 21:22"}
 ---
 
 >[!abstract]+ Sobre

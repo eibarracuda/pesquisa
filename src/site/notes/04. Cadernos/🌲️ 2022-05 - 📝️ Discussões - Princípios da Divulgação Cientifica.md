@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2022-05-discussoes-principios-da-divulgacao-cientifica/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-14T17:30:42.294-03:00","updated":"2023-05-01T20:02:01.343-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-05-discussoes-principios-da-divulgacao-cientifica/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-14 17:35","updated":"2023-05-01 20:02"}
 ---
 
 
