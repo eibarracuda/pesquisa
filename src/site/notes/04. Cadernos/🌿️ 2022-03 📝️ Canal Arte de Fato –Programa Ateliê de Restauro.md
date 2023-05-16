@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2022-03-canal-arte-de-fato-programa-atelie-de-restauro/","tags":["🧠️/📝️/🌿️"],"created":"2023-03-14 17:55","updated":"2023-05-01 20:04"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-03-canal-arte-de-fato-programa-atelie-de-restauro/","tags":["🧠️/📝️/🌿️"],"created":"2023-03-14 17:55","updated":"2023-05-15 17:05"}
 ---
 
 
