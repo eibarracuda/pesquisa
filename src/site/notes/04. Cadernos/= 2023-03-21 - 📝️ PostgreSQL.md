@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-03-21-postgre-sql/","tags":["🧠️/📝️/🌿️"],"created":"2023-03-21 15:49","updated":"2023-05-17 15:03"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-03-21-postgre-sql/","tags":["🧠️/📝️/🌿️"],"created":"2023-03-21 15:49","updated":"2023-05-17 15:04"}
 ---
 
 
