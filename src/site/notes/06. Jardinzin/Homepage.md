@@ -15,11 +15,11 @@
 
 <br><br><br>
 ## Ultimas notas:
+- [[04. Cadernos/= 2023-01-30 - 📝️ Lógica da programação\|= 2023-01-30 - 📝️ Lógica da programação]]
 - [[04. Cadernos/🌱️ 2023-02-15 - Jardins digitais, uma abordagem para a divulgação de ciência\|🌱️ 2023-02-15 - Jardins digitais, uma abordagem para a divulgação de ciência]]
 - [[04. Cadernos/🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos\|🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos]]
 - [[04. Cadernos/= 2023-02-24 - 📝️ Comunicando Ciencia da conservação\|= 2023-02-24 - 📝️ Comunicando Ciencia da conservação]]
 - [[03. Acervos/📰️/( 2023-04-02  - 📰️ rObsidianMD - My setup as a researcher. How to write, run statistics, and work seamlessly with R, Obsidian, Linux, and Zotero, and collaborate with senior professors who only accept MS Word files!\|( 2023-04-02  - 📰️ rObsidianMD - My setup as a researcher. How to write, run statistics, and work seamlessly with R, Obsidian, Linux, and Zotero, and collaborate with senior professors who only accept MS Word files!]]
-- [[03. Acervos/📰️/( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science\|( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science]]
 
 { .block-language-dataview}
 
