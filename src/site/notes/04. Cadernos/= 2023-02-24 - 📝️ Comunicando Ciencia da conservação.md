@@ -1,15 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-02-24-comunicando-ciencia-da-conservacao/","tags":["🧠️/📝️/"],"created":"2023-02-24 15:27","updated":"2023-05-15 22:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-02-24-comunicando-ciencia-da-conservacao/","tags":["🧠️/📝️/"],"created":"2023-02-24 15:27","updated":"2023-05-17 15:07"}
 ---
 
 # = 2023-02-24 - 📝️ Comunicando Ciencia da conservação
-
-***
-| Relacionados |
-| ------------ |
-
-{ .block-language-dataview}
-***
 
 Palavras chave: Conservation science, Public benefit, Public value, Public engagement, People-centred approach, ICCROM FORUM
 
