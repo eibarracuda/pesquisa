@@ -15,11 +15,11 @@
 
 <br><br><br>
 ## Ultimas notas:
+- [[04. Cadernos/= 2023-02-24 - 📝️ Comunicando Ciencia da conservação\|= 2023-02-24 - 📝️ Comunicando Ciencia da conservação]]
 - [[04. Cadernos/= 2023-03-21 - 📝️ PostgreSQL\|= 2023-03-21 - 📝️ PostgreSQL]]
 - [[06. Jardinzin/Sobre mim\|Sobre mim]]
 - [[04. Cadernos/= 2023-01-30 - 📝️ Lógica da programação\|= 2023-01-30 - 📝️ Lógica da programação]]
 - [[04. Cadernos/🌱️ 2023-02-15 - Jardins digitais, uma abordagem para a divulgação de ciência\|🌱️ 2023-02-15 - Jardins digitais, uma abordagem para a divulgação de ciência]]
-- [[04. Cadernos/🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos\|🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos]]
 
 { .block-language-dataview}
 
