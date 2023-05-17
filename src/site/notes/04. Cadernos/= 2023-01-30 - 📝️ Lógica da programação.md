@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-01-30-logica-da-programacao/","tags":["🧠️/📝️/🌿️"],"created":"2023-05-15 21:39","updated":"2023-05-15 21:45"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-01-30-logica-da-programacao/","tags":["🧠️/📝️/🌿️"],"created":"2023-05-15 21:39","updated":"2023-05-17 13:59"}
 ---
 
 ***
-| Relacionados |
-| ------------ |
 
-{ .block-language-dataview}
 ***
 >[!NOTE] Fazer esse programa 
 > quanta agua vc tomou hoje 
