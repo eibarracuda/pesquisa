@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03 09:05","updated":"2023-05-18 14:39"}
+{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03 09:05","updated":"2023-05-18 15:37"}
 ---
 
-# <center>![assinaturamini.png](/img/user/XX%20-%20Anexos/assinaturamini.png)</center> 
+<center>![assinaturamini.png](/img/user/XX%20-%20Anexos/assinaturamini.png) </center>
+***
 <br><br><br>
+
 ## Assuntos:
 
 - [[06. Jardinzin/Tech\|Tech]]
