@@ -15,8 +15,8 @@
 
 <br><br><br>
 ## Ultimas notas:
-- [[06. Jardinzin/Contato e links externos\|Contato e links externos]]
 - [[06. Jardinzin/Sobre mim\|Sobre mim]]
+- [[06. Jardinzin/Contato e links externos\|Contato e links externos]]
 - [[03. Acervos/📰️/( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science\|( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science]]
 - [[04. Cadernos/🌱️ 2023-04-08 - 📝️ Bash\|🌱️ 2023-04-08 - 📝️ Bash]]
 - [[04. Cadernos/= 2023-02-24 - 📝️ Comunicando Ciencia da conservação\|= 2023-02-24 - 📝️ Comunicando Ciencia da conservação]]
