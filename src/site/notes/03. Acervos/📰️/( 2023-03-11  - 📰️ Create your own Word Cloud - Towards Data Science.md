@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//2023-03-11-create-your-own-word-cloud-towards-data-science/","title":"( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science","tags":["🧠️/📥️/📰️/🟩️"],"created":"2023-03-11 20:42","updated":"2023-05-15 21:54"}
+{"dg-publish":true,"permalink":"/03-acervos//2023-03-11-create-your-own-word-cloud-towards-data-science/","title":"( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science","tags":["🧠️/📥️/📰️/🟩️"],"created":"2023-03-11 20:42","updated":"2023-05-18 11:00"}
 ---
-
-tema:: Programação
-keywords:: Nuvem de palavras, Python, tutorial
 
 
 >[!abstract]+ Sobre
@@ -110,8 +107,3 @@ I’m sharing a link to my github repository where the entire code in the ***.ip
 Although, this isn't a part of Machine Learning, this is one of the most basic utilization of another important field of Artificial Intelligence, the ***Natural Language Processing*** (NLP). So, go ahead and experiment with this new field of NLP. Till then, Happy Machine Learning!
 
 ***
-### Relacionados
-| Arquivo | created | modified | tags | type | autor |
-| ------- | ------- | -------- | ---- | ---- | ----- |
-
-{ .block-language-dataview}
