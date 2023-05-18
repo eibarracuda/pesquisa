@@ -15,11 +15,11 @@
 
 <br><br><br>
 ## Ultimas notas:
+- [[03. Acervos/📰️/( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science\|( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science]]
 - [[04. Cadernos/🌱️ 2023-04-08 - 📝️ Bash\|🌱️ 2023-04-08 - 📝️ Bash]]
 - [[04. Cadernos/= 2023-02-24 - 📝️ Comunicando Ciencia da conservação\|= 2023-02-24 - 📝️ Comunicando Ciencia da conservação]]
 - [[04. Cadernos/= 2023-03-21 - 📝️ PostgreSQL\|= 2023-03-21 - 📝️ PostgreSQL]]
 - [[06. Jardinzin/Sobre mim\|Sobre mim]]
-- [[04. Cadernos/= 2023-01-30 - 📝️ Lógica da programação\|= 2023-01-30 - 📝️ Lógica da programação]]
 
 { .block-language-dataview}
 
