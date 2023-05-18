@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/sobre-mim/","created":"2023-05-15 12:04","updated":"2023-05-18 14:30"}
+{"dg-publish":true,"permalink":"/06-jardinzin/sobre-mim/","created":"2023-05-15 12:04","updated":"2023-05-18 14:35"}
 ---
 
 
@@ -8,7 +8,7 @@
 > [!infobox]
 > # Eibarracuda
 > ![ver2.png](/img/user/XX%20-%20Anexos/ver2.png)
-> ###### Sobre^[Icones não binário e autista por [sunbirds](https://www.deviantart.com/sunbirds/art/Non-Binary-Stamp-580741592) e [oddly-avoidant](https://www.deviantart.com/oddly-avoidant/art/autistic-stamp-identity-725296688), arte por mim.]
+> ###### Sobre
 > | 29 anos |  🏠 = 🇧🇷 | 
 > | ---- | ---- |
 > | ![naobinario.png](/img/user/XX%20-%20Anexos/naobinario.png) | ![autista.png](/img/user/XX%20-%20Anexos/autista.png)|
@@ -42,3 +42,4 @@ Também sou restauradora, ilustradora, diagramadora, encadernadora e tatuo às v
 ***
 
 
+Icones não binário e autista por [sunbirds](https://www.deviantart.com/sunbirds/art/Non-Binary-Stamp-580741592) e [oddly-avoidant](https://www.deviantart.com/oddly-avoidant/art/autistic-stamp-identity-725296688), arte por mim.
