@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/contato-e-links-externos/","created":"2023-05-15 12:04","updated":"2023-05-15 16:56"}
+{"dg-publish":true,"permalink":"/06-jardinzin/contato-e-links-externos/","created":"2023-05-15 12:04","updated":"2023-05-18 14:32"}
 ---
 
 # Contato
@@ -13,7 +13,7 @@ Você pode clicar no botão do lado inferior direito da página ou usar sua plat
 <br><br>
 > [!warning] Você também pode me encontrar em
 > # 
-> | [![GitHub.png](/img/user/XX - Anexos/digitalgarden/GitHub.png)](https://github.com/eibarracuda) | [![LinkedIn.png](/img/user/XX - Anexos/digitalgarden/LinkedIn.png)](https://www.linkedin.com/in/martasafaneta/) |
+> | [GitHub](https://github.com/eibarracuda) | [LinkedIn](https://www.linkedin.com/in/martasafaneta/) |
 > | ---- | ---- |
-> | [![Instagram.png](/img/user/XX - Anexos/digitalgarden/Instagram.png)](https://www.instagram.com/eibarracuda/) | [![Twitter.png](/img/user/XX - Anexos/digitalgarden/Twitter.png)](https://twitter.com/eibarracuda)|
-> | [![Steam.png](/img/user/XX - Anexos/digitalgarden/Steam.png)](https://steamcommunity.com/id/eibarracuda) | [![Discord.png](/img/user/XX - Anexos/digitalgarden/Discord.png)](https://discord.com/users/175446804274479105) |
+> | [Instagram](https://www.instagram.com/eibarracuda/) | [Twitter](https://twitter.com/eibarracuda)|
+> | [Steam](https://steamcommunity.com/id/eibarracuda) | [Discord](https://discord.com/users/175446804274479105) |
