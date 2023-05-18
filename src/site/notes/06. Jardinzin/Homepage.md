@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03 09:05","updated":"2023-05-15 22:10"}
+{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03 09:05","updated":"2023-05-18 14:30"}
 ---
 
-# <center>![assinatura.png|50](/img/user/XX%20-%20Anexos/assinatura.png)</center> 
+# <center>![assinaturamini.png|50](/img/user/XX%20-%20Anexos/assinaturamini.png)</center> 
 <br><br><br>
-## Assuntos
+## Assuntos:
 
 - [[06. Jardinzin/Tech\|Tech]]
 - [[06. Jardinzin/Comunicação\|Comunicação]]
@@ -15,11 +15,11 @@
 
 <br><br><br>
 ## Ultimas notas:
+- [[06. Jardinzin/Contato e links externos\|Contato e links externos]]
+- [[06. Jardinzin/Sobre mim\|Sobre mim]]
 - [[03. Acervos/📰️/( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science\|( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science]]
 - [[04. Cadernos/🌱️ 2023-04-08 - 📝️ Bash\|🌱️ 2023-04-08 - 📝️ Bash]]
 - [[04. Cadernos/= 2023-02-24 - 📝️ Comunicando Ciencia da conservação\|= 2023-02-24 - 📝️ Comunicando Ciencia da conservação]]
-- [[04. Cadernos/= 2023-03-21 - 📝️ PostgreSQL\|= 2023-03-21 - 📝️ PostgreSQL]]
-- [[06. Jardinzin/Sobre mim\|Sobre mim]]
 
 { .block-language-dataview}
 
