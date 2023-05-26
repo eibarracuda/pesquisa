@@ -171,7 +171,7 @@ tema:: Comunicação, Conservação-Restauração
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[04. Cadernos/= 2023-02-24 - 📝️ Comunicando Ciencia da conservação\|= 2023-02-24 - 📝️ Comunicando Ciencia da conservação]]<br><small>*Modificado em: 3:07 PM - May 17, 2023*</small> \| <small>Criado em: 3:20 PM - February 24, 2023</small> |
 | [[04. Cadernos/= 2023-05-11 - Indice comentado\|= 2023-05-11 - Indice comentado]]<br><small>*Modificado em: 4:11 PM - May 11, 2023*</small> \| <small>Criado em: 1:27 PM - May 11, 2023</small>                                                  |
-| [[07. Projetos/TCC/= 2023-05-17 - 2.2 Como essas ideias evoluiram\|= 2023-05-17 - 2.2 Como essas ideias evoluiram]]<br><small>*Modificado em: 3:42 PM - May 17, 2023*</small> \| <small>Criado em: 3:27 PM - May 17, 2023</small>                |
+| [[07. Projetos/TCC/= 2023-05-17 - 2.2 Como essas ideias evoluiram\|= 2023-05-17 - 2.2 Como essas ideias evoluiram]]<br><small>*Modificado em: 3:42 PM - May 19, 2023*</small> \| <small>Criado em: 3:27 PM - May 17, 2023</small>                |
 
 { .block-language-dataview}
 ***
