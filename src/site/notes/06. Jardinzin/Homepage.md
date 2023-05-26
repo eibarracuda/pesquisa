@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03 09:05","updated":"2023-05-18 15:40"}
+{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03 09:05","updated":"2023-05-18 15:41"}
 ---
 
 
@@ -24,11 +24,11 @@
 
 <br><br><br>
 ## Ultimas notas:
+- [[05. Utilitários/Certificados Alura\|Certificados Alura]]
+- [[06. Jardinzin/Currículo\|Currículo]]
+- [[03. Acervos/📜️/& 2023-05-23 - O desafio da comunicação nos museus universitários\|& 2023-05-23 - O desafio da comunicação nos museus universitários]]
+- [[03. Acervos/📜️/& 2023-03-01 - 📜️ Ja estamos la (2022)\|& 2023-03-01 - 📜️ Ja estamos la (2022)]]
 - [[06. Jardinzin/Sobre mim\|Sobre mim]]
-- [[06. Jardinzin/Contato e links externos\|Contato e links externos]]
-- [[03. Acervos/📰️/( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science\|( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science]]
-- [[04. Cadernos/🌱️ 2023-04-08 - 📝️ Bash\|🌱️ 2023-04-08 - 📝️ Bash]]
-- [[04. Cadernos/= 2023-02-24 - 📝️ Comunicando Ciencia da conservação\|= 2023-02-24 - 📝️ Comunicando Ciencia da conservação]]
 
 { .block-language-dataview}
 
