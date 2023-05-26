@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/curriculo/","created":"2023-03-14 14:04","updated":"2023-03-14 15:18"}
+{"dg-publish":true,"permalink":"/06-jardinzin/curriculo/","created":"2023-03-14 14:04","updated":"2023-05-23 21:12"}
 ---
 
 # Marta Safaneta
-#### Bacharel em Conservação e Restauração de Bens Culturais Móveis e Designer
-[`ris:MailSend`](mailto:marta.safaneta@gmail.com) | Belo Horizonte, Minas Gerais | Lattes: [0892701521172605](http://lattes.cnpq.br/0892701521172605) | Github: [Link](https://github.com/eibarracuda)
+#### Bacharel em Conservação e Restauração de Bens Culturais Móveis | Divulgador Cientifico | Desenvolvedor | Designer
+Belo Horizonte, Minas Gerais | Lattes: [0892701521172605](http://lattes.cnpq.br/0892701521172605) | Github: [Link](https://github.com/eibarracuda)
 
 ## Sobre
 Bacharel em Conservação e Restauração com ênfase em papel e conservação preventiva pela UFMG. Atualmente cursa Especialização em Divulgação e Popularização da Ciência na Casa de Oswaldo Cruz/Fiocruz.
@@ -23,6 +23,8 @@ Bacharel em Conservação e Restauração com ênfase em papel e conservação p
 
 - Extensão Universitária: **Formação de Mediadores de Educação para Patrimônio**;
 - Carga Horária: 160h.
+
+### Confira a lista completa de certificações da Alura [[05. Utilitários/Certificados Alura\|clicando aqui]]
 
 ## Experiencia Profissional
 
