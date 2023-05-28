@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/curriculo/","created":"2023-03-14 14:04","updated":"2023-05-23 21:12"}
+{"dg-publish":true,"permalink":"/06-jardinzin/curriculo/","created":"2023-03-14 14:04","updated":"2023-05-28 12:48"}
 ---
 
 # Marta Safaneta
@@ -7,7 +7,7 @@
 Belo Horizonte, Minas Gerais | Lattes: [0892701521172605](http://lattes.cnpq.br/0892701521172605) | Github: [Link](https://github.com/eibarracuda)
 
 ## Sobre
-Bacharel em Conservação e Restauração com ênfase em papel e conservação preventiva pela UFMG. Atualmente cursa Especialização em Divulgação e Popularização da Ciência na Casa de Oswaldo Cruz/Fiocruz.
+Bacharel em Conservação e Restauração com ênfase em papel e conservação preventiva pela UFMG. Atualmente cursa Especialização em Divulgação e Popularização da Ciência na Casa de Oswaldo Cruz/Fiocruz e Boticário Desenvolve (composto por aulas de tecnologia da Alura).
 
 ## Formação Acadêmica
 
@@ -24,7 +24,7 @@ Bacharel em Conservação e Restauração com ênfase em papel e conservação p
 - Extensão Universitária: **Formação de Mediadores de Educação para Patrimônio**;
 - Carga Horária: 160h.
 
-### Confira a lista completa de certificações da Alura [[05. Utilitários/Certificados Alura\|clicando aqui]]
+### Confira a lista completa de certificações da Alura/Boticário Desenvolve [[06. Jardinzin/Certificados Alura\|clicando aqui]]
 
 ## Experiencia Profissional
 
@@ -119,6 +119,9 @@ Explicações sobre as telas Guerra e Paz de Portinari, a vida e obras do artist
 
 1. SAFANETA, Marta; ASEVEDO, Samara. **MODOS   DE   PRODUÇÃO   DO   LIVRO**:   FERRAMENTAS   TÉCNICO-CIENTÍFICAS DO LAGRAFI<location> XXV SEMANA DE INICIAÇÃO CIENTÍFICA - Pró-Reitoria de Pesquisa UFMG </location> 17/10/2016 a 21/10/2016 [Link.](https://1drv.ms/b/s!AvBrS8jM8NuJi-ggzC8sVIMS5xwwUg?e=P79vIx)
 
+## Outros
+1. Conto publicado em antologia:
+SAFANETA, Marta. Conforto no que existe. In: OLIVEIRA, Karine (Org.). **Ócios no Ofício Antologia**. Belo Horizonte: Venas Abiertas, 2020. p. 55-58.
 
 > [!infobox|500]
 > # Outras informações
