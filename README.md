@@ -1,7 +1,9 @@
-# Caderno de pesquisa
-Esse é o repositório do meu jardim digital [Caderno de pesquisa - eiBarracuda](https://pesquisa-eibarracuda.vercel.app)
+# Digital Obsidian Garden
+This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
+See the README in the plugin repo for information on how to set it up.
 
-Em constante processo de evolução.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+
 ---
 ## Docs
 Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
