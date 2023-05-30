@@ -24,11 +24,11 @@
 
 <br><br><br>
 ## Ultimas notas:
+- [[04. Cadernos/= 2023-05-30 - Comunicação e estratégias - Autismo e Neurotipicos\|= 2023-05-30 - Comunicação e estratégias - Autismo e Neurotipicos]]
 - [[06. Jardinzin/Currículo\|Currículo]]
 - [[06. Jardinzin/Certificados Alura\|Certificados Alura]]
 - [[04. Cadernos/🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos\|🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos]]
 - [[03. Acervos/📜️/& 2023-05-23 - O desafio da comunicação nos museus universitários\|& 2023-05-23 - O desafio da comunicação nos museus universitários]]
-- [[03. Acervos/📜️/& 2023-03-01 - 📜️ Ja estamos la (2022)\|& 2023-03-01 - 📜️ Ja estamos la (2022)]]
 
 { .block-language-dataview}
 
