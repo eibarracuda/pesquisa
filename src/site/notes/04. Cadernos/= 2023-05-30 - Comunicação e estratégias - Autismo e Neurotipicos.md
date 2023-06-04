@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-05-30-comunicacao-e-estrategias-autismo-e-neurotipicos/","title":"Comunicação e estratégias - Autismo e Neurotipicos","tags":["🧠️/📝️/🌱️"],"created":"2023-05-30 14:00","updated":"2023-05-30 14:44"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-05-30-comunicacao-e-estrategias-autismo-e-neurotipicos/","title":"Comunicação e estratégias - Autismo e Neurotipicos","tags":["🧠️/📝️/🌱️"],"created":"2023-05-30T13:57:14.799-03:00","updated":"2023-05-30T14:44:26.856-03:00"}
 ---
 
 
