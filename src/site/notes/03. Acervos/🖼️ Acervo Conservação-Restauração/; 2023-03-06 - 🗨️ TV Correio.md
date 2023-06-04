@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-06-tv-correio/","tags":["🖼️/🗨️"],"created":"2023-03-06 15:51","updated":"2023-05-01 21:22"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-06-tv-correio/","tags":["🖼️/🗨️"],"created":"2023-03-06T15:50:33.218-03:00","updated":"2023-05-01T21:22:14.587-03:00"}
 ---
 
 >[!abstract]+ Sobre
