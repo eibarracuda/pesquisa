@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03 09:05","updated":"2023-05-18 15:41"}
+{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03T09:04:52.499-03:00","updated":"2023-05-18T15:41:11.803-03:00"}
 ---
 
 
@@ -24,11 +24,11 @@
 
 <br><br><br>
 ## Ultimas notas:
+- [[06. Jardinzin/Certificados Alura\|Certificados Alura]]
+- [[06. Jardinzin/Contato e links externos\|Contato e links externos]]
 - [[04. Cadernos/= 2023-05-30 - Comunicação e estratégias - Autismo e Neurotipicos\|= 2023-05-30 - Comunicação e estratégias - Autismo e Neurotipicos]]
 - [[06. Jardinzin/Currículo\|Currículo]]
-- [[06. Jardinzin/Certificados Alura\|Certificados Alura]]
 - [[04. Cadernos/🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos\|🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos]]
-- [[03. Acervos/📜️/& 2023-05-23 - O desafio da comunicação nos museus universitários\|& 2023-05-23 - O desafio da comunicação nos museus universitários]]
 
 { .block-language-dataview}
 
