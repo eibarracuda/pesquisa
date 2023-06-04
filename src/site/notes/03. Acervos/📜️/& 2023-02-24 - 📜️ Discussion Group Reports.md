@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-02-24-discussion-group-reports/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-02-24 19:37","updated":"2023-05-15 19:35"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-02-24-discussion-group-reports/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-02-24T19:36:45.255-03:00","updated":"2023-05-15T19:35:20.577-03:00"}
 ---
 
 
