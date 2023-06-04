@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-superior-tribunal-de-justica-stj/","tags":["🖼️/🗨️"],"created":"2023-03-08 19:17","updated":"2023-05-01 21:22"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-superior-tribunal-de-justica-stj/","tags":["🖼️/🗨️"],"created":"2023-03-08T19:16:18.086-03:00","updated":"2023-05-01T21:22:14.434-03:00"}
 ---
 
 >[!abstract]+ Sobre
