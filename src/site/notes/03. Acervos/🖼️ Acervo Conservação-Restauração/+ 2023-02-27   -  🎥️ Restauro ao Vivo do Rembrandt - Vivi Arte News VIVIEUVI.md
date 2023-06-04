@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-restauro-ao-vivo-do-rembrandt-vivi-arte-news-vivieuvi/","tags":["🖼️/🎥️"],"created":"2023-02-27 15:39","updated":"2023-05-05 15:34"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-restauro-ao-vivo-do-rembrandt-vivi-arte-news-vivieuvi/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:38:42.448-03:00","updated":"2023-05-05T15:34:03.913-03:00"}
 ---
 
 
