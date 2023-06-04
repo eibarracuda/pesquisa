@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/diversidade-e-inclusao/","created":"2023-05-15 17:01","updated":"2023-05-30 14:03"}
+{"dg-publish":true,"permalink":"/06-jardinzin/diversidade-e-inclusao/","created":"2023-05-15T22:03:29.183-03:00","updated":"2023-05-30T14:03:05.563-03:00"}
 ---
 
 
