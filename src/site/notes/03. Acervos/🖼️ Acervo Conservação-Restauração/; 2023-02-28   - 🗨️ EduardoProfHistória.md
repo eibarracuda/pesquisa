@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-28-eduardo-prof-historia/","tags":["🖼️/🗨️"],"created":"2023-02-27 14:29","updated":"2023-05-01 21:22"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-28-eduardo-prof-historia/","tags":["🖼️/🗨️"],"created":"2023-03-06T14:59:52.306-03:00","updated":"2023-05-01T21:22:15.179-03:00"}
 ---
 
 >[!abstract]+ Sobre
