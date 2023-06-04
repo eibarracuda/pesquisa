@@ -6,11 +6,12 @@
 <small>Terça, 08/02/2022</small>
 
 ***
-| Relacionados                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[04. Cadernos/= 2023-05-11 - Indice comentado\|= 2023-05-11 - Indice comentado]]<br><small>*Modificado em: 1:19 PM - May 27, 2023*</small> \| <small>Criado em: 1:27 PM - May 11, 2023</small> |
-| [[07. Projetos/TCC/= 2023-05-17 - Introdução\|= 2023-05-17 - Introdução]]<br><small>*Modificado em: 3:40 PM - May 19, 2023*</small> \| <small>Criado em: 1:52 PM - May 17, 2023</small>         |
-| [[06. Jardinzin/Sobre este site\|Sobre este site]]<br><small>*Modificado em: 4:39 PM - May 15, 2023*</small> \| <small>Criado em: 12:04 PM - May 15, 2023</small>                               |
+| Relacionados                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[04. Cadernos/= 2023-05-11 - Indice comentado\|= 2023-05-11 - Indice comentado]]<br><small>*Modificado em: 1:19 PM - May 27, 2023*</small> \| <small>Criado em: 1:27 PM - May 11, 2023</small>                               |
+| [[07. Projetos/TCC/= 2023-05-17 - Introdução\|= 2023-05-17 - Introdução]]<br><small>*Modificado em: 3:40 PM - May 19, 2023*</small> \| <small>Criado em: 1:52 PM - May 17, 2023</small>                                       |
+| [[04. Cadernos/= 2023-06-04 - Estudos de audiência e publico\|= 2023-06-04 - Estudos de audiência e publico]]<br><small>*Modificado em: 2:28 PM - June 04, 2023*</small> \| <small>Criado em: 2:18 PM - June 04, 2023</small> |
+| [[06. Jardinzin/Sobre este site\|Sobre este site]]<br><small>*Modificado em: 4:39 PM - May 15, 2023*</small> \| <small>Criado em: 12:04 PM - May 15, 2023</small>                                                             |
 
 { .block-language-dataview}
 ***
