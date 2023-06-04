@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-mais-um-restauro-desastroso-vivi-arte-news-vivieuvi/","tags":["🖼️/🎥️"],"created":"2023-03-02 20:51","updated":"2023-05-05 15:42"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-mais-um-restauro-desastroso-vivi-arte-news-vivieuvi/","tags":["🖼️/🎥️"],"created":"2023-03-02T20:50:29.000-03:00","updated":"2023-05-05T15:42:16.989-03:00"}
 ---
 
 
