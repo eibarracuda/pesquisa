@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-top-10-obras-de-arte-que-apos-a-restauracao-ficaram-destruidas-como-pode-uma-coisa-dessas/","tags":["🖼️/🎥️"],"created":"2023-02-27 15:25","updated":"2023-05-05 15:47"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-top-10-obras-de-arte-que-apos-a-restauracao-ficaram-destruidas-como-pode-uma-coisa-dessas/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:25:08.829-03:00","updated":"2023-05-05T15:47:24.024-03:00"}
 ---
 
 
