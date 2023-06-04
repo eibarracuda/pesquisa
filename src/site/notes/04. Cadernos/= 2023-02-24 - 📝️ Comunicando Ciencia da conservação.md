@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-02-24-comunicando-ciencia-da-conservacao/","tags":["🧠️/📝️/"],"created":"2023-02-24 15:27","updated":"2023-05-17 15:07"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-02-24-comunicando-ciencia-da-conservacao/","tags":["🧠️/📝️/"],"created":"2023-02-24T15:20:12.924-03:00","updated":"2023-05-17T15:07:03.230-03:00"}
 ---
 
 # = 2023-02-24 - 📝️ Comunicando Ciencia da conservação
