@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/patrimonio-and-cultura/","created":"2023-05-15 17:01","updated":"2023-05-15 22:09"}
+{"dg-publish":true,"permalink":"/06-jardinzin/patrimonio-and-cultura/","created":"2023-05-15T16:59:52.448-03:00","updated":"2023-05-15T22:09:23.652-03:00"}
 ---
 
 
