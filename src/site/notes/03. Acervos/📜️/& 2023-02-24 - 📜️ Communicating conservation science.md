@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-02-24-communicating-conservation-science/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-02-24 13:52","updated":"2023-05-15 21:52"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-02-24-communicating-conservation-science/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-02-24T13:50:08.689-03:00","updated":"2023-05-15T21:52:15.433-03:00"}
 ---
 
 tema:: Comunicação, Conservação-Restauração
