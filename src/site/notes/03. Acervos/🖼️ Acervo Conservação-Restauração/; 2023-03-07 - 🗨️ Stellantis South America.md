@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-stellantis-south-america/","tags":["🖼️/🗨️"],"created":"2023-03-07 20:39","updated":"2023-05-01 21:20"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-07-stellantis-south-america/","tags":["🖼️/🗨️"],"created":"2023-03-07T20:34:57.230-03:00","updated":"2023-05-01T21:20:25.566-03:00"}
 ---
 
 >[!abstract]+ Sobre
