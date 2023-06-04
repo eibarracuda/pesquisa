@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-01-30-logica-da-programacao/","tags":["🧠️/📝️/🌿️"],"created":"2023-05-15 21:39","updated":"2023-05-17 13:59"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-01-30-logica-da-programacao/","tags":["🧠️/📝️/🌿️"],"created":"2023-05-15T21:38:22.417-03:00","updated":"2023-05-17T13:59:19.232-03:00"}
 ---
 
 ***
