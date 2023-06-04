@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/tech/","created":"2023-05-15 17:01","updated":"2023-05-15 22:08"}
+{"dg-publish":true,"permalink":"/06-jardinzin/tech/","created":"2023-05-15T20:03:47.612-03:00","updated":"2023-05-15T22:08:29.851-03:00"}
 ---
 
 
