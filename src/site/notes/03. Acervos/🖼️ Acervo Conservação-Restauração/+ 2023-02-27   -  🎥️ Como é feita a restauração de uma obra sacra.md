@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-como-e-feita-a-restauracao-de-uma-obra-sacra/","tags":["🖼️/🎥️"],"created":"2023-02-27 15:08","updated":"2023-05-05 13:02"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-como-e-feita-a-restauracao-de-uma-obra-sacra/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:08:10.977-03:00","updated":"2023-05-05T13:02:08.963-03:00"}
 ---
 
 Profissionais:: Marcelino Correia, Karen Kremer
