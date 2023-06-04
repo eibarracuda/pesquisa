@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//2023-04-02-r-obsidian-md-my-setup-as-a-researcher-how-to-write-run-statistics-and-work-seamlessly-with-r-obsidian-linux-and-zotero-and-collaborate-with-senior-professors-who-only-accept-ms-word-files/","title":"( 2023-04-02  - 📰️ rObsidianMD - My setup as a researcher. How to write, run statistics, and work seamlessly with R, Obsidian, Linux, and Zotero, and collaborate with senior professors who only accept MS Word files!","tags":["🧠️/📥️/📰️/🟩️"],"created":"2023-05-01 20:40","updated":"2023-05-15 21:56"}
+{"dg-publish":true,"permalink":"/03-acervos//2023-04-02-r-obsidian-md-my-setup-as-a-researcher-how-to-write-run-statistics-and-work-seamlessly-with-r-obsidian-linux-and-zotero-and-collaborate-with-senior-professors-who-only-accept-ms-word-files/","title":"( 2023-04-02  - 📰️ rObsidianMD - My setup as a researcher. How to write, run statistics, and work seamlessly with R, Obsidian, Linux, and Zotero, and collaborate with senior professors who only accept MS Word files!","tags":["🧠️/📥️/📰️/🟩️"],"created":"2023-04-02T14:16:08.959-03:00","updated":"2023-05-15T21:56:06.115-03:00"}
 ---
 
 
