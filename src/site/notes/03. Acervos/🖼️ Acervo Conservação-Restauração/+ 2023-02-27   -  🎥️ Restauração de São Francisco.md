@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-restauracao-de-sao-francisco/","tags":["🖼️/🎥️"],"created":"2023-02-27 15:29","updated":"2023-05-05 15:08"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-02-27-restauracao-de-sao-francisco/","tags":["🖼️/🎥️"],"created":"2023-02-27T15:28:49.112-03:00","updated":"2023-05-05T15:08:16.029-03:00"}
 ---
 
 
