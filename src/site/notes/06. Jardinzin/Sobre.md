@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/sobre/","created":"2023-05-15 12:04","updated":"2023-05-15 22:09"}
+{"dg-publish":true,"permalink":"/06-jardinzin/sobre/","created":"2023-05-15T11:59:33.510-03:00","updated":"2023-05-15T22:09:01.421-03:00"}
 ---
 
 # Sobre…
