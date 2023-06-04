@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2022-05-reflexao-sobre-o-projeto-de-pesquisa-a-luz-de-novas-nocoes-e-conceitos/","tags":["🧠️/📝️/🌲️"],"created":"2023-05-27 13:05","updated":"2023-05-27 13:07"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-05-reflexao-sobre-o-projeto-de-pesquisa-a-luz-de-novas-nocoes-e-conceitos/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-14T15:33:25.308-03:00","updated":"2023-05-27T13:07:05.282-03:00"}
 ---
 
 
