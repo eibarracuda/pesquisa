@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/contato-e-links-externos/","created":"2023-05-15 12:04","updated":"2023-05-18 14:32"}
+{"dg-publish":true,"permalink":"/06-jardinzin/contato-e-links-externos/","created":"2023-05-15T12:05:01.850-03:00","updated":"2023-05-30T15:48:26.249-03:00"}
 ---
 
 # Contato
@@ -7,7 +7,8 @@
 Quer entrar em contato sobre algum assunto que está publicado aqui ou para pedir um orçamento?
 Você pode clicar no botão do lado inferior direito da página ou usar sua plataforma de email para escever para: 
 
-![Pasted image 20230515165451.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230515165451.png)
+![XX - Anexos/13c88dc3c30bae16b00c75e47918ca3d_MD5.png](/img/user/XX%20-%20Anexos/13c88dc3c30bae16b00c75e47918ca3d_MD5.png)
+
 
 
 <br><br>
