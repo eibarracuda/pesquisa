@@ -24,11 +24,11 @@
 
 <br><br><br>
 ## Ultimas notas:
-- [[06. Jardinzin/Certificados Alura\|Certificados Alura]]
-- [[06. Jardinzin/Contato e links externos\|Contato e links externos]]
-- [[04. Cadernos/= 2023-05-30 - Comunicação e estratégias - Autismo e Neurotipicos\|= 2023-05-30 - Comunicação e estratégias - Autismo e Neurotipicos]]
-- [[06. Jardinzin/Currículo\|Currículo]]
-- [[04. Cadernos/🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos\|🌲️ 2022-05 - 📝️ Reflexão sobre o projeto de pesquisa à luz de novas noções e conceitos]]
+- [[04. Cadernos/= 2023-06-04 - Visitas exploratórias a museus - analise educativa\|= 2023-06-04 - Visitas exploratórias a museus - analise educativa]]
+- [[04. Cadernos/= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões\|= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões]]
+- [[03. Acervos/🎓/EDPC_Fiocruz_2022/Museus e Educação Não Formal\|Museus e Educação Não Formal]]
+- [[03. Acervos/📜️/Há sentido na Educação Não Formal na perspectiva da Formação Integral\|Há sentido na Educação Não Formal na perspectiva da Formação Integral]]
+- [[03. Acervos/📜️/& 2023-06-04 - Looking again at non-formal and informal education\|& 2023-06-04 - Looking again at non-formal and informal education]]
 
 { .block-language-dataview}
 
