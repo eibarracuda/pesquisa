@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-conversas-mas-restauro-de-materiais-vitreos-porcelana-faiancas-e-azulejos/","tags":["🖼️/🎥️"],"created":"2023-03-08 09:53","updated":"2023-05-01 21:53"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-08-conversas-mas-restauro-de-materiais-vitreos-porcelana-faiancas-e-azulejos/","tags":["🖼️/🎥️"],"created":"2023-03-08T09:46:45.321-03:00","updated":"2023-05-01T21:53:03.532-03:00"}
 ---
 
 
@@ -57,8 +57,8 @@ Source: Playlist: <a target='_blank' href='https://www.youtube.com/playlist?list
 | Arquivo                                                                                                                                                                                                                                                    | Criado em        | Modificado       | Tema             | Tipo  | Canal                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ----------------------------------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conversas MAS  Materiais para a Restauração e Conservação\|+ 2023-02-27   -  🎥️ Conversas MAS  Materiais para a Restauração e Conservação]]                                     | 2023-02-27 15:07 | 2023-05-05 14:03 | Levantamento TCC | video | MAS SP - Museu de Arte Sacra de São Paulo |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Conversas MAS  Fundamentos da Restauração e Conservação\|+ 2023-03-08   -  🎥️ Conversas MAS  Fundamentos da Restauração e Conservação]]                                         | 2023-03-08 10:11 | 2023-05-01 21:53 | Levantamento TCC | video | MAS SP - Museu de Arte Sacra de São Paulo |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Conversas MAS  Restauro de Materiais Vítreos Porcelana, Faianças e Azulejos\|+ 2023-03-08   -  🎥️ Conversas MAS  Restauro de Materiais Vítreos Porcelana, Faianças e Azulejos]] | 2023-03-08 09:53 | 2023-05-01 21:53 | Levantamento TCC | video | MAS SP - Museu de Arte Sacra de São Paulo |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Conversas MAS  Fundamentos da Restauração e Conservação\|+ 2023-03-08   -  🎥️ Conversas MAS  Fundamentos da Restauração e Conservação]]                                         | 2023-03-08 10:11 | 2023-05-01 21:53 | Levantamento TCC | video | MAS SP - Museu de Arte Sacra de São Paulo |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Entrevista com o restaurador João Rossi\|+ 2023-03-08   -  🎥️ Entrevista com o restaurador João Rossi]]                                                                         | 2023-03-08 10:22 | 2023-05-01 21:53 | Levantamento TCC | video | MAS SP - Museu de Arte Sacra de São Paulo |
 
 { .block-language-dataview}
