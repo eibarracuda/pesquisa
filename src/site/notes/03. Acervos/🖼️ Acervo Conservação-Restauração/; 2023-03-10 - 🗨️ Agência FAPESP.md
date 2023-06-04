@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-agencia-fapesp/","tags":["🖼️/🗨️"],"created":"2023-03-10 16:26","updated":"2023-05-01 21:22"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-10-agencia-fapesp/","tags":["🖼️/🗨️"],"created":"2023-03-10T16:25:50.744-03:00","updated":"2023-05-01T21:22:13.487-03:00"}
 ---
 
 >[!abstract]+ Sobre
