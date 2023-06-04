@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-mpf-consegue-decisao-que-determina-a-ufma-restauracao-e-conservacao-do-palacio-das-lagrimas/","tags":["🖼️/🎥️"],"created":"2023-03-02 18:16","updated":"2023-05-06 19:48"}
+{"dg-publish":true,"permalink":"/03-acervos/acervo-conservacao-restauracao/2023-03-02-mpf-consegue-decisao-que-determina-a-ufma-restauracao-e-conservacao-do-palacio-das-lagrimas/","tags":["🖼️/🎥️"],"created":"2023-03-02T18:16:08.866-03:00","updated":"2023-05-06T19:48:27.176-03:00"}
 ---
 
 
@@ -58,8 +58,8 @@ Source: Playlist: <a target='_blank' href='https://www.youtube.com/playlist?list
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | -------------- |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de objetos sacros.\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de objetos sacros.]]                                                                                         | 2023-03-02 16:26 | 2023-05-05 13:45 | Levantamento TCC | video | William Amorim |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.\|+ 2023-02-27   -  🎥️ Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.]]                         | 2023-02-27 15:49 | 2023-05-05 15:03 | Levantamento TCC | video | William Amorim |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.\|+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.]] | 2023-03-02 18:16 | 2023-05-06 19:48 | Levantamento TCC | video | William Amorim |
 | [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.\|+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.]]                                                   | 2023-03-02 18:37 | 2023-05-05 16:03 | Levantamento TCC | video | William Amorim |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.\|+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.]] | 2023-03-02 18:16 | 2023-05-06 19:48 | Levantamento TCC | video | William Amorim |
 
 { .block-language-dataview}
 ***
