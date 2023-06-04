@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2022-09-visitando-museus-uma-proposta-de-dc/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-15 08:49","updated":"2023-05-01 20:07"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-09-visitando-museus-uma-proposta-de-dc/","tags":["🧠️/📝️/🌲️"],"created":"2023-03-15T08:48:38.936-03:00","updated":"2023-05-01T20:07:11.650-03:00"}
 ---
 
 
