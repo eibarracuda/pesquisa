@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//edpc-fiocruz-2022/museus-e-educacao-nao-formal/","tags":["🧠️/🎓/EDPC2022"],"created":"2023-06-04T16:26:34.734-03:00","updated":"2023-06-04T17:18:01.516-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//edpc-fiocruz-2022/museus-e-educacao-nao-formal/","tags":["🧠️/🎓/EDPC2022"],"created":"2023-06-04T16:26:34.734-03:00","updated":"2023-06-04T20:14:27.928-03:00"}
 ---
 
 
@@ -30,7 +30,7 @@ Os encontros online serão conduzidos a partir de aulas expositivas, dinâmicas,
 Os procedimentos avaliativos na disciplina compreenderão a realização das atividades ao longo dos encontros e entregues de acordo com o cronograma.
 
 - [[04. Cadernos/= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões\|= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões]]
-
+- [[04. Cadernos/= 2023-06-04 - Visitas exploratórias a museus - analise educativa\|= 2023-06-04 - Visitas exploratórias a museus - analise educativa]]
 
 <br><br>
 
@@ -41,13 +41,13 @@ ARANHA, Maria Lúcia Arruda. História da Educação e da Pedagogia. Geral e Bra
 BRANDÃO, Carlos R. A questão política da educação popular. 4. ed. São Paulo: Brasiliense, 1984. p. 710. 
 
 CASTRO, Fernanda Rabello de. Há sentido na Educação Não Formal na perspectiva da Formação Integral? IN: Museologia e Interdisciplinaridade, v. IV, n. 08, dez. 2015. 
-
+- [[03. Acervos/📜️/Há sentido na Educação Não Formal na perspectiva da Formação Integral\|Há sentido na Educação Não Formal na perspectiva da Formação Integral]]
 CASTRO, Fernanda Rabello de. Educação Museal e democracia: uma combinação necessária. In: Revista ventilando Acervos, Florianópolis, v. 4, n. 1, p. 63-82, dez. 2016. 
 
 CHAGAS, Mário. Museus de Ciência: assim é se lhe parece. In: Caderno do Museu da Vida. O formal e o não-formal na dimensão educativa do museu. 2001/2002. 
 
 COSTA, Andréa F.; CASTRO, Fernanda; CHIOVATTO, Milene; SOARES, Ozias de Jesus. Educação Museal. In: Caderno da Política Nacional de Educação Museal. Brasília: Ibram, 2018, p.73-77. Disponível em: https://www.museus.gov.br/wp-content/uploads/2018/06/Caderno-da-PNEM.pdf. Acesso em 20/05/2020. 
-
+- [[03. Acervos/📜️/& 2023-06-04 - Caderno da Política Nacional de Educação Museal\|Caderno da Política Nacional de Educação Museal]]
 COSTA, Andréa F.. (Org.); RANGEL, Aparecida. (Org.); HENZE, Isabel. A. M. (Org.); VALENTE, Esther. (Org.); SOARES, Ozias de Jesus (Org.) ; HORTA, Vivian. (Org.). Crianças no museu: mediação, acessibilidade e inclusão: Museu de Ideias, edição 2016. 1. ed. Rio de Janeiro: Museus Castro Maya, 2017. 
 
 SAVIANI, Demerval. Escola e Democracia . 36ª ed. Campinas, SP: Autores Associados, 2003. 
@@ -107,8 +107,10 @@ VALENTE, Maria Esther; CAZELLI, Sibelle. Incursões sobre os Termos e Conceitos 
 ***
 #### Outras disciplinas desta formação
 
-| Arquivo | Professores | Palavras chave |
-| ------- | ----------- | -------------- |
+| Arquivo                                                                                                                                                                                                                                                                  | Professores                                                   | Palavras chave                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [[03. Acervos/🎓/EDPC_Fiocruz_2022/Acessibilidade cultural - desafios e construção de estratégias para a divulgação científica e a educação museal\|Acessibilidade cultural - desafios e construção de estratégias para a divulgação científica e a educação museal]] | <ul><li>Hilda Gomes</li><li>Jessica Norberto</li></ul>        | <ul><li>Acessibilidade</li></ul>                                                                          |
+| [[03. Acervos/🎓/EDPC_Fiocruz_2022/Museus e Educação Não Formal\|Museus e Educação Não Formal]]                                                                                                                                                                       | <ul><li>Carla Gruzman</li><li>Ozias de Jesus Soares</li></ul> | <ul><li>Museus</li><li>Educação Não Formal</li><li>Centro de Ciencias</li><li>Educação informal</li></ul> |
 
 { .block-language-dataview}
 
