@@ -24,11 +24,11 @@
 
 <br><br><br>
 ## Ultimas notas:
+- [[03. Acervos/📜️/& 2023-02-22 - 📜️ heritageConservationScienceReflections2015\|& 2023-02-22 - 📜️ heritageConservationScienceReflections2015]]
+- [[03. Acervos/🎓/EDPC_Fiocruz_2022/Acessibilidade cultural - desafios e construção de estratégias para a divulgação científica e a educação museal\|Acessibilidade cultural - desafios e construção de estratégias para a divulgação científica e a educação museal]]
+- [[03. Acervos/🎓/EDPC_Fiocruz_2022/Museus e Educação Não Formal\|Museus e Educação Não Formal]]
 - [[04. Cadernos/= 2023-06-04 - Visitas exploratórias a museus - analise educativa\|= 2023-06-04 - Visitas exploratórias a museus - analise educativa]]
 - [[04. Cadernos/= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões\|= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões]]
-- [[03. Acervos/🎓/EDPC_Fiocruz_2022/Museus e Educação Não Formal\|Museus e Educação Não Formal]]
-- [[03. Acervos/📜️/Há sentido na Educação Não Formal na perspectiva da Formação Integral\|Há sentido na Educação Não Formal na perspectiva da Formação Integral]]
-- [[03. Acervos/📜️/& 2023-06-04 - Looking again at non-formal and informal education\|& 2023-06-04 - Looking again at non-formal and informal education]]
 
 { .block-language-dataview}
 
