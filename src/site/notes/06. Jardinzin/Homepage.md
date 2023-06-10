@@ -24,11 +24,11 @@
 
 <br><br><br>
 ## Ultimas notas:
-- [[03. Acervos/📜️/& 2023-02-22 - 📜️ heritageConservationScienceReflections2015\|& 2023-02-22 - 📜️ heritageConservationScienceReflections2015]]
-- [[03. Acervos/🎓/EDPC_Fiocruz_2022/Acessibilidade cultural - desafios e construção de estratégias para a divulgação científica e a educação museal\|Acessibilidade cultural - desafios e construção de estratégias para a divulgação científica e a educação museal]]
-- [[03. Acervos/🎓/EDPC_Fiocruz_2022/Museus e Educação Não Formal\|Museus e Educação Não Formal]]
+- [[03. Acervos/📜️/& 2023-06-10 - Memória e Preservação - a construção epistemológica da Ciência da Conservação\|& 2023-06-10 - Memória e Preservação - a construção epistemológica da Ciência da Conservação]]
+- [[03. Acervos/📜️/& 2023-06-09 - Historical issues - the basis of Conservation Science and Conservator-Restorer training\|& 2023-06-09 - Historical issues - the basis of Conservation Science and Conservator-Restorer training]]
 - [[04. Cadernos/= 2023-06-04 - Visitas exploratórias a museus - analise educativa\|= 2023-06-04 - Visitas exploratórias a museus - analise educativa]]
 - [[04. Cadernos/= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões\|= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões]]
+- [[03. Acervos/📜️/& 2023-02-22 - 📜️ heritageConservationScienceReflections2015\|& 2023-02-22 - 📜️ heritageConservationScienceReflections2015]]
 
 { .block-language-dataview}
 
