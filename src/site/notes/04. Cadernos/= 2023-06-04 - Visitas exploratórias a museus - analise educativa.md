@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-06-04-visitas-exploratorias-a-museus-analise-educativa/","title":"Visitas exploratórias a museus - analise educativa","tags":["🧠️/📝️/🌲️"],"created":"2023-06-04T17:31:36.935-03:00","updated":"2023-06-04T18:35:28.578-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-06-04-visitas-exploratorias-a-museus-analise-educativa/","title":"Visitas exploratórias a museus - analise educativa","tags":["🧠️/📝️/🌲️"],"created":"2023-06-04T17:31:36.935-03:00","updated":"2023-06-09T12:05:08.771-03:00"}
 ---
 
 
 ***
-| Relacionados |
-| ------------ |
+| Relacionados                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[03. Acervos/🎓/EDPC_Fiocruz_2022/Museus e Educação Não Formal\|Museus e Educação Não Formal]]<br><small>*Modificado em: 8:14 PM - June 04, 2023*</small> \| <small>Criado em: 4:26 PM - June 04, 2023</small> |
 
 { .block-language-dataview}
 ***
@@ -17,7 +18,7 @@
 #  🌲️ Visitas exploratórias a museus - analise educativa 
 <small>2022-05-19</small>
 
->[!info]+ Trabalho produzido em grupo para disciplina: [[03. Acervos/🎓/EDPC_Fiocruz_2022/Museus e Educação Não Formal\|Museus e Educação Não Formal]]
+>[!info]+ Trabalho produzido em grupo para disciplina: [[04. Cadernos/= 2023-06-09 - Museus e Educação Não Formal\|= 2023-06-09 - Museus e Educação Não Formal]]
 > **Atividade 4 – Selecionar um museu para a realização de visita exploratória em grupo**
 >
 >O planejamento das exposições é guiado pelas diretrizes políticas do museu e deve refletir as premissas que orientam a missão institucional. Assim, o museu estabelece os princípios e os planos de ação que servem como marco para o desenvolvimento das exposições previstas em um período determinado, sejam elas de longa duração, temporárias ou itinerantes.
@@ -381,7 +382,7 @@ http://www.museuafrobrasil.org.br/pesquisa/indice-biografico/lista-de-biografias
 <br><br><br>
 ### Fontes:
 
-- [[03. Acervos/🎓/EDPC_Fiocruz_2022/Museus e Educação Não Formal\|Museus e Educação Não Formal]]
+- [[04. Cadernos/= 2023-06-09 - Museus e Educação Não Formal\|= 2023-06-09 - Museus e Educação Não Formal]]
 
 
 
