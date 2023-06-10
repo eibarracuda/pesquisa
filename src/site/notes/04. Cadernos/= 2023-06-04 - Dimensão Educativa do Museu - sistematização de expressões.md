@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2023-06-04-dimensao-educativa-do-museu-sistematizacao-de-expressoes/","title":"Dimensão Educativa do Museu - sistematização de expressões","tags":["🧠️/📝️/🌲️"],"created":"2023-06-04T16:42:28.399-03:00","updated":"2023-06-04T17:19:08.275-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2023-06-04-dimensao-educativa-do-museu-sistematizacao-de-expressoes/","title":"Dimensão Educativa do Museu - sistematização de expressões","tags":["🧠️/📝️/🌲️"],"created":"2023-06-04T16:42:28.399-03:00","updated":"2023-06-09T12:05:08.659-03:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 #  🌲️ Dimensão Educativa do Museu - sistematização de expressões 
 <small>2022-05-08</small>
 
->[!info]+ Trabalho produzido para disciplina: [[03. Acervos/🎓/EDPC_Fiocruz_2022/Museus e Educação Não Formal\|Museus e Educação Não Formal]]
+>[!info]+ Trabalho produzido para disciplina: [[04. Cadernos/= 2023-06-09 - Museus e Educação Não Formal\|= 2023-06-09 - Museus e Educação Não Formal]]
 > Na atualidade, encontramos diversas expressões que indicam e qualificam aspectos da dimensão educativa dos museus (e aquelas que contribuem para esse debate). Com o objetivo de refletir sobre as suas particularidades e possíveis convergências, convidamos vocês a realizarem um mapeamento e organização de um quadro geral com as definições encontradas sobre esses termos, a partir da bibliografia indicada. Após a leitura prévia dos textos e as discussões realizadas em grupo, destaque os aspectos centrais:
 
 ### Educação formal
@@ -110,7 +110,7 @@ Um dos campos especializados da Educação não formal, tendo como espaço insti
 <br>
 
 ### Fontes: 
-- [[03. Acervos/🎓/EDPC_Fiocruz_2022/Museus e Educação Não Formal\|Museus e Educação Não Formal]]
+- [[04. Cadernos/= 2023-06-09 - Museus e Educação Não Formal\|= 2023-06-09 - Museus e Educação Não Formal]]
 - [[03. Acervos/📜️/& 2023-06-04 - Caderno da Política Nacional de Educação Museal\|& 2023-06-04 - Caderno da Política Nacional de Educação Museal]]
 - [[03. Acervos/📜️/& 2023-06-04 - INCURSÕES SOBRE OS TERMOS E CONCEITOS DA EDUCAÇÃO MUSEAL\|& 2023-06-04 - INCURSÕES SOBRE OS TERMOS E CONCEITOS DA EDUCAÇÃO MUSEAL]]
 - [[03. Acervos/📜️/& 2023-06-04 - Looking again at non-formal and informal education\|& 2023-06-04 - Looking again at non-formal and informal education]]
