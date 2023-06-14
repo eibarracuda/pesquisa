@@ -21,9 +21,9 @@ Composição material da obra de arte. Vulnerabilidade de materiais às degrada�
 ***
 #### Outras disciplinas desta formação
 
-| Arquivo                                                                                                             | Professores       | Palavras chave                                                         |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------- |
-| [[03. Acervos/🎓/CRBCM_UFMG/Causas de Deterioração em Bens Culturais\|Causas de Deterioração em Bens Culturais]] | Alessandra Rosado | <ul><li>Causas de deterioração</li><li>Análise e diagnóstico</li></ul> |
+| Arquivo                                                                                                             | Professores       | Palavras chave                               |
+| ------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
+| [[03. Acervos/🎓/CRBCM_UFMG/Causas de Deterioração em Bens Culturais\|Causas de Deterioração em Bens Culturais]] | Alessandra Rosado | Causas de deterioração,Análise e diagnóstico |
 
 { .block-language-dataview}
 
