@@ -41,7 +41,7 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                                  | Criado em        | Modificado       | Tema             | Tipo  | Canal         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ------------- |
-| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ VORTEX - Processo de restauração de arte  Art Conservation\|+ 2023-02-27   -  🎥️ VORTEX - Processo de restauração de arte  Art Conservation]] | 2023-02-27 15:41 | 2023-05-05 15:45 | Levantamento TCC | video | Rafael Albani |
+| [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ VORTEX - Processo de restauração de arte  Art Conservation\|+ 2023-02-27   -  🎥️ VORTEX - Processo de restauração de arte  Art Conservation]] | 2023-02-27 15:41 | 2023-06-14 20:01 | Levantamento TCC | video | Rafael Albani |
 
 { .block-language-dataview}
 ***
