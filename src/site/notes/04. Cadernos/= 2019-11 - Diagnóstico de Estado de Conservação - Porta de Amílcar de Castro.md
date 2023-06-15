@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2019-11-diagnostico-de-estado-de-conservacao-porta-de-amilcar-de-castro/","title":"Diagnóstico de Estado de Conservação - Porta de Amílcar de Castro","tags":["🧠️/📝️/🌲️"],"created":"2023-06-14T09:18:28.589-03:00","updated":"2023-06-14T09:31:03.435-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2019-11-diagnostico-de-estado-de-conservacao-porta-de-amilcar-de-castro/","title":"Diagnóstico de Estado de Conservação - Porta de Amílcar de Castro","tags":["🧠️/📝️/🌲️"],"created":"2023-06-14T09:18:28.589-03:00","updated":"2023-06-14T20:52:07.676-03:00"}
 ---
 
 
@@ -68,7 +68,9 @@ Atualmente a obra apresenta incisões, manchas esbranquiçadas, a superfície es
 
 ### Diagnóstico de estado de conservação
 
-![](file:///C:/Users/marta/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![XX - Anexos/647a52739fed874d3f5810e83ba582c0_MD5.jpg](/img/user/XX%20-%20Anexos/647a52739fed874d3f5810e83ba582c0_MD5.jpg)
+
+
 
 Devido ao local onde se encontra a obra é possível notar deteriorações causadas pelos seguintes agentes:
 
@@ -80,7 +82,8 @@ Devido ao local onde se encontra a obra é possível notar deteriorações causa
 1.4. **Umidade inadequada –** causa corrosão e problemas estruturais na obra, flutuação e amplitude.
 1.5. **Pestes -** certas bactérias anaeróbicas participam do processo de corrosão dos metais
 
- ![](file:///C:/Users/marta/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+ ![XX - Anexos/dd3263cd621d639689638862af4f4343_MD5.jpg](/img/user/XX%20-%20Anexos/dd3263cd621d639689638862af4f4343_MD5.jpg)
+
 
 Uma das deteriorações causadas em bens constituídos por metais é corrosão, degradação de um material devido a ação de agentes corrosivos químicos, eletroquímicos ou biológicos presentes no ambiente. O material se transforma em sais, óxidos ou ambos apresentando uma ou mais das seguintes consequências:
 
