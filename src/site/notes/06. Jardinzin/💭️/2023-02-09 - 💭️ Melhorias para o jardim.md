@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin//2023-02-09-melhorias-para-o-jardim/","tags":["🧠️/💭️/🍀/"],"created":"2023-05-15T21:37:27.858-03:00","updated":"2023-05-15T21:44:11.573-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin//2023-02-09-melhorias-para-o-jardim/","tags":["🧠️/💭️/🍀/"],"created":"2023-05-15T21:37:27.858-03:00","updated":"2023-07-02T14:13:21.651-03:00"}
 ---
 
 
