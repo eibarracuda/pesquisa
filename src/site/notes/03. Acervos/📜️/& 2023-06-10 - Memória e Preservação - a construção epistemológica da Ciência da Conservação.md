@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-10-memoria-e-preservacao-a-construcao-epistemologica-da-ciencia-da-conservacao/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-10T13:03:30.408-03:00","updated":"2023-06-10T13:06:21.355-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-10-memoria-e-preservacao-a-construcao-epistemologica-da-ciencia-da-conservacao/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-10T13:03:30.408-03:00","updated":"2023-07-02T18:19:18.234-03:00"}
 ---
 
 
 
 
->FRONER, Y.-A. **Memória e Preservação: a construção epistemológica da Ciência da Conservação**. Disponível em: <[http://antigo.casaruibarbosa.gov.br/dados/DOC/palestras/memo_info/mi_2007/FCRB_MI_Memoria_e_Preservacao_A_construcao_epistemologica_da_Ciencia_da_Conservacao.pdf](http://antigo.casaruibarbosa.gov.br/dados/DOC/palestras/memo_info/mi_2007/FCRB_MI_Memoria_e_Preservacao_A_construcao_epistemologica_da_Ciencia_da_Conservacao.pdf)>. Acesso em: 9 jun. 2023.
+>FRONER, Y.-A. **Memória e Preservação: a construção epistemológica da Ciência da Conservação**. 2007. Disponível em: <[http://antigo.casaruibarbosa.gov.br/dados/DOC/palestras/memo_info/mi_2007/FCRB_MI_Memoria_e_Preservacao_A_construcao_epistemologica_da_Ciencia_da_Conservacao.pdf](http://antigo.casaruibarbosa.gov.br/dados/DOC/palestras/memo_info/mi_2007/FCRB_MI_Memoria_e_Preservacao_A_construcao_epistemologica_da_Ciencia_da_Conservacao.pdf)>. Acesso em: 9 jun. 2023.
 
 # Memória e Preservação: a construção epistemológica da Ciência da Conservação
 ## [[Yacy-Ara Froner\|Yacy-Ara Froner]]  **(2007)**
