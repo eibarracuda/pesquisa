@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-05-23-o-desafio-da-comunicacao-nos-museus-universitarios/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-05-23T15:23:36.236-03:00","updated":"2023-05-23T15:33:24.541-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-05-23-o-desafio-da-comunicacao-nos-museus-universitarios/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-05-23T15:23:36.236-03:00","updated":"2023-07-02T14:13:13.303-03:00"}
 ---
 
 
