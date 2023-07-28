@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-04-looking-again-at-non-formal-and-informal-education/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-04T16:50:36.395-03:00","updated":"2023-06-04T17:06:15.745-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-04-looking-again-at-non-formal-and-informal-education/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-04T16:50:36.395-03:00","updated":"2023-07-02T14:13:13.103-03:00"}
 ---
 
 
