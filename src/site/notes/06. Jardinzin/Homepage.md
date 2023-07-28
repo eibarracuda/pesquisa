@@ -24,11 +24,11 @@
 
 <br><br><br>
 ## Ultimas notas:
-- [[04. Cadernos/= 2019-11 - Embalagens - Transporte de livro\|= 2019-11 - Embalagens - Transporte de livro]]
-- [[04. Cadernos/= 2019-11 - Diagnóstico de Estado de Conservação - Porta de Amílcar de Castro\|= 2019-11 - Diagnóstico de Estado de Conservação - Porta de Amílcar de Castro]]
-- [[03. Acervos/🎓/CRBCM_UFMG/Causas de Deterioração em Bens Culturais\|Causas de Deterioração em Bens Culturais]]
-- [[03. Acervos/🎓/CRBCM_UFMG/Conservação Preventiva\|Conservação Preventiva]]
+- [[07. Projetos/ECM/Produtos/Divertimentos Geométricos\|Divertimentos Geométricos]]
+- [[05. Utilitários/Mapa TCC\|Mapa TCC]]
 - [[03. Acervos/📜️/& 2023-06-10 - Memória e Preservação - a construção epistemológica da Ciência da Conservação\|& 2023-06-10 - Memória e Preservação - a construção epistemológica da Ciência da Conservação]]
+- [[03. Acervos/🎓/EDPC_Fiocruz/Museus e Educação Não Formal\|Museus e Educação Não Formal]]
+- [[03. Acervos/🎓/CRBCM_UFMG/Causas de Deterioração em Bens Culturais\|Causas de Deterioração em Bens Culturais]]
 
 { .block-language-dataview}
 
