@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin//2023-02-10-jupyter-e-md/","tags":["🧠️/💭️/🍀/"],"created":"2023-05-15T21:37:27.921-03:00","updated":"2023-05-15T21:39:18.450-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin//2023-02-10-jupyter-e-md/","tags":["🧠️/💭️/🍀/"],"created":"2023-05-15T21:37:27.921-03:00","updated":"2023-07-02T14:13:21.618-03:00"}
 ---
 
 
