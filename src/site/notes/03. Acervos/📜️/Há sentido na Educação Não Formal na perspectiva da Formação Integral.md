@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//ha-sentido-na-educacao-nao-formal-na-perspectiva-da-formacao-integral/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-04T16:50:26.858-03:00","updated":"2023-06-04T17:10:10.419-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//ha-sentido-na-educacao-nao-formal-na-perspectiva-da-formacao-integral/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-04T16:50:26.858-03:00","updated":"2023-07-02T14:13:13.150-03:00"}
 ---
 
 
