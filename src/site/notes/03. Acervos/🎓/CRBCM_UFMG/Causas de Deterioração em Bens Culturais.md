@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//crbcm-ufmg/causas-de-deterioracao-em-bens-culturais/","tags":["🧠️/🎓/CRBCMUFMG"],"created":"2023-06-14T08:48:59.359-03:00","updated":"2023-06-14T19:49:13.211-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//crbcm-ufmg/causas-de-deterioracao-em-bens-culturais/","tags":["🧠️/🎓/CRBCMUFMG"],"created":"2023-06-14T08:48:59.359-03:00","updated":"2023-07-02T14:13:23.484-03:00"}
 ---
 
 
