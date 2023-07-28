@@ -6,7 +6,7 @@
 ***
 | Relacionados                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[03. Acervos/🎓/EDPC_Fiocruz/Museus e Educação Não Formal\|Museus e Educação Não Formal]]<br><small>*Modificado em: 8:14 PM - June 04, 2023*</small> \| <small>Criado em: 4:26 PM - June 04, 2023</small> |
+| [[03. Acervos/🎓/EDPC_Fiocruz/Museus e Educação Não Formal\|Museus e Educação Não Formal]]<br><small>*Modificado em: 2:13 PM - July 02, 2023*</small> \| <small>Criado em: 4:26 PM - June 04, 2023</small> |
 
 { .block-language-dataview}
 ***
