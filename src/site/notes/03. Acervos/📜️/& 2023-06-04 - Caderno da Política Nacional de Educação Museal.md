@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-04-caderno-da-politica-nacional-de-educacao-museal/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-04T16:50:33.254-03:00","updated":"2023-06-04T16:58:12.808-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-04-caderno-da-politica-nacional-de-educacao-museal/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-04T16:50:33.254-03:00","updated":"2023-07-02T14:13:13.270-03:00"}
 ---
 
 
