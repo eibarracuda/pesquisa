@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-projetos/marta-rede-de-museus/produtos/divertimentos-geometricos/","title":"Divertimentos Geométricos","tags":["tcm/materialdidatico"],"created":"2023-07-25T14:58:22.535-03:00","updated":"2023-07-31T15:31:45.942-03:00"}
+{"dg-publish":true,"permalink":"/07-projetos/marta-rede-de-museus/produtos/divertimentos-geometricos/","title":"Divertimentos Geométricos","tags":["tcm/materialdidatico"],"created":"2023-07-25T14:58:22.535-03:00","updated":"2023-07-31T15:55:29.030-03:00"}
 ---
 
-![Logo tem ciencia no museu](/img/user/XX - Anexos/Pasted image 20230725154756.png)
+![Pasted image 20230725154756.png|Logo tem ciencia no museu](/img/user/XX%20-%20Anexos/Pasted%20image%2020230725154756.png)
 
 
 # <center>Divertimentos Geométricos: </center>
@@ -24,27 +24,27 @@ Fabio Enrique Brochero Martínez
 ___
 ## Sumário
 
--  [](#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E###%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E###%20Educa%C3%A7%C3%A3o%20cient%C3%ADfica%20em%20museus:%20desenvolvimento%20do%20pensamento%20cient%C3%ADfico,%20cr%C3%ADtico%20e%20criativo%20na%20imers%C3%A3o%20dos%20acervos%20universit%C3%A1rios%20da%20UFMG%7CApresenta%C3%A7%C3%A3o)
--  [](#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E#S%C3%B3lidos%20Plat%C3%B4nicos%7CS%C3%B3lidos%20Plat%C3%B4nicos)
-	- [](#S%C3%B3lidos%20Plat%C3%B4nicos#S%C3%B3lidos%20Plat%C3%B4nicos#1.1%20Porque%20somente%205%20S%C3%B3lidos%20Perfeitos?%7C1.1%20Porque%20somente%205%20S%C3%B3lidos%20Perfeitos?)
-	- [](#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E#1.2%20Constru%C3%A7%C3%A3o%20de%20%E2%80%9CPol%C3%ADgonos%20de%20Encaixe%E2%80%9D%7C1.2%20Constru%C3%A7%C3%A3o%20de%20%E2%80%9CPol%C3%ADgonos%20de%20Encaixe%E2%80%9D)
-		- [](#1.2%20Constru%C3%A7%C3%A3o%20de%20%E2%80%9CPol%C3%ADgonos%20de%20Encaixe%E2%80%9D#1.2%20Constru%C3%A7%C3%A3o%20de%20%E2%80%9CPol%C3%ADgonos%20de%20Encaixe%E2%80%9D#1.2.1%20Tri%C3%A2ngulos%20de%20encaixe%7C1.2.1%20Tri%C3%A2ngulos%20de%20encaixe)
-		- [](#1.2%20Constru%C3%A7%C3%A3o%20de%20%E2%80%9CPol%C3%ADgonos%20de%20Encaixe%E2%80%9D#1.2%20Constru%C3%A7%C3%A3o%20de%20%E2%80%9CPol%C3%ADgonos%20de%20Encaixe%E2%80%9D#1.2.2%20Quadrados%20e%20Pent%C3%A1gonos%20de%20encaixe%7C1.2.2%20Quadrados%20e%20Pent%C3%A1gonos%20de%20encaixe)
-	- [](#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E#1.3%20Uma%20proposta%20para%20sala%20de%20aula%7C1.3%20Uma%20proposta%20para%20sala%20de%20aula)
-		- [](#1.3%20Uma%20proposta%20para%20sala%20de%20aula#1.3%20Uma%20proposta%20para%20sala%20de%20aula#1.3.1.%20Montando%20o%20Tetraedro%7C1.3.1.%20Montando%20o%20Tetraedro)
-		- [](#1.3%20Uma%20proposta%20para%20sala%20de%20aula#1.3%20Uma%20proposta%20para%20sala%20de%20aula#1.3.2%20Montando%20o%20Octaedro%7C1.3.2%20Montando%20o%20Octaedro)
-		- [](#1.3%20Uma%20proposta%20para%20sala%20de%20aula#1.3%20Uma%20proposta%20para%20sala%20de%20aula#1.3.3%20Montando%20o%20Cubo%7C1.3.3%20Montando%20o%20Cubo)
-		- [](#1.3%20Uma%20proposta%20para%20sala%20de%20aula#1.3%20Uma%20proposta%20para%20sala%20de%20aula#1.3.4%20Montando%20o%20Icosaedro%7C1.3.4%20Montando%20o%20Icosaedro)
-		- [](#1.3%20Uma%20proposta%20para%20sala%20de%20aula#1.3%20Uma%20proposta%20para%20sala%20de%20aula#1.3.5%20Montando%20o%20Dodecaedro%7C1.3.5%20Montando%20o%20Dodecaedro)
-	- [](#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E#Refer%C3%AAncias%20Bibliogr%C3%A1ficas%7CRefer%C3%AAncias%20Bibliogr%C3%A1ficas)
-	- [](#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E#%3Ccenter%3EDivertimentos%20Geom%C3%A9tricos:%20%3C/center%3E#Moldes%7CMoldes)
+-  [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|Apresentação]]
+-  [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|Sólidos Platônicos]]
+	- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#Sólidos Platônicos\|1.1 Porque somente 5 Sólidos Perfeitos?]]
+	- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|1.2 Construção de “Polígonos de Encaixe”]]
+		- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#1.2 Construção de “Polígonos de Encaixe”\|1.2.1 Triângulos de encaixe]]
+		- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#1.2 Construção de “Polígonos de Encaixe”\|1.2.2 Quadrados e Pentágonos de encaixe]]
+	- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|1.3 Uma proposta para sala de aula]]
+		- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.1. Montando o Tetraedro]]
+		- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.2 Montando o Octaedro]]
+		- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.3 Montando o Cubo]]
+		- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.4 Montando o Icosaedro]]
+		- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.5 Montando o Dodecaedro]]
+	- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|Referências Bibliográficas]]
+	- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|Moldes]]
 
 ***
 
 #### Este material é um produto do projeto: 
 ## Educação científica em museus: desenvolvimento do pensamento científico, crítico e criativo na imersão dos acervos universitários da UFMG   
 
-![Logo tem ciencia no museu|250](/img/user/XX - Anexos/Pasted image 20230725154756.png)
+![Pasted image 20230725154756.png|Logo tem ciencia no museu](/img/user/XX%20-%20Anexos/Pasted%20image%2020230725154756.png)
 
 O projeto visa promover a educação científica e o treinamento científico para visitantes da comunidade em geral, professores e estudantes da educação básica, por meio de experiências imersivas nos acervos da Rede de Museus da UFMG (Universidade Federal de Minas Gerais), com o apoio da FAPEMIG. A justificativa para a realização do projeto é a importância da divulgação científica e da utilização de espaços não formais, como museus e centros culturais, para a educação científica da população. 
 
@@ -55,7 +55,7 @@ O público-alvo do projeto inclui a comunidade em geral e, especialmente, profes
 A longo prazo, o projeto aspira criar uma cultura de visitação a museus e espaços de ciência, promovendo o prazer do aprendizado e a alfabetização científica na sociedade. 
 Saiba mais sobre o desenrolar deste e outros projetos no site da Rede de Museus, contribua com relatos do uso deste material nas nossas redes e não perca nenhuma atividade, ficando de olho na nossa Agenda Científico-Cultural! 
 
-Outras redes: https://linktr.ee/rededemuseus
+Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 
 
 
@@ -63,7 +63,7 @@ Outras redes: https://linktr.ee/rededemuseus
 
 
 
-![Design sem nome](/img/user/XX - Anexos/rede/Design sem nome.png)
+![Design sem nome.png](/img/user/07.%20Projetos/Marta_RedeDeMuseus/TCM_Anexos/Design%20sem%20nome.png)
 
 ***
 #### Em parceria com: 
@@ -90,7 +90,7 @@ http://www.mat.ufmg.br/museu
 https://www.instagram.com/mumatufmg
 
 
-![200](/img/user/XX - Anexos/rede/Image_001.png)
+![07. Projetos/Marta_RedeDeMuseus/TCM_Anexos/Image_001.png|200](/img/user/07.%20Projetos/Marta_RedeDeMuseus/TCM_Anexos/Image_001.png)
 
 ***
 
@@ -142,7 +142,7 @@ Podemos responder essa pergunta usando uma bela fórmula que relaciona o número
 Leonhard Paul Euler nasceu em Basel, Suíça em 1707 e morreu em São Petersburgo, Império Russo em 1783. Foi o matemático mais proeminente do século XVIII e um dos maiores de toda a história.
 
 
-![Retrato de Leonhard Paul Euler](/img/user/XX - Anexos/Image_003.jpg)
+![XX - Anexos/Image_003.jpg|Retrato de Leonhard Paul Euler](/img/user/XX%20-%20Anexos/Image_003.jpg)
 ###### Figura 1: Retrato de Leonhard Paul Euler
 
 Ele viveu em São Petersburgo (Rússia) e em Berlim (Prússia) durante a maioria de sua vida adulta, e fez importantes contribuições a diversas áreas da Matemática, entre elas, Teoria dos Números, Geometria, Cálculo, Álgebra e Probabilidade. Euler também teve relevantes trabalhos nos campos da Mecânica, Ótica e Astronomia. Foi responsável pelo nascimento da Teoria de Grafos, resolvendo o problema das sete pontes de Königsberg, e deixou sua marca na Matemática Recreativa.
@@ -159,14 +159,14 @@ De volta aos sólidos convexos, Euler descobriu, em 1750, que para esse tipo de 
 Esta fórmula também vale para qualquer *mapa plano*, isto é, nas quais as fronteiras não se cruzam em nenhum ponto além dos vértices. Consideremos, por exemplo, o seguinte mapa:
 
 
-![Exemplo de mapa plano|300](/img/user/XX - Anexos/Pasted image 20230726154257.png)
+![Pasted image 20230726154257.png|Exemplo de mapa plano](/img/user/XX%20-%20Anexos/Pasted%20image%2020230726154257.png)
 ###### Figura 2: Exemplo de mapa plano
 
 Nele o número de arestas é $A = 9$, o número de vértices é $V = 6$ e eles dividem todo o plano em cinco regiões (contando a parte externa), desta forma $F = 5$. 
 
 Assim temos que $V + F - A = 6+5-9=2$, satisfazendo então a Fórmula de Euler. Neste caso o mapa do exemplo esta formado por, três triângulos, um quadrilátero e a outra exterior é o complemento de um pentágono (que chamaremos simplesmente de pentágono). Consideremos agora o mapa da Figura 3: 
 
-![Grafo plano](/img/user/XX - Anexos/Image_005.png)
+![XX - Anexos/Image_005.png|Grafo plano](/img/user/XX%20-%20Anexos/Image_005.png)
 ###### Figura 3: Grafo plano
 
 **Podemos observar que novamente a Fórmula de Euler é válida!**
@@ -195,7 +195,7 @@ Multiplicando a relação de Euler por 3 e substituindo $V$ e $F$ nessa fórmula
 
 |     |     |
 | --- | --- |
-|Logo a figura terá 6 arestas, e, portanto, 4 faces e 4 vértices. Esta figura é chamada de *Tetraedro Regular*. |   ![Image_007](/img/user/XX - Anexos/Image_007.png)<br>Tetraedro  |
+|Logo a figura terá 6 arestas, e, portanto, 4 faces e 4 vértices. Esta figura é chamada de *Tetraedro Regular*. |   ![XX - Anexos/Image_007.png](/img/user/XX%20-%20Anexos/Image_007.png)<br>Tetraedro  |
 
 
 
@@ -214,7 +214,7 @@ Multiplicando a relação de Euler por $6$ e substituindo $V$ e $F$ nessa fórmu
 
 |     |     |
 | --- | --- |
-|Logo a figura terá 12 arestas, e, portanto, 8 faces e 6 vértices. Esta figura é chamada de *Octaedro Regular*.|![Image_008](/img/user/XX - Anexos/Image_008.png)<br>Octaedro|
+|Logo a figura terá 12 arestas, e, portanto, 8 faces e 6 vértices. Esta figura é chamada de *Octaedro Regular*.|![XX - Anexos/Image_008.png](/img/user/XX%20-%20Anexos/Image_008.png)<br>Octaedro|
 
 
 
@@ -236,7 +236,7 @@ Multiplicando a relação de Euler por $15$ e substituindo $V$ e $F$ nessa fórm
 
 |     |     |
 | --- | --- |
-|Logo a figura terá 30 arestas, e, portanto, 20 faces e 12 vértices. Esta figura é chamada de *Icosaedro Regular*.|![Image_009](/img/user/XX - Anexos/Image_009.png)<br>Icosaedro|
+|Logo a figura terá 30 arestas, e, portanto, 20 faces e 12 vértices. Esta figura é chamada de *Icosaedro Regular*.|![XX - Anexos/Image_009.png](/img/user/XX%20-%20Anexos/Image_009.png)<br>Icosaedro|
 
 
 No caso das faces serem quadradas, teremos as relações: 
@@ -253,7 +253,7 @@ Multiplicando a relação de Euler por $6$ temos:
 
 |     |     |
 | --- | --- |
-|Logo a figura terá 12 arestas, e, portanto, 6 faces e 8 vértices. Esta figura é chamada de *Cubo*.|![Image_010](/img/user/XX - Anexos/Image_010.png)<br>Cubo|
+|Logo a figura terá 12 arestas, e, portanto, 6 faces e 8 vértices. Esta figura é chamada de *Cubo*.|![XX - Anexos/Image_010.png](/img/user/XX%20-%20Anexos/Image_010.png)<br>Cubo|
 
 
 
@@ -268,7 +268,7 @@ Multiplicando a relação de Euler por 15 e substituindo $V$ e $F$ nessa fórmul
 
 |     |     |
 | --- | --- |
-|Logo, a figura terá 30 arestas, e, portanto, 12 faces e 20 vértices. Esta figura é chamada de *Dodecaedro Regular*.|![Image_011](/img/user/XX - Anexos/Image_011.png)<br>Dodecaedro|
+|Logo, a figura terá 30 arestas, e, portanto, 12 faces e 20 vértices. Esta figura é chamada de *Dodecaedro Regular*.|![XX - Anexos/Image_011.png](/img/user/XX%20-%20Anexos/Image_011.png)<br>Dodecaedro|
 
 Podemos resumir isso na seguinte tabela:
 
@@ -296,7 +296,7 @@ Para isso
 
 |                    |                    |                    |
 | ------------------ | ------------------ | ------------------ |
-| ![Image_014](/img/user/XX - Anexos/Image_014.png) | ![Image_012](/img/user/XX - Anexos/Image_012.png) | ![Image_013](/img/user/XX - Anexos/Image_013.png) |
+| ![XX - Anexos/Image_014.png](/img/user/XX%20-%20Anexos/Image_014.png) | ![XX - Anexos/Image_012.png](/img/user/XX%20-%20Anexos/Image_012.png) | ![XX - Anexos/Image_013.png](/img/user/XX%20-%20Anexos/Image_013.png) |
 | (a)                   |          (b)          |         (c)           |
 ###### Figura 4: Confeccionando os Triângulos de Encaixe
 
@@ -308,7 +308,7 @@ Para isso
 
 |                    |                    |                    |
 | ------------------ | ------------------ | ------------------ |
-| ![Image_015](/img/user/XX - Anexos/Image_015.png) | ![Image_016](/img/user/XX - Anexos/Image_016.png) | ![Image_017](/img/user/XX - Anexos/Image_017.png) |
+| ![XX - Anexos/Image_015.png](/img/user/XX%20-%20Anexos/Image_015.png) | ![XX - Anexos/Image_016.png](/img/user/XX%20-%20Anexos/Image_016.png) | ![XX - Anexos/Image_017.png](/img/user/XX%20-%20Anexos/Image_017.png) |
 | (a)                   |    (b)                |     (c)               |
 ###### Figura 5: Construção dos cortes de encaixe
 
@@ -319,7 +319,7 @@ Essas figuras serão usadas para montar três poliedros: Tetraedro, Octaedro e I
 
 |                    |                    |
 | ------------------ | ------------------ |
-| ![Image_018](/img/user/XX - Anexos/Image_018.png) | ![Image_019](/img/user/XX - Anexos/Image_019.png) |
+| ![XX - Anexos/Image_018.png](/img/user/XX%20-%20Anexos/Image_018.png) | ![XX - Anexos/Image_019.png](/img/user/XX%20-%20Anexos/Image_019.png) |
 | (a)                   |(b)                    |
 ###### Figura 6: "Peça Triangular" (a) e Polígono de Reuleaux (b).
 
@@ -329,7 +329,7 @@ Análoga à construção das peças triangulares, se constroem as peças quadrad
 
 |                    |                    |
 | ------------------ | ------------------ |
-| ![Image_020](/img/user/XX - Anexos/Image_020.png) | ![Image_021](/img/user/XX - Anexos/Image_021.png) |
+| ![XX - Anexos/Image_020.png](/img/user/XX%20-%20Anexos/Image_020.png) | ![XX - Anexos/Image_021.png](/img/user/XX%20-%20Anexos/Image_021.png) |
 | (a)                   |(b)                    |
 ###### Figura 7: “Peças Quadrada e Pentagonal”
 
@@ -343,7 +343,7 @@ O uso desta atividade é justificado não somente pela curiosidade natural que e
 Construído a partir de compasso ou seguindo os moldes disponibilizados ao fim desta apostila. As peças devem ser reproduzidas em cartolina, ou papel de uma gramatura semelhante à da cartolina. Após reproduzidas, é preciso recortá-las. Em seguida, marcar uma dobra sobre os lados do triângulo, quadrado ou pentágono. Finalmente recortar os pequenos arcos de circunferência das abas e as peças estarão prontas.
 
 
-![Algumas peças montadas](/img/user/XX - Anexos/Image_022.jpg)
+![XX - Anexos/Image_022.jpg|Algumas peças montadas](/img/user/XX%20-%20Anexos/Image_022.jpg)
 
 
 ***
@@ -354,8 +354,8 @@ O Tetraedro é um poliedro com 4 faces, 6 arestas e 4 vértices, nas quais cada 
 
 |                 |                                                           |
 | ------------------ | ------------------------------------------------------------ |
-| ![Image_023](/img/user/XX - Anexos/Image_023.jpg) | Encaixe as abas das 4 peças como indicado na figura ao lado. |
-|   Em seguida encaixe os triângulos laranja e azul e finalmente encaixe as abas dos triângulos azul, laranja e amarelo formando assim o tetraedro.       |              ![Image_024](/img/user/XX - Anexos/Image_024.jpg)                                                |
+| ![XX - Anexos/Image_023.jpg](/img/user/XX%20-%20Anexos/Image_023.jpg) | Encaixe as abas das 4 peças como indicado na figura ao lado. |
+|   Em seguida encaixe os triângulos laranja e azul e finalmente encaixe as abas dos triângulos azul, laranja e amarelo formando assim o tetraedro.       |              ![XX - Anexos/Image_024.jpg](/img/user/XX%20-%20Anexos/Image_024.jpg)                                                |
 
 
 
@@ -367,9 +367,9 @@ O Octaedro é um poliedro com 8 faces triangulares, 12 arestas e 6 vértices, no
 
 |                                                                                              |                                                                                                            |
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| ![Image_025](/img/user/XX - Anexos/Image_025.jpg)                                                                              | Encaixe quatro peças triangulares de tal forma que fiquem com um vértice em comum formando assim uma pirâmide. |
-| Repita esse processo para a construção de uma segunda piramide como mostrado na figura ao lado. | ![Image_026](/img/user/XX - Anexos/Image_026.jpg)                                                                                             |
-|    ![Image_027](/img/user/XX - Anexos/Image_027.jpg)       |    Finalmente encaixe as abas das duas piramides formando assim o octaedro.                                                        |
+| ![XX - Anexos/Image_025.jpg](/img/user/XX%20-%20Anexos/Image_025.jpg)                                                                              | Encaixe quatro peças triangulares de tal forma que fiquem com um vértice em comum formando assim uma pirâmide. |
+| Repita esse processo para a construção de uma segunda piramide como mostrado na figura ao lado. | ![XX - Anexos/Image_026.jpg](/img/user/XX%20-%20Anexos/Image_026.jpg)                                                                                             |
+|    ![XX - Anexos/Image_027.jpg](/img/user/XX%20-%20Anexos/Image_027.jpg)       |    Finalmente encaixe as abas das duas piramides formando assim o octaedro.                                                        |
 
 ***
 ### 1.3.3 Montando o Cubo
@@ -378,9 +378,9 @@ O cubo possui 6 faces quadradas, 12 arestas e 8 vértices, no qual cada um de se
 
 |                                                                                |                                                                    |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| ![Image_028](/img/user/XX - Anexos/Image_028.jpg)                                                                | Encaixe as abas de 3 peças quadradas como indicado na figura ao lado. |
-| Repita o procedimento anterior para obter duas figuras como as da imagem ao lado. | ![Image_029](/img/user/XX - Anexos/Image_029.jpg)                                                    |
-| ![Image_030](/img/user/XX - Anexos/Image_030.jpg) | Finalmente encaixe as abas das duas figuras obtidas no passo anterior formando assim o Cubo.          |
+| ![XX - Anexos/Image_028.jpg](/img/user/XX%20-%20Anexos/Image_028.jpg)                                                                | Encaixe as abas de 3 peças quadradas como indicado na figura ao lado. |
+| Repita o procedimento anterior para obter duas figuras como as da imagem ao lado. | ![XX - Anexos/Image_029.jpg](/img/user/XX%20-%20Anexos/Image_029.jpg)                                                    |
+| ![XX - Anexos/Image_030.jpg](/img/user/XX%20-%20Anexos/Image_030.jpg) | Finalmente encaixe as abas das duas figuras obtidas no passo anterior formando assim o Cubo.          |
 
 ***
 ### 1.3.4 Montando o Icosaedro
@@ -389,10 +389,10 @@ O Icosaedro possui 20 faces triangulares, 30 arestas e 12 vértice, no qual cada
 
 |                                                                                 |                                                                                   |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![Image_031](/img/user/XX - Anexos/Image_031.jpg)                                                              | Encaixe cinco peças triangulares de tal forma que fiquem com um vértice em comum. |
-| Encaixe uma peça triangular em cada “borda” da figura obtida no passo anterior. | ![Image_032](/img/user/XX - Anexos/Image_032.jpg)                                                                |
-| ![Image_033](/img/user/XX - Anexos/Image_033.jpg)                                                              | Repita o procedimento para obter outra figura igual à figura acima.               |
-|      ![Image_034](/img/user/XX - Anexos/Image_034.jpg)|   Finalmente encaixe as abas das duas figuras formando assim o Icosaedro.                     |
+| ![XX - Anexos/Image_031.jpg](/img/user/XX%20-%20Anexos/Image_031.jpg)                                                              | Encaixe cinco peças triangulares de tal forma que fiquem com um vértice em comum. |
+| Encaixe uma peça triangular em cada “borda” da figura obtida no passo anterior. | ![XX - Anexos/Image_032.jpg](/img/user/XX%20-%20Anexos/Image_032.jpg)                                                                |
+| ![XX - Anexos/Image_033.jpg](/img/user/XX%20-%20Anexos/Image_033.jpg)                                                              | Repita o procedimento para obter outra figura igual à figura acima.               |
+|      ![XX - Anexos/Image_034.jpg](/img/user/XX%20-%20Anexos/Image_034.jpg)|   Finalmente encaixe as abas das duas figuras formando assim o Icosaedro.                     |
 
 
 
@@ -403,9 +403,9 @@ O Dodecaedro possui 12 faces pentagonais, 30 arestas e 20 vértices, no qual cad
 
 |                                                                                               |                                                                                             |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| ![Image_035](/img/user/XX - Anexos/Image_035.png)                                                                            | Encaixe 5 peças pentagonais nas abas de um sexto pentágono como indicado na figura ao lado. |
-| Repita o procedimento com as outras 6 peças pentagonais para obter duas figuras como ao lado. | ![Image_036](/img/user/XX - Anexos/Image_036.jpg)                                                                          |
-|![Image_037](/img/user/XX - Anexos/Image_037.jpg) |Encaixe as duas figuras obtidas anteriormente e finalmente teremos montado o Dodecaedro.                           |
+| ![XX - Anexos/Image_035.png](/img/user/XX%20-%20Anexos/Image_035.png)                                                                            | Encaixe 5 peças pentagonais nas abas de um sexto pentágono como indicado na figura ao lado. |
+| Repita o procedimento com as outras 6 peças pentagonais para obter duas figuras como ao lado. | ![XX - Anexos/Image_036.jpg](/img/user/XX%20-%20Anexos/Image_036.jpg)                                                                          |
+|![XX - Anexos/Image_037.jpg](/img/user/XX%20-%20Anexos/Image_037.jpg) |Encaixe as duas figuras obtidas anteriormente e finalmente teremos montado o Dodecaedro.                           |
 
 
 
@@ -432,7 +432,7 @@ O Dodecaedro possui 12 faces pentagonais, 30 arestas e 20 vértices, no qual cad
 
 ## Moldes
 
-![Moldes](/img/user/XX - Anexos/Material didático - DivirtaseComOsSolidos 2_Página_20.png)
+![Material didático - DivirtaseComOsSolidos 2_Página_20.png|Moldes](/img/user/XX%20-%20Anexos/Material%20did%C3%A1tico%20-%20DivirtaseComOsSolidos%202_P%C3%A1gina_20.png)
 
 
 
@@ -440,4 +440,4 @@ O Dodecaedro possui 12 faces pentagonais, 30 arestas e 20 vértices, no qual cad
 Material disponibilizado digitalmente no âmbito do Projeto Educação científica em museus: desenvolvimento do pensamento científico, crítico e criativo na imersão dos acervos universitários da UFMG em jul/23.
 
 
-![Design sem nome](/img/user/XX - Anexos/rede/Design sem nome.png)
+![Design sem nome.png](/img/user/07.%20Projetos/Marta_RedeDeMuseus/TCM_Anexos/Design%20sem%20nome.png)
