@@ -24,7 +24,7 @@
 
 <br><br><br>
 ## Ultimas notas:
-- [[07. Projetos/Marta_RedeDeMuseus/Produtos/Divertimentos Geométricos\|Divertimentos Geométricos]]
+- [[04. Cadernos/= 2023-07-16 - Apresentação tem ciencia no museu 23-01\|= 2023-07-16 - Apresentação tem ciencia no museu 23-01]]
 - [[05. Utilitários/Mapa TCC\|Mapa TCC]]
 - [[03. Acervos/📜️/& 2023-06-10 - Memória e Preservação - a construção epistemológica da Ciência da Conservação\|& 2023-06-10 - Memória e Preservação - a construção epistemológica da Ciência da Conservação]]
 - [[03. Acervos/🎓/EDPC_Fiocruz/Museus e Educação Não Formal\|Museus e Educação Não Formal]]
