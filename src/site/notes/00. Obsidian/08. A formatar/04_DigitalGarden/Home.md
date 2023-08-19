@@ -27,6 +27,11 @@ Desenvolvido através do software [Obsidian.md](https://obsidian.md) em Markdown
 Este site está em constante processo de construção.
 <br><br>
 ## Ultimas publicações:
+- [[06. Jardinzin/Homepage\|Homepage]]
+- [[01. Inbox/& 2023-08-13 - Conservação e Restauração legitimação de ciencia.pdf\|& 2023-08-13 - Conservação e Restauração legitimação de ciencia.pdf]]
+- [[07. Projetos/TCC/Analise mapa de palavras profissionais\|Analise mapa de palavras profissionais]]
+- [[06. Jardinzin/Certificados Alura\|Certificados Alura]]
+- [[05. Utilitários/🛠️ Ferramentas e Recursos\|🛠️ Ferramentas e Recursos]]
 - [[04. Cadernos/= 2023-07-16 - Apresentação tem ciencia no museu 23-01\|= 2023-07-16 - Apresentação tem ciencia no museu 23-01]]
 - [[05. Utilitários/Mapa TCC\|Mapa TCC]]
 - [[03. Acervos/📜️/& 2023-06-10 - Memória e Preservação - a construção epistemológica da Ciência da Conservação\|& 2023-06-10 - Memória e Preservação - a construção epistemológica da Ciência da Conservação]]
@@ -47,11 +52,6 @@ Este site está em constante processo de construção.
 - [[04. Cadernos/= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões\|= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões]]
 - [[03. Acervos/🎓/EDPC_Fiocruz/Acessibilidade cultural - desafios e construção de estratégias para a divulgação científica e a educação museal\|Acessibilidade cultural - desafios e construção de estratégias para a divulgação científica e a educação museal]]
 - [[03. Acervos/📜️/& 2023-06-04 - INCURSÕES SOBRE OS TERMOS E CONCEITOS DA EDUCAÇÃO MUSEAL\|& 2023-06-04 - INCURSÕES SOBRE OS TERMOS E CONCEITOS DA EDUCAÇÃO MUSEAL]]
-- [[04. Cadernos/= 2023-06-04 - Estudos de audiência e publico\|= 2023-06-04 - Estudos de audiência e publico]]
-- [[06. Jardinzin/Certificados Alura\|Certificados Alura]]
-- [[06. Jardinzin/Contato e links externos\|Contato e links externos]]
-- [[04. Cadernos/= 2023-05-30 - Comunicação e estratégias - Autismo e Neurotipicos\|= 2023-05-30 - Comunicação e estratégias - Autismo e Neurotipicos]]
-- [[06. Jardinzin/Diversidade e Inclusão\|Diversidade e Inclusão]]
 
 { .block-language-dataview}
 
