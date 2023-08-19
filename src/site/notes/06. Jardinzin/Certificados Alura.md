@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/certificados-alura/","title":"Certificados Alura","tags":["🧠️"],"created":"2023-05-14T16:46:24.710-03:00","updated":"2023-06-04T13:51:11.474-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin/certificados-alura/","title":"Certificados Alura","tags":["🧠️"],"created":"2023-05-14T16:46:24.710-03:00","updated":"2023-08-18T10:39:12.785-03:00"}
 ---
 
 
@@ -87,3 +87,7 @@ Certificamos que Marta Safaneta concluiu os cursos e formações a seguir, no pe
 ![Assinatura do coordenador Guilherme Silveira.](XX%20-%20Anexos/Assinatura%20do%20coordenador%20Guilherme%20Silveira..svg) ![Assinatura do diretor Carlos Felício.](XX%20-%20Anexos/Assinatura%20do%20diretor%20Carlos%20Felício..svg)
 
 [https://cursos.alura.com.br/user/marta-safaneta/fullCertificate/e0584e9afe8a5c979e4ea6df9dcfe8d2](https://cursos.alura.com.br/user/marta-safaneta/fullCertificate/e0584e9afe8a5c979e4ea6df9dcfe8d2)
+
+
+
+![[Marta Safaneta.pdf\|Marta Safaneta.pdf]]
