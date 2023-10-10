@@ -67,11 +67,11 @@ Bônus de hj:
 
 <br><br><br>
 ## Ultimas notas:
-- [[01. Inbox/& 2023-08-13 - Conservação e Restauração legitimação de ciencia.pdf\|& 2023-08-13 - Conservação e Restauração legitimação de ciencia.pdf]]
-- [[07. Projetos/TCC/Analise mapa de palavras profissionais\|Analise mapa de palavras profissionais]]
-- [[06. Jardinzin/Certificados Alura\|Certificados Alura]]
-- [[05. Utilitários/🛠️ Ferramentas e Recursos\|🛠️ Ferramentas e Recursos]]
-- [[04. Cadernos/= 2023-07-16 - Apresentação tem ciencia no museu 23-01\|= 2023-07-16 - Apresentação tem ciencia no museu 23-01]]
+- [[TCC\|TCC]]
+- [[07. Projetos/TCC/= 2023-10-07 - 3.2.2 Arte é Investimento\|= 2023-10-07 - 3.2.2 Arte é Investimento]]
+- [[04. Cadernos/🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro\|🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro]]
+- [[04. Cadernos/🌱️ 2023-03-11 - 📝️ Os dados do youtube\|🌱️ 2023-03-11 - 📝️ Os dados do youtube]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Arte é Investimento\|; 2023-03-08 - 🗨️ Arte é Investimento]]
 
 { .block-language-dataview}
 
