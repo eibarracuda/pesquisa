@@ -1,19 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/04-cadernos/2022-03-canal-arte-de-fato-programa-atelie-de-restauro/","tags":["🧠️/📝️/🌿️"],"created":"2023-03-14T17:54:18.030-03:00","updated":"2023-05-15T17:05:23.811-03:00"}
+{"dg-publish":true,"permalink":"/04-cadernos/2022-03-canal-arte-de-fato-programa-atelie-de-restauro/","tags":["🧠️/📝️/🌿️"],"created":"2023-03-14T17:54:18.030-03:00","updated":"2023-10-10T13:21:23.128-03:00"}
 ---
 
 
-
-
-
-
-
-# 🌿️ 2022-03 📝️ Analise Canal Arte de Fato –Programa Ateliê de Restauro
-<small>03/2022</small>
-
-Trabalho final – Princípios da Divulgação Cientifica
-
-Especialização em Divulgação e Popularização da Ciência – Casa Oswaldo Cruz
 
 
 ## O que é?
