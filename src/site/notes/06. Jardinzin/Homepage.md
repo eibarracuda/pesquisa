@@ -67,10 +67,10 @@ Bônus de hj:
 
 <br><br><br>
 ## Ultimas notas:
-- [[TCC\|TCC]]
+- [[07. Projetos/TCC/Analise mapa de palavras profissionais\|Analise mapa de palavras profissionais]]
+- [[02. Journal/Daily/2023-10-12\|2023-10-12]]
 - [[07. Projetos/TCC/= 2023-10-07 - 3.2.2 Arte é Investimento\|= 2023-10-07 - 3.2.2 Arte é Investimento]]
-- [[04. Cadernos/🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro\|🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro]]
-- [[04. Cadernos/🌱️ 2023-03-11 - 📝️ Os dados do youtube\|🌱️ 2023-03-11 - 📝️ Os dados do youtube]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123\|+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Arte é Investimento\|; 2023-03-08 - 🗨️ Arte é Investimento]]
 
 { .block-language-dataview}
