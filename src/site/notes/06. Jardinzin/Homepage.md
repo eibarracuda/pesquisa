@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03T09:04:52.499-03:00","updated":"2023-08-19T18:28:01.788-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin/homepage/","tags":["gardenEntry"],"created":"2023-03-03T09:04:52.499-03:00","updated":"2023-10-23T12:37:39.650-03:00"}
 ---
 
 
@@ -65,13 +65,13 @@ Bônus de hj:
 
 
 
-<br><br><br>
+---
 ## Ultimas notas:
+- [[00. Obsidian/08. A formatar/04_DigitalGarden/Como eu uso o obsidian\|Como eu uso o obsidian]]
 - [[07. Projetos/TCC/Analise mapa de palavras profissionais\|Analise mapa de palavras profissionais]]
 - [[02. Journal/Daily/2023-10-12\|2023-10-12]]
 - [[07. Projetos/TCC/= 2023-10-07 - 3.2.2 Arte é Investimento\|= 2023-10-07 - 3.2.2 Arte é Investimento]]
 - [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123\|+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Arte é Investimento\|; 2023-03-08 - 🗨️ Arte é Investimento]]
 
 { .block-language-dataview}
 
