@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-inbox/and-2023-08-13-conservacao-e-restauracao-legitimacao-de-ciencia-pdf/","tags":["🧠️/📥️/📜️/🟥️"],"created":"2023-08-13T21:30:08.350-03:00","updated":"2023-08-19T15:27:46.703-03:00"}
+{"dg-publish":true,"permalink":"/01-inbox/and-2023-08-13-conservacao-e-restauracao-legitimacao-de-ciencia-pdf/","tags":["🧠️/📥️/📜️/🟥️"],"created":"2023-08-13T21:30:08.350-03:00","updated":"2023-08-13T21:33:08.820-03:00"}
 ---
 
 
