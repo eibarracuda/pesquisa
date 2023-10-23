@@ -90,4 +90,4 @@ Certificamos que Marta Safaneta concluiu os cursos e formações a seguir, no pe
 
 
 
-![[Marta Safaneta.pdf\|Marta Safaneta.pdf]]
+![[Marta Safaneta.pdf]]
