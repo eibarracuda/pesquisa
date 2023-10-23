@@ -27,10 +27,17 @@ Desenvolvido através do software [Obsidian.md](https://obsidian.md) em Markdown
 Este site está em constante processo de construção.
 <br><br>
 ## Ultimas publicações:
-- [[06. Jardinzin/Homepage\|Homepage]]
-- [[01. Inbox/& 2023-08-13 - Conservação e Restauração legitimação de ciencia.pdf\|& 2023-08-13 - Conservação e Restauração legitimação de ciencia.pdf]]
 - [[07. Projetos/TCC/Analise mapa de palavras profissionais\|Analise mapa de palavras profissionais]]
+- [[02. Journal/Daily/2023-10-12\|2023-10-12]]
+- [[07. Projetos/TCC/= 2023-10-07 - 3.2.2 Arte é Investimento\|= 2023-10-07 - 3.2.2 Arte é Investimento]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123\|+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123]]
+- [[03. Acervos/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Arte é Investimento\|; 2023-03-08 - 🗨️ Arte é Investimento]]
+- [[07. Projetos/TCC/TCC\|TCC]]
+- [[04. Cadernos/🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro\|🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro]]
+- [[04. Cadernos/🌱️ 2023-03-11 - 📝️ Os dados do youtube\|🌱️ 2023-03-11 - 📝️ Os dados do youtube]]
+- [[06. Jardinzin/Homepage\|Homepage]]
 - [[06. Jardinzin/Certificados Alura\|Certificados Alura]]
+- [[01. Inbox/& 2023-08-13 - Conservação e Restauração legitimação de ciencia.pdf\|& 2023-08-13 - Conservação e Restauração legitimação de ciencia.pdf]]
 - [[05. Utilitários/🛠️ Ferramentas e Recursos\|🛠️ Ferramentas e Recursos]]
 - [[04. Cadernos/= 2023-07-16 - Apresentação tem ciencia no museu 23-01\|= 2023-07-16 - Apresentação tem ciencia no museu 23-01]]
 - [[05. Utilitários/Mapa TCC\|Mapa TCC]]
@@ -45,13 +52,6 @@ Este site está em constante processo de construção.
 - [[03. Acervos/📜️/Há sentido na Educação Não Formal na perspectiva da Formação Integral\|Há sentido na Educação Não Formal na perspectiva da Formação Integral]]
 - [[03. Acervos/📜️/& 2023-06-04 - Looking again at non-formal and informal education\|& 2023-06-04 - Looking again at non-formal and informal education]]
 - [[04. Cadernos/= 2019-11 - Embalagens - Transporte de livro\|= 2019-11 - Embalagens - Transporte de livro]]
-- [[04. Cadernos/= 2019-11 - Diagnóstico de Estado de Conservação - Porta de Amílcar de Castro\|= 2019-11 - Diagnóstico de Estado de Conservação - Porta de Amílcar de Castro]]
-- [[03. Acervos/🎓/CRBCM_UFMG/Conservação Preventiva\|Conservação Preventiva]]
-- [[03. Acervos/📜️/& 2023-06-09 - Historical issues - the basis of Conservation Science and Conservator-Restorer training\|& 2023-06-09 - Historical issues - the basis of Conservation Science and Conservator-Restorer training]]
-- [[04. Cadernos/= 2023-06-04 - Visitas exploratórias a museus - analise educativa\|= 2023-06-04 - Visitas exploratórias a museus - analise educativa]]
-- [[04. Cadernos/= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões\|= 2023-06-04 - Dimensão Educativa do Museu - sistematização de expressões]]
-- [[03. Acervos/🎓/EDPC_Fiocruz/Acessibilidade cultural - desafios e construção de estratégias para a divulgação científica e a educação museal\|Acessibilidade cultural - desafios e construção de estratégias para a divulgação científica e a educação museal]]
-- [[03. Acervos/📜️/& 2023-06-04 - INCURSÕES SOBRE OS TERMOS E CONCEITOS DA EDUCAÇÃO MUSEAL\|& 2023-06-04 - INCURSÕES SOBRE OS TERMOS E CONCEITOS DA EDUCAÇÃO MUSEAL]]
 
 { .block-language-dataview}
 
