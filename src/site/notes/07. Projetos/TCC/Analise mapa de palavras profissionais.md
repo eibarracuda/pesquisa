@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-projetos/tcc/analise-mapa-de-palavras-profissionais/","created":"2023-08-13T14:48:14.797-03:00","updated":"2023-08-13T18:56:08.374-03:00"}
+{"dg-publish":true,"permalink":"/07-projetos/tcc/analise-mapa-de-palavras-profissionais/","created":"2023-08-13T14:48:14.797-03:00","updated":"2023-10-17T13:48:54.613-03:00"}
 ---
 
 
@@ -22,16 +22,16 @@ Lista de palavras: a, acervo, acondicionamento, adesivo, amostra, análise, arga
 palavras usadas: análise, documentação, estudo, etapa, fato, fator, identificação, trabalho, metodologia, pesquisa, método, procedimento, projeto, proteção, registro, estado de conservação, higienização, limpeza, acondicionamento, preservação, intervenção, tratamento, reintegração, remoção, restaurador, restauração, restauro, acervo, arquivo, arte, bem, bem cultural, biblioteca, coleção, cultural, edificação, encadernação, histórico, patrimônio, patrimônio cultural, patrimônio histórico, objeto, obra, papel, peça, pintura, suporte, tecido, tela, madeira, fungo, inseto, adesivo, amostra, camada pictórico, celulose, cola, cálcio, solvente, cor, degradação, deterioração, perda, Fibra, material, Arquitetura,  argamassa, arquitetura, cal,  forro, pigmento, policromia, resina, tinta, técnica, verniz, iphan, universidade federal, museu, umidade, umidade relativo, temperatura, minas gerais, são paulo, rio grande, nacional
 
 Estes termos forma então divididos nas seguintes categorias temáticas: 
+- climatologia
 - arquitetura
+- fisica
 - artes
 - biologia
-- climatologia
-- fisica
+- localizações
 - instituições
 - Investigacao ou pesquisa
-- localizações
 - manifestação
-- Preservação Conservação e Restauração
+- PCR
 - quimica
 
 { .block-language-dataview}
@@ -40,19 +40,19 @@ Distribuição de palavras por categoria:
 
 
 
-| Categorias Temáticas                  | Termos                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| arquitetura                           | <ul><li>argamassa</li><li>arquitetura</li><li>cal</li><li>forro</li></ul>                                                                                                                                                                                                                                                                                                                                           |
-| artes                                 | <ul><li>pigmento,</li><li>policromia</li><li>resina</li><li>tinta</li><li>técnica</li><li>verniz</li><li>camada pictórico</li></ul>                                                                                                                                                                                                                                                                                 |
-| biologia                              | fungo, inseto                                                                                                                                                                                                                                                                                                                                                                                                       |
-| climatologia                          | <ul><li>umidade</li><li>umidade relativo</li><li>temperatura</li></ul>                                                                                                                                                                                                                                                                                                                                              |
-| fisica                                | <ul><li>cor</li><li>degradação</li><li>deterioração</li><li>perda</li><li>Fibra</li><li>material</li></ul>                                                                                                                                                                                                                                                                                                          |
-| instituições                          | <ul><li>iphan</li><li>universidade federal</li><li>museu</li></ul>                                                                                                                                                                                                                                                                                                                                                  |
-| Investigacao ou pesquisa              | <ul><li>análise</li><li>documentação</li><li>estudo</li><li>etapa</li><li>fato</li><li>fator</li><li>identificação</li><li>trabalho</li><li>metodologia</li><li>pesquisa</li><li>método</li><li>procedimento</li><li>projeto</li><li>proteção</li><li>registro</li></ul>                                                                                                                                            |
-| localizações                          | <ul><li>minas gerais</li><li>são paulo</li><li>rio grande</li><li>nacional</li></ul>                                                                                                                                                                                                                                                                                                                                |
-| manifestação                          | <ul><li>acervo</li><li>arquivo</li><li>arte</li><li>bem</li><li>bem cultural</li><li>biblioteca</li><li>coleção</li><li>cultural</li><li>edificação</li><li>encadernação</li><li>histórico</li><li>patrimônio</li><li>patrimônio cultural</li><li>patrimônio histórico</li><li>objeto</li><li>obra</li><li>papel</li><li>peça</li><li>pintura</li><li>suporte</li><li>tecido</li><li>tela</li><li>madeira</li></ul> |
-| Preservação Conservação e Restauração | <ul><li>estado de conservação</li><li>higienização</li><li>limpeza</li><li>acondicionamento</li><li>preservação</li><li>intervenção</li><li>tratamento</li><li>reintegração</li><li>remoção</li><li>restaurador</li><li>restauração</li><li>restauro</li></ul>                                                                                                                                                      |
-| quimica                               | <ul><li>adesivo</li><li>amostra</li><li>celulose</li><li>cola</li><li>cálcio</li><li>solvente</li></ul>                                                                                                                                                                                                                                                                                                             |
+| Categorias Temáticas     | Termos                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| climatologia             | <ul><li>umidade</li><li>umidade relativo</li><li>temperatura</li></ul>                                                                                                                                                                                                                                                                                                                                              |
+| arquitetura              | <ul><li>argamassa</li><li>arquitetura</li><li>cal</li><li>forro</li></ul>                                                                                                                                                                                                                                                                                                                                           |
+| fisica                   | <ul><li>cor</li><li>degradação</li><li>deterioração</li><li>perda</li><li>Fibra</li><li>material</li></ul>                                                                                                                                                                                                                                                                                                          |
+| artes                    | <ul><li>pigmento,</li><li>policromia</li><li>resina</li><li>tinta</li><li>técnica</li><li>verniz</li><li>camada pictórico</li></ul>                                                                                                                                                                                                                                                                                 |
+| biologia                 | fungo, inseto                                                                                                                                                                                                                                                                                                                                                                                                       |
+| localizações             | <ul><li>minas gerais</li><li>são paulo</li><li>rio grande</li><li>nacional</li></ul>                                                                                                                                                                                                                                                                                                                                |
+| instituições             | <ul><li>iphan</li><li>universidade federal</li><li>museu</li></ul>                                                                                                                                                                                                                                                                                                                                                  |
+| Investigacao ou pesquisa | <ul><li>análise</li><li>documentação</li><li>estudo</li><li>etapa</li><li>fato</li><li>fator</li><li>identificação</li><li>trabalho</li><li>metodologia</li><li>pesquisa</li><li>método</li><li>procedimento</li><li>projeto</li><li>proteção</li><li>registro</li></ul>                                                                                                                                            |
+| manifestação             | <ul><li>acervo</li><li>arquivo</li><li>arte</li><li>bem</li><li>bem cultural</li><li>biblioteca</li><li>coleção</li><li>cultural</li><li>edificação</li><li>encadernação</li><li>histórico</li><li>patrimônio</li><li>patrimônio cultural</li><li>patrimônio histórico</li><li>objeto</li><li>obra</li><li>papel</li><li>peça</li><li>pintura</li><li>suporte</li><li>tecido</li><li>tela</li><li>madeira</li></ul> |
+| PCR                      | <ul><li>estado de conservação</li><li>higienização</li><li>limpeza</li><li>acondicionamento</li><li>preservação</li><li>intervenção</li><li>tratamento</li><li>reintegração</li><li>remoção</li><li>restaurador</li><li>restauração</li><li>restauro</li></ul>                                                                                                                                                      |
+| quimica                  | <ul><li>adesivo</li><li>amostra</li><li>celulose</li><li>cola</li><li>cálcio</li><li>solvente</li></ul>                                                                                                                                                                                                                                                                                                             |
 
 { .block-language-dataview}
 
@@ -120,92 +120,92 @@ options:
 ```
 
 
-| cont                  | categoria                             |
-| --------------------- | ------------------------------------- |
-| acervo                | manifestação                          |
-| arquivo               | manifestação                          |
-| arte                  | manifestação                          |
-| bem                   | manifestação                          |
-| bem cultural          | manifestação                          |
-| biblioteca            | manifestação                          |
-| coleção               | manifestação                          |
-| cultural              | manifestação                          |
-| edificação            | manifestação                          |
-| encadernação          | manifestação                          |
-| histórico             | manifestação                          |
-| patrimônio            | manifestação                          |
-| patrimônio cultural   | manifestação                          |
-| patrimônio histórico  | manifestação                          |
-| objeto                | manifestação                          |
-| obra                  | manifestação                          |
-| papel                 | manifestação                          |
-| peça                  | manifestação                          |
-| pintura               | manifestação                          |
-| suporte               | manifestação                          |
-| tecido                | manifestação                          |
-| tela                  | manifestação                          |
-| madeira               | manifestação                          |
-| adesivo               | quimica                               |
-| amostra               | quimica                               |
-| celulose              | quimica                               |
-| cola                  | quimica                               |
-| cálcio                | quimica                               |
-| solvente              | quimica                               |
-| análise               | Investigacao ou pesquisa              |
-| documentação          | Investigacao ou pesquisa              |
-| estudo                | Investigacao ou pesquisa              |
-| etapa                 | Investigacao ou pesquisa              |
-| fato                  | Investigacao ou pesquisa              |
-| fator                 | Investigacao ou pesquisa              |
-| identificação         | Investigacao ou pesquisa              |
-| trabalho              | Investigacao ou pesquisa              |
-| metodologia           | Investigacao ou pesquisa              |
-| pesquisa              | Investigacao ou pesquisa              |
-| método                | Investigacao ou pesquisa              |
-| procedimento          | Investigacao ou pesquisa              |
-| projeto               | Investigacao ou pesquisa              |
-| proteção              | Investigacao ou pesquisa              |
-| registro              | Investigacao ou pesquisa              |
-| argamassa             | arquitetura                           |
-| arquitetura           | arquitetura                           |
-| cal                   | arquitetura                           |
-| forro                 | arquitetura                           |
-| cor                   | fisica                                |
-| degradação            | fisica                                |
-| deterioração          | fisica                                |
-| perda                 | fisica                                |
-| Fibra                 | fisica                                |
-| material              | fisica                                |
-| estado de conservação | Preservação Conservação e Restauração |
-| higienização          | Preservação Conservação e Restauração |
-| limpeza               | Preservação Conservação e Restauração |
-| acondicionamento      | Preservação Conservação e Restauração |
-| preservação           | Preservação Conservação e Restauração |
-| intervenção           | Preservação Conservação e Restauração |
-| tratamento            | Preservação Conservação e Restauração |
-| reintegração          | Preservação Conservação e Restauração |
-| remoção               | Preservação Conservação e Restauração |
-| restaurador           | Preservação Conservação e Restauração |
-| restauração           | Preservação Conservação e Restauração |
-| restauro              | Preservação Conservação e Restauração |
-| iphan                 | instituições                          |
-| universidade federal  | instituições                          |
-| museu                 | instituições                          |
-| minas gerais          | localizações                          |
-| são paulo             | localizações                          |
-| rio grande            | localizações                          |
-| nacional              | localizações                          |
-| pigmento,             | artes                                 |
-| policromia            | artes                                 |
-| resina                | artes                                 |
-| tinta                 | artes                                 |
-| técnica               | artes                                 |
-| verniz                | artes                                 |
-| camada pictórico      | artes                                 |
-| umidade               | climatologia                          |
-| umidade relativo      | climatologia                          |
-| temperatura           | climatologia                          |
-| fungo, inseto         | biologia                              |
+| cont                  | categoria                |
+| --------------------- | ------------------------ |
+| acervo                | manifestação             |
+| arquivo               | manifestação             |
+| arte                  | manifestação             |
+| bem                   | manifestação             |
+| bem cultural          | manifestação             |
+| biblioteca            | manifestação             |
+| coleção               | manifestação             |
+| cultural              | manifestação             |
+| edificação            | manifestação             |
+| encadernação          | manifestação             |
+| histórico             | manifestação             |
+| patrimônio            | manifestação             |
+| patrimônio cultural   | manifestação             |
+| patrimônio histórico  | manifestação             |
+| objeto                | manifestação             |
+| obra                  | manifestação             |
+| papel                 | manifestação             |
+| peça                  | manifestação             |
+| pintura               | manifestação             |
+| suporte               | manifestação             |
+| tecido                | manifestação             |
+| tela                  | manifestação             |
+| madeira               | manifestação             |
+| adesivo               | quimica                  |
+| amostra               | quimica                  |
+| celulose              | quimica                  |
+| cola                  | quimica                  |
+| cálcio                | quimica                  |
+| solvente              | quimica                  |
+| análise               | Investigacao ou pesquisa |
+| documentação          | Investigacao ou pesquisa |
+| estudo                | Investigacao ou pesquisa |
+| etapa                 | Investigacao ou pesquisa |
+| fato                  | Investigacao ou pesquisa |
+| fator                 | Investigacao ou pesquisa |
+| identificação         | Investigacao ou pesquisa |
+| trabalho              | Investigacao ou pesquisa |
+| metodologia           | Investigacao ou pesquisa |
+| pesquisa              | Investigacao ou pesquisa |
+| método                | Investigacao ou pesquisa |
+| procedimento          | Investigacao ou pesquisa |
+| projeto               | Investigacao ou pesquisa |
+| proteção              | Investigacao ou pesquisa |
+| registro              | Investigacao ou pesquisa |
+| argamassa             | arquitetura              |
+| arquitetura           | arquitetura              |
+| cal                   | arquitetura              |
+| forro                 | arquitetura              |
+| cor                   | fisica                   |
+| degradação            | fisica                   |
+| deterioração          | fisica                   |
+| perda                 | fisica                   |
+| Fibra                 | fisica                   |
+| material              | fisica                   |
+| estado de conservação | PCR                      |
+| higienização          | PCR                      |
+| limpeza               | PCR                      |
+| acondicionamento      | PCR                      |
+| preservação           | PCR                      |
+| intervenção           | PCR                      |
+| tratamento            | PCR                      |
+| reintegração          | PCR                      |
+| remoção               | PCR                      |
+| restaurador           | PCR                      |
+| restauração           | PCR                      |
+| restauro              | PCR                      |
+| iphan                 | instituições             |
+| universidade federal  | instituições             |
+| museu                 | instituições             |
+| minas gerais          | localizações             |
+| são paulo             | localizações             |
+| rio grande            | localizações             |
+| nacional              | localizações             |
+| pigmento,             | artes                    |
+| policromia            | artes                    |
+| resina                | artes                    |
+| tinta                 | artes                    |
+| técnica               | artes                    |
+| verniz                | artes                    |
+| camada pictórico      | artes                    |
+| umidade               | climatologia             |
+| umidade relativo      | climatologia             |
+| temperatura           | climatologia             |
+| fungo, inseto         | biologia                 |
 
 { .block-language-dataview}
 
@@ -296,6 +296,18 @@ Se viu necessária uma visão das categoria de forma mais generalista para compr
 { .block-language-dataview}
 
 **Conservação, Preservação ou Restauração**
+- acondicionamento
+- estado de conservação
+- higienização
+- intervenção
+- limpeza
+- preservação
+- reintegração
+- remoção
+- restauração
+- restaurador
+- restauro
+- tratamento
 
 { .block-language-dataview}
 
