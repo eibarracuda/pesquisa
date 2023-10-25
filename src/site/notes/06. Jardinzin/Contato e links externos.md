@@ -7,7 +7,7 @@
 Quer entrar em contato sobre algum assunto que está publicado aqui ou para pedir um orçamento?
 Você pode clicar no botão do lado inferior direito da página ou usar sua plataforma de email para escever para: 
 
-![XX - Anexos/13c88dc3c30bae16b00c75e47918ca3d_MD5.png](/img/user/XX%20-%20Anexos/13c88dc3c30bae16b00c75e47918ca3d_MD5.png)
+![XX - Anexos/13c88dc3c30bae16b00c75e47918ca3d_MD5.png|undefined](/img/user/XX%20-%20Anexos/13c88dc3c30bae16b00c75e47918ca3d_MD5.png)
 
 
 
