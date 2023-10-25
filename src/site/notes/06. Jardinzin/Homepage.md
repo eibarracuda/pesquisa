@@ -5,7 +5,7 @@
 
 
 
-![assinaturamini.png](/img/user/XX%20-%20Anexos/assinaturamini.png) 
+![assinaturamini.png|undefined](/img/user/XX%20-%20Anexos/assinaturamini.png) 
 
 
 ***
@@ -48,10 +48,10 @@ Isto é um teste, para tentar simular um microblog pessoal além do caderno de n
 Além disso, que rede usar para ter algum senso de comunidade? 
 
 Bônus de hj:
-![IMG_20230819_120342.jpg](/img/user/XX%20-%20Anexos/IMG_20230819_120342.jpg)
+![IMG_20230819_120342.jpg|undefined](/img/user/XX%20-%20Anexos/IMG_20230819_120342.jpg)
 ###### Tosco (esquerda) e Trator(direita) tiram um cochilo
 
-![IMG_20230819_182124.jpg](/img/user/XX%20-%20Anexos/IMG_20230819_182124.jpg)
+![IMG_20230819_182124.jpg|undefined](/img/user/XX%20-%20Anexos/IMG_20230819_182124.jpg)
 ###### Trator aguardando arquivos pararem no obsidian sync
 
 
@@ -67,11 +67,11 @@ Bônus de hj:
 
 ---
 ## Ultimas notas:
+- [[04. Cadernos/= 2023-10-24 - Arte e apresentação das camisetas\|= 2023-10-24 - Arte e apresentação das camisetas]]
+- [[06. Jardinzin/Currículo\|Currículo]]
 - [[00. Obsidian/08. A formatar/04_DigitalGarden/Como eu uso o obsidian\|Como eu uso o obsidian]]
 - [[07. Projetos/TCC/Analise mapa de palavras profissionais\|Analise mapa de palavras profissionais]]
 - [[02. Journal/Daily/2023-10-12\|2023-10-12]]
-- [[07. Projetos/TCC/= 2023-10-07 - 3.2.2 Arte é Investimento\|= 2023-10-07 - 3.2.2 Arte é Investimento]]
-- [[03. Acervos/🖼️ Acervo Conservação-Restauração/+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123\|+ 2023-03-09   -  🎥️ Restaurado Muro Escultórico de Athos Bulcão - 310123]]
 
 { .block-language-dataview}
 
