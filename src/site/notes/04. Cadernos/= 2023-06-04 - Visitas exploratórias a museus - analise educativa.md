@@ -50,7 +50,7 @@
 
 
 ## Apresentação
-![XX - Anexos/7cb64e679732456c979ac02b3be2597b_MD5.png](/img/user/XX%20-%20Anexos/7cb64e679732456c979ac02b3be2597b_MD5.png)
+![XX - Anexos/7cb64e679732456c979ac02b3be2597b_MD5.png|undefined](/img/user/XX%20-%20Anexos/7cb64e679732456c979ac02b3be2597b_MD5.png)
 
 ### Resumo da exposição
 
@@ -68,7 +68,7 @@
 
 
 
-![XX - Anexos/97fd4d899293ed0fd68ef1c38117baef_MD5.png](/img/user/XX%20-%20Anexos/97fd4d899293ed0fd68ef1c38117baef_MD5.png)
+![XX - Anexos/97fd4d899293ed0fd68ef1c38117baef_MD5.png|undefined](/img/user/XX%20-%20Anexos/97fd4d899293ed0fd68ef1c38117baef_MD5.png)
 ### Descrição da exposição e ambiente
 
 Enciclopédia negra retrata 103 obras produzidas por artistas contemporâneos e pelos quais são inseridos em um livro escrito pelos pesquisadores Flávio Gomes e Lilia M. Schwarcz e do artista Jaime Lauriano. É uma mostra que retoma personalidades negras que tiveram suas identidades silenciadas, apagadas e até mesmo nunca registradas. A exposição utiliza a arte como objetos de amostra e estudo, voltada para a negritude e sua trajetória na história, apoiando-se em questionamentos contemporâneos e transmitindo narrativas mais inclusivas e diversas sobre o tema.
@@ -77,7 +77,7 @@ Disposta em três salas amplas no segundo pavimento da Pinacoteca de São Paulo,
 
 Na experiência do tour virtual, a Pinacoteca utilizou-se de tecnologia estilo Street View para aproximação e distanciamento em 360º. Conta com uma interatividade entre a arte, a tecnologia e a observação do tema. Apresenta a ferramenta luzes que permite a observação da utilização da luminosidade como artifício da apresentação da exposição e, além disso, o ambiente é bem iluminado e comporta um espaço adequado para abrigar a exposição.
 
-![XX - Anexos/5ab85ed70aaaeea85b7bb3ae0bbfe83b_MD5.png](/img/user/XX%20-%20Anexos/5ab85ed70aaaeea85b7bb3ae0bbfe83b_MD5.png)
+![XX - Anexos/5ab85ed70aaaeea85b7bb3ae0bbfe83b_MD5.png|undefined](/img/user/XX%20-%20Anexos/5ab85ed70aaaeea85b7bb3ae0bbfe83b_MD5.png)
 
 
 ### Qual o tema da exposição? 
@@ -99,11 +99,11 @@ Sim. O título faz uma referência ao conjunto de conhecimentos apresentados ao 
 >> ❖ A exposição conta com esses retratos utilizados na publicação tal como peças criadas por artistas negros contemplados por verbetes na enciclopédia como por exemplo a “Objeto emblemático 4”.
 >
 >> [!info]+ ****
->>![XX - Anexos/bd07e42a91497d66e5a2aaa737fe63f7_MD5.png](/img/user/XX%20-%20Anexos/bd07e42a91497d66e5a2aaa737fe63f7_MD5.png)
+>>![XX - Anexos/bd07e42a91497d66e5a2aaa737fe63f7_MD5.png|undefined](/img/user/XX%20-%20Anexos/bd07e42a91497d66e5a2aaa737fe63f7_MD5.png)
 >> Fonte: <<https://www.companhiadasletras.com.br/livro/9788535934007/enciclopedia-negra>>.Acesso em: mai/2022.
 
 
-![XX - Anexos/393d2b7c0ab3e1846ff295c11195a97e_MD5.png](/img/user/XX%20-%20Anexos/393d2b7c0ab3e1846ff295c11195a97e_MD5.png)
+![XX - Anexos/393d2b7c0ab3e1846ff295c11195a97e_MD5.png|undefined](/img/user/XX%20-%20Anexos/393d2b7c0ab3e1846ff295c11195a97e_MD5.png)
 
 > Fonte da imagem:<[https://www.amazon.com.br/Enciclopédia-negra-Flávio-Santos-Gomes/dp/8535934006/ref=sr_1_1?keywords=enciclopedia+negra&qid=1653853808&sr=8-1](https://www.amazon.com.br/Enciclop%C3%A9dia-negra-Fl%C3%A1vio-Santos-Gomes/dp/8535934006/ref=sr_1_1?keywords=enciclopedia+negra&qid=1653853808&sr=8-1)>. Acesso em mai/2022
 
@@ -125,7 +125,7 @@ Sim, a narrativa histórica sobre o tema negritude. Criando um panorama sobre o 
 >>❖ Religiosidade e Ancestralidade
 >
 >> [!info]+ ****
->> ![XX - Anexos/9f051dc87f88af892e5427b75ca71d56_MD5.png](/img/user/XX%20-%20Anexos/9f051dc87f88af892e5427b75ca71d56_MD5.png)
+>> ![XX - Anexos/9f051dc87f88af892e5427b75ca71d56_MD5.png|undefined](/img/user/XX%20-%20Anexos/9f051dc87f88af892e5427b75ca71d56_MD5.png)
 >>> Malunguinho - acrílica sobre tela 
 >>> Micaela Cirino - SP, 1988
 >>> Núcleos- “Rebeldes”; “Personagens Atlânticos” -
@@ -158,13 +158,13 @@ Quanto às primeiras impressões ao fazer a visita pelo tour virtual à exposiç
 
 
 
-![XX - Anexos/de3e750e654f66a9512ca65ab7da32d1_MD5.png](/img/user/XX%20-%20Anexos/de3e750e654f66a9512ca65ab7da32d1_MD5.png)
+![XX - Anexos/de3e750e654f66a9512ca65ab7da32d1_MD5.png|undefined](/img/user/XX%20-%20Anexos/de3e750e654f66a9512ca65ab7da32d1_MD5.png)
 
 ### Hilária e Madalena (século XIX, Pará)
 >[!multi-column|right|2]
 >
 >> [!info]+ ****
->>![XX - Anexos/04b1526f7257597885095dab57c1721f_MD5.png](/img/user/XX%20-%20Anexos/04b1526f7257597885095dab57c1721f_MD5.png)
+>>![XX - Anexos/04b1526f7257597885095dab57c1721f_MD5.png|undefined](/img/user/XX%20-%20Anexos/04b1526f7257597885095dab57c1721f_MD5.png)
 >>
 >>
 >>>Hilária e Madalena. 
@@ -183,13 +183,13 @@ Quanto às primeiras impressões ao fazer a visita pelo tour virtual à exposiç
 >> ❖ **Visão multidisciplinar**: História, Geografia, Antropologia, Ciências Sociais e Política; Artes e Comunicação visual
 
 
-![XX - Anexos/bae4197f3c8cc314fa19dc52b7af1e31_MD5.png](/img/user/XX%20-%20Anexos/bae4197f3c8cc314fa19dc52b7af1e31_MD5.png)
+![XX - Anexos/bae4197f3c8cc314fa19dc52b7af1e31_MD5.png|undefined](/img/user/XX%20-%20Anexos/bae4197f3c8cc314fa19dc52b7af1e31_MD5.png)
 
 ### Objeto emblemático 4
 
-![XX - Anexos/ff4c18cf7c168521bbe105a384f3fd1a_MD5.png](/img/user/XX%20-%20Anexos/ff4c18cf7c168521bbe105a384f3fd1a_MD5.png)
-![XX - Anexos/94fb57a6c4636e0f9f8fb004e1a7ac76_MD5.png](/img/user/XX%20-%20Anexos/94fb57a6c4636e0f9f8fb004e1a7ac76_MD5.png)
-![XX - Anexos/253306053a3a02d6777d01ba2b73b808_MD5.png](/img/user/XX%20-%20Anexos/253306053a3a02d6777d01ba2b73b808_MD5.png)
+![XX - Anexos/ff4c18cf7c168521bbe105a384f3fd1a_MD5.png|undefined](/img/user/XX%20-%20Anexos/ff4c18cf7c168521bbe105a384f3fd1a_MD5.png)
+![XX - Anexos/94fb57a6c4636e0f9f8fb004e1a7ac76_MD5.png|undefined](/img/user/XX%20-%20Anexos/94fb57a6c4636e0f9f8fb004e1a7ac76_MD5.png)
+![XX - Anexos/253306053a3a02d6777d01ba2b73b808_MD5.png|undefined](/img/user/XX%20-%20Anexos/253306053a3a02d6777d01ba2b73b808_MD5.png)
 >Rubem Valentim – Salvador, BA, 1922 – São Paulo, SP, 1991.
 >Objeto emblemático 4, 1969.
 >Acrílica sobre madeira.
@@ -207,7 +207,7 @@ Quanto às primeiras impressões ao fazer a visita pelo tour virtual à exposiç
 
 
 
-![XX - Anexos/189dac80b7c33c7591437fa8871ee4e6_MD5.png](/img/user/XX%20-%20Anexos/189dac80b7c33c7591437fa8871ee4e6_MD5.png)
+![XX - Anexos/189dac80b7c33c7591437fa8871ee4e6_MD5.png|undefined](/img/user/XX%20-%20Anexos/189dac80b7c33c7591437fa8871ee4e6_MD5.png)
 
 A obra está colocada em posição de destaque na sala “Religiosidades e Ancestralidades”, que fica à direita da sala de entrada, e está centralizada com relação à porta de entrada nesse ambiente.
 
@@ -223,13 +223,13 @@ A obra está colocada em posição de destaque na sala “Religiosidades e Ances
 >>❖ Faltou o dado comum a esta comunicação que especifica as dimensões da peça.
 >
 >> [!info]+ ****
->> ![XX - Anexos/2779d5f0709e4ce1f779da9cf1bc4195_MD5.png](/img/user/XX%20-%20Anexos/2779d5f0709e4ce1f779da9cf1bc4195_MD5.png)
+>> ![XX - Anexos/2779d5f0709e4ce1f779da9cf1bc4195_MD5.png|undefined](/img/user/XX%20-%20Anexos/2779d5f0709e4ce1f779da9cf1bc4195_MD5.png)
 
 ### Este é um objeto único ou existem outros similares na exposição?
 
 É o único objeto tridimensional com essas dimensões na exposição.
 
-![XX - Anexos/440280e4db2c00bbe61c29cc934a8c63_MD5.png](/img/user/XX%20-%20Anexos/440280e4db2c00bbe61c29cc934a8c63_MD5.png)
+![XX - Anexos/440280e4db2c00bbe61c29cc934a8c63_MD5.png|undefined](/img/user/XX%20-%20Anexos/440280e4db2c00bbe61c29cc934a8c63_MD5.png)
 
 ### O objeto estabelece relações com outros elementos da exposição? Explique.
 
@@ -244,7 +244,7 @@ A obra está colocada em posição de destaque na sala “Religiosidades e Ances
 >>Fonte: <http://www.centrocultural.sp.gov.br/maisccsp/marco-sincretico-da-cultura-afro-brasileira/>. Acesso em: mai/2022.
 >
 >> [!info]+ ****
->> ![XX - Anexos/d197f241efb41e015b4f659ab4db15f9_MD5.png](/img/user/XX%20-%20Anexos/d197f241efb41e015b4f659ab4db15f9_MD5.png)
+>> ![XX - Anexos/d197f241efb41e015b4f659ab4db15f9_MD5.png|undefined](/img/user/XX%20-%20Anexos/d197f241efb41e015b4f659ab4db15f9_MD5.png)
 
 
 
@@ -268,9 +268,9 @@ A obra está colocada em posição de destaque na sala “Religiosidades e Ances
 
 ❖ O site em si também tem várias explicações sobre as peças e a narrativa pretendida pela curadoria.
 
-![XX - Anexos/b36af32eacb0e98d3266825ebe1b284f_MD5.png](/img/user/XX%20-%20Anexos/b36af32eacb0e98d3266825ebe1b284f_MD5.png)
+![XX - Anexos/b36af32eacb0e98d3266825ebe1b284f_MD5.png|undefined](/img/user/XX%20-%20Anexos/b36af32eacb0e98d3266825ebe1b284f_MD5.png)
 
-![XX - Anexos/4450fa344151251904493122f04379d1_MD5.png](/img/user/XX%20-%20Anexos/4450fa344151251904493122f04379d1_MD5.png)
+![XX - Anexos/4450fa344151251904493122f04379d1_MD5.png|undefined](/img/user/XX%20-%20Anexos/4450fa344151251904493122f04379d1_MD5.png)
 
 
 ❖ A Pinacoteca tem um tour virtual bem pensado com uma experiência de usuário agradável, que faz um bom uso da tecnologia. No tour é possível:
@@ -283,7 +283,7 @@ A obra está colocada em posição de destaque na sala “Religiosidades e Ances
 
 ➢ Possibilidade de se aproximar com zoom nas peças.
 
-![XX - Anexos/1dd0cf295acbb8bad2cf18c69e724359_MD5.png](/img/user/XX%20-%20Anexos/1dd0cf295acbb8bad2cf18c69e724359_MD5.png)
+![XX - Anexos/1dd0cf295acbb8bad2cf18c69e724359_MD5.png|undefined](/img/user/XX%20-%20Anexos/1dd0cf295acbb8bad2cf18c69e724359_MD5.png)
 
 
 
@@ -291,7 +291,7 @@ A obra está colocada em posição de destaque na sala “Religiosidades e Ances
 
 ❖ Esses fatores tornam a visita agradável e exploratória, além de proporcionar uma navegação intuitiva ao usuário.
 
-![XX - Anexos/3d5795534a06ef4389ba1e833981bfca_MD5.png](/img/user/XX%20-%20Anexos/3d5795534a06ef4389ba1e833981bfca_MD5.png)
+![XX - Anexos/3d5795534a06ef4389ba1e833981bfca_MD5.png|undefined](/img/user/XX%20-%20Anexos/3d5795534a06ef4389ba1e833981bfca_MD5.png)
 
 
 
@@ -327,24 +327,24 @@ A obra está colocada em posição de destaque na sala “Religiosidades e Ances
 **- Os registros fotográficos produzidos (printados da tela) deverão ter como foco dois objetos. Observe o objeto selecionado e descreva as suas características e sua localização.**
 
 Figura 1- Vista frontal
-![XX - Anexos/e4a4517533de9fa3201c207cccf87ea1_MD5.png](/img/user/XX%20-%20Anexos/e4a4517533de9fa3201c207cccf87ea1_MD5.png)
+![XX - Anexos/e4a4517533de9fa3201c207cccf87ea1_MD5.png|undefined](/img/user/XX%20-%20Anexos/e4a4517533de9fa3201c207cccf87ea1_MD5.png)
 Figura 2 – Vista traseira
-![XX - Anexos/14aba7fd4e0837cc221fe4634f74ff3f_MD5.png](/img/user/XX%20-%20Anexos/14aba7fd4e0837cc221fe4634f74ff3f_MD5.png)
+![XX - Anexos/14aba7fd4e0837cc221fe4634f74ff3f_MD5.png|undefined](/img/user/XX%20-%20Anexos/14aba7fd4e0837cc221fe4634f74ff3f_MD5.png)
 Figura 3 e 4 – Vistas Laterais
-![XX - Anexos/6aee277695f426f14e7d908107ce83e9_MD5.png](/img/user/XX%20-%20Anexos/6aee277695f426f14e7d908107ce83e9_MD5.png)![XX - Anexos/bcaa21065c7d3b0e2b32307401245e9f_MD5.png](/img/user/XX%20-%20Anexos/bcaa21065c7d3b0e2b32307401245e9f_MD5.png)
+![XX - Anexos/6aee277695f426f14e7d908107ce83e9_MD5.png|undefined](/img/user/XX%20-%20Anexos/6aee277695f426f14e7d908107ce83e9_MD5.png)![XX - Anexos/bcaa21065c7d3b0e2b32307401245e9f_MD5.png|undefined](/img/user/XX%20-%20Anexos/bcaa21065c7d3b0e2b32307401245e9f_MD5.png)
 Um dos objetos escolhidos foi o “Objeto emblemático 4”, um tridimensional em acrílica sobre madeira do artista Rubem Valentim, datada de 1969.
 
 O artista é conhecido por ter uma produção voltada à valorização das tradições Nordestinas desde o começo de sua carreia, porém a obra escolhida está na fase pós 1950, onde Rubem se focou em temas do universo religioso, em especial do candomblé e da umbanda. Os símbolos e signos sagrados, geralmente já geométricos, são reconstruídos com ainda mais rigor geométrico sobre telas, murais e tridimensionais (sendo este último o caso da obra escolhida). A obra está colocada em posição de destaque na sala “Religiosidades e Ancestralidades”, que fica à direita da sala de entrada, e está centralizada com relação à porta de entrada nesse ambiente.
 
 Figura 5- Planta baixa da exposição com indicação da posição da obra
-![XX - Anexos/4f4052c71fe15d63d1555176a654e3e0_MD5.png](/img/user/XX%20-%20Anexos/4f4052c71fe15d63d1555176a654e3e0_MD5.png)
+![XX - Anexos/4f4052c71fe15d63d1555176a654e3e0_MD5.png|undefined](/img/user/XX%20-%20Anexos/4f4052c71fe15d63d1555176a654e3e0_MD5.png)
 Figura 6 e 7 – Outras fotos do ambiente onde a peça está posicionada
-![XX - Anexos/224aae9fb54e0e545a37b6163977096d_MD5.png](/img/user/XX%20-%20Anexos/224aae9fb54e0e545a37b6163977096d_MD5.png)
-![XX - Anexos/3c3619afb7b21fa0945b7270022260c6_MD5.png](/img/user/XX%20-%20Anexos/3c3619afb7b21fa0945b7270022260c6_MD5.png)
+![XX - Anexos/224aae9fb54e0e545a37b6163977096d_MD5.png|undefined](/img/user/XX%20-%20Anexos/224aae9fb54e0e545a37b6163977096d_MD5.png)
+![XX - Anexos/3c3619afb7b21fa0945b7270022260c6_MD5.png|undefined](/img/user/XX%20-%20Anexos/3c3619afb7b21fa0945b7270022260c6_MD5.png)
 A placa de explicações e informações técnicas da obra está à esquerda do espectador, num pequeno “alfinete” clicável. A placa se apresenta como um quadro pop-up e contém o nome, data e local de nascimento e de morte do artista, suporte e materiais da obra, quem a doou e por fim uma pequena biografia do artista. Faltou o dado comum a esta comunicação que especifica as dimensões da peça.
 
 Figura 8 – Informações da obra
-![XX - Anexos/e90788e434e3fc43af4fb7eceea1b6fe_MD5.png](/img/user/XX%20-%20Anexos/e90788e434e3fc43af4fb7eceea1b6fe_MD5.png)
+![XX - Anexos/e90788e434e3fc43af4fb7eceea1b6fe_MD5.png|undefined](/img/user/XX%20-%20Anexos/e90788e434e3fc43af4fb7eceea1b6fe_MD5.png)
 Informações técnicas da obra:
 > Rubem Valentim – Salvador, BA, 1922 – São Paulo, SP, 1991
 > Objeto emblemático 4, 1969
