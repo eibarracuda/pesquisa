@@ -7,11 +7,11 @@
 
 > [!infobox]
 > # Eibarracuda
-> ![ver2.png](/img/user/XX%20-%20Anexos/ver2.png)
+> ![ver2.png|undefined](/img/user/XX%20-%20Anexos/ver2.png)
 > ###### Sobre
 > | 29 anos |  🏠 = 🇧🇷 | 
 > | ---- | ---- |
-> | ![naobinario.png](/img/user/XX%20-%20Anexos/naobinario.png) | ![autista.png](/img/user/XX%20-%20Anexos/autista.png)|
+> | ![naobinario.png|undefined](/img/user/XX%20-%20Anexos/naobinario.png) | ![autista.png|undefined](/img/user/XX%20-%20Anexos/autista.png)|
 > | 💍 | ♐ |
 > | 🐱🐱🐱🐱 | 🎮 🎨 |
 > 
