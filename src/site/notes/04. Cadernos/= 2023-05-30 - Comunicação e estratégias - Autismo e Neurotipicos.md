@@ -9,7 +9,7 @@
 #  🌱️ Comunicação e estratégias - Autismo e Neurotipicos 
 <small>2023-05-30</small>
 
-![Pasted image 20230530135741.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230530135741.png)
+![Pasted image 20230530135741.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230530135741.png)
 
 
 ### 1.  Específica: 
