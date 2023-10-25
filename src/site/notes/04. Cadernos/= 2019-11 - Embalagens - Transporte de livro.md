@@ -65,51 +65,51 @@ Aplicações: Encadernações, revestimento externo de embalagens, caixas, pasta
 A primeira etapa do processo foi a análise da obra a ser transportada: ela se trata de um livro de capa dura tamanho A6, com galeria de insetos xilófagos inativa. A peça se encontra com a estrutura fragilizada.
 
 
-![XX - Anexos/Pasted image 20230614205643.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614205643.png)
+![XX - Anexos/Pasted image 20230614205643.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614205643.png)
 
 
 - Após o reconhecimento da obra decidimos o melhor modelo de caixa para transporte dessa obra e procedemos ao planejamento para a montagem. A criação do protótipo foi essencial para o processo de tomada de decisões.
 
 [[Pasted image 20230614205944.png|Open: Pasted image 20230614205944.png]]
-![Pasted image 20230614205944.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614205944.png)
+![Pasted image 20230614205944.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614205944.png)
 
 [[Pasted image 20230614205952.png|Open: Pasted image 20230614205952.png]]
-![Pasted image 20230614205952.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614205952.png)
+![Pasted image 20230614205952.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614205952.png)
 
 [[Pasted image 20230614210005.png|Open: Pasted image 20230614210005.png]]
-![Pasted image 20230614210005.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210005.png)
+![Pasted image 20230614210005.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210005.png)
 
 [[Pasted image 20230614210019.png|Open: Pasted image 20230614210019.png]]
-![Pasted image 20230614210019.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210019.png)
+![Pasted image 20230614210019.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210019.png)
 
 - Em seguida fizemos um envelope de proteção para a obra com papel manteiga, que pode ser replicado com glassine.
 
 [[Pasted image 20230614210050.png|Open: Pasted image 20230614210050.png]]
-![Pasted image 20230614210050.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210050.png)
+![Pasted image 20230614210050.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210050.png)
 
 - Em uma superfície adequada, papel mata-borrão, a obra foi embalada em papel manteiga.
 
 [[Pasted image 20230614210151.png|Open: Pasted image 20230614210151.png]]
-![Pasted image 20230614210151.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210151.png)
+![Pasted image 20230614210151.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210151.png)
 
 - Decidimos por usar foam de 1 cm então a caixa foi planejada para esse revestimento em todos seus lados na base e no maior lado do interior da tampa.
 
 [[Pasted image 20230614210223.png|Open: Pasted image 20230614210223.png]]
-![Pasted image 20230614210223.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210223.png)
+![Pasted image 20230614210223.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210223.png)
 - O material foi vincado para facilitar as dobras, e então dobrado e colado. Repetição do processo para elaboração da tampa, levando em conta – 0,5 cm de diferença de altura na área de manuseio.
 
 [[Pasted image 20230614210245.png|Open: Pasted image 20230614210245.png]]
-![Pasted image 20230614210245.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210245.png)
+![Pasted image 20230614210245.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210245.png)
 
 - Este seria o momento para aplicação e fixação do foam.
 
 [[Pasted image 20230614210306.png|Open: Pasted image 20230614210306.png]]
-![Pasted image 20230614210306.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210306.png)
+![Pasted image 20230614210306.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210306.png)
 
 - Depois da fixação do foam, forrar com Frankonia para criação de uma base para a obra.
 
 [[Pasted image 20230614210319.png|Open: Pasted image 20230614210319.png]]
-![Pasted image 20230614210319.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210319.png)
+![Pasted image 20230614210319.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230614210319.png)
 
 - Símbolos convencionais para transporte: “frágil”, “para cima”, “sensível ao calor” “sensível à umidade” e número de identificação da obra.<br><br>
 
