@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-jardinzin/curriculo/","created":"2023-03-14T14:03:05.815-03:00","updated":"2023-05-28T12:48:21.523-03:00"}
+{"dg-publish":true,"permalink":"/06-jardinzin/curriculo/","created":"2023-03-14T14:03:05.815-03:00","updated":"2023-10-25T18:51:35.933-03:00"}
 ---
 
 # Marta Safaneta
@@ -27,6 +27,17 @@ Bacharel em Conservação e Restauração com ênfase em papel e conservação p
 ### Confira a lista completa de certificações da Alura/Boticário Desenvolve [[06. Jardinzin/Certificados Alura\|clicando aqui]]
 
 ## Experiencia Profissional
+
+### BDCTI–III/FAPEMIG <time> Jun/2023  - atual </time>
+
+<location> Rede de Museus UFMG - Projeto “Educação científica em museus: desenvolvimento do pensamento científico, crítico e criativo na imersão dos acervos universitários da UFMG” </location>
+
+- Apoio ao desenvolvimento de atividades pedagógicas de educação científica e desenvolvimento de materiais didáticos para o ensino de ciências em museus e acervos científicos; 
+- Apoio nas oficinais; 
+- Apoio no desenvolvimento de métodos de avaliação das exposições pelos visitantes e desenvolvimento de protocolos de autoavaliação pela equipe; 
+- Coordenação de estudantes de graduação; 
+- Aprimoramento dos roteiros em resposta às avaliações dos visitantes e autoavaliação da equipe; 
+- Coleta, análise de dados e redação de relatórios e textos científicos.
 
 ### TRADUÇÃO E LEGENDAGEM <time> Freelance - Nov/2021 </time>
 
@@ -125,6 +136,6 @@ SAFANETA, Marta. Conforto no que existe. In: OLIVEIRA, Karine (Org.). **Ócios n
 
 > [!infobox|500]
 > # Outras informações
-> ![Pasted image 20230314145544.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230314145544.png)
-> ![Pasted image 20230314145604.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230314145604.png) 
->  ![Pasted image 20230314145627.png](/img/user/XX%20-%20Anexos/Pasted%20image%2020230314145627.png)
+> ![Pasted image 20230314145544.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230314145544.png)
+> ![Pasted image 20230314145604.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230314145604.png) 
+>  ![Pasted image 20230314145627.png|undefined](/img/user/XX%20-%20Anexos/Pasted%20image%2020230314145627.png)
