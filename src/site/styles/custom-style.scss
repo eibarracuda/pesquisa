@@ -1402,7 +1402,9 @@ img {
   text-align: justify;
   font-family: monospace;
   hyphens: auto;
-  border-top: thick double #32a1ce;}
+  border-top: thick double #32a1ce;
+  max-width: 70%;
+  align: center}
 
 .rodape::before{    content: url("https://www.eibarracuda.art/img/user/XX%20-%20Anexos/assinaturamini.png");
   align: left}
