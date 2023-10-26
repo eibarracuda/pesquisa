@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/06-jardinzin/patrimonio-and-cultura/","created":"2023-05-15T16:59:52.448-03:00","updated":"2023-05-15T22:09:23.652-03:00"}
+---
+
+
+# Patrimônio & Cultura
+
+## Cadernos
+
+| Arquivo                                                                                                                                                                                                                                                              | Status | Tema                                                                                        | Palavras-chave                                                                                                                                                                                                        | Data             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[04. Cadernos/= 2023-02-24 - 📝️ Comunicando Ciencia da conservação\|= 2023-02-24 - 📝️ Comunicando Ciencia da conservação]]                                                                                                                                     | 🟥     | <ul><li>Conservação-Restauração</li><li>divulgacao cientifica</li><li>Comunicação</li></ul> | <ul><li>Conservation science</li><li>Public benefit</li><li>Public value</li><li>Public engagement</li><li>People-centred approach</li><li>ICCROM FORUM</li><li>Conservação-Restauração</li><li>Comunicação</li></ul> | 2023-05-17 15:07 |
+| [[04. Cadernos/🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro\|🌿️ 2022-03 📝️ Canal Arte de Fato –Programa Ateliê de Restauro]]                                                                                                                 | 🟩️    | TCC                                                                                         | <ul><li>Divulgação Cientifica</li><li>Conservação-Restauração</li></ul>                                                                                                                                               | 2023-05-15 17:05 |
+| [[04. Cadernos/🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)\|🌲️ 2023-03-01 - 📝️ Pré-projeto - DIVULGAÇÃO CIENTIFICA EM CONSERVAÇÃO E RESTAURO (Uma Cartografia das Mídias Sociais)]] | 🟩️    | TCC                                                                                         | <ul><li>Conservação-Restauração</li><li>Divulgação Cientifica</li></ul>                                                                                                                                               | 2023-05-15 17:05 |
+
+{ .block-language-dataview}
+
+## Acervos
+
+| Arquivo                                                                                                                             | Status | Tema                                 | Palavras-chave                                                                                                                                                               | Data             |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[03. Acervos/📜️/& 2023-03-01 - 📜️ Ja estamos la (2022)\|& 2023-03-01 - 📜️ Ja estamos la (2022)]]                             | 🟩️    | \-                                   | <ul><li>Cultivia</li><li>pesquisa em museu</li><li>Patrimonio</li></ul>                                                                                                      | 2023-05-22 17:10 |
+| [[03. Acervos/📜️/& 2023-02-24 - 📜️ Communicating conservation science\|& 2023-02-24 - 📜️ Communicating conservation science]] | 🟩️    | Comunicação, Conservação-Restauração | <ul><li>Conservation science</li><li>Public benefit</li><li>Public value</li><li>Public engagement</li><li>People-centred approach</li><li>Conservação-Restauração</li></ul> | 2023-05-15 21:52 |
+| [[03. Acervos/📜️/& 2023-02-24 - 📜️ Discussion Group Reports\|& 2023-02-24 - 📜️ Discussion Group Reports]]                     | 🟩️    | \-                                   | <ul><li>Conservation science</li><li>ICCROM FORUM</li><li>Conservação-Restauração</li></ul>                                                                                  | 2023-05-15 19:35 |
+
+{ .block-language-dataview}
