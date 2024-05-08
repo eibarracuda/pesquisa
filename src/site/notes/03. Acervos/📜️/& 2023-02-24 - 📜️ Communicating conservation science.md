@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-02-24-communicating-conservation-science/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-02-24T13:50:08.689-03:00","updated":"2023-05-15T21:52:15.433-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-02-24-communicating-conservation-science/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2024-01-02T22:12:25.904-03:00","updated":"2024-01-02T22:12:41.697-03:00"}
 ---
 
 tema:: Comunicação, Conservação-Restauração
@@ -12,7 +12,7 @@ tema:: Comunicação, Conservação-Restauração
 >> "What are the key messages conservation science should communicate to the public? Although the profile of conservation science itself can be raised by talking about the process, most feel that the messages should concern what conservation science brings to the focus of its work – cultural heritage. However, it is no longer enough to focus on the needs of heritage in isolation. Demonstrating public benefit is crucial to persuade decision-makers to invest not only in the conservation of cultural heritage but also in the science that informs its care. Conservation science can research the significance of cultural heritage and how to enable access to it, but it now also needs to engage the public actively in its activities. This means continuing to use the traditional ‘hard’ sciences of physics and chemistry but also learning from and collaborating more with less familiar partners such as the social sciences, the medical sciences, and natural heritage to demonstrate how conservation science is good for people, and developing new methods of communication to do this. Conservation science needs to engage with the public not only as a subject for research but also as a means of doing the research, so the end also becomes the means. Public impact should be factored into conservation science projects, with training in communication and the principles of interpretation provided to those involved. A more fundamental shift may be required in the sector however, that puts people’s benefit at the heart of conservation science as much as the benefit of the cultural heritage it engages with."
 >
 >> [!info]+ **Metadados**
->> **Tipo:** [[00. Obsidian/Z/&\|&]]
+>> **Tipo:** [[&\|&]]
 >> **Autor:** Katy Lithgow
 >> **Publicado em:** 2015-12-31
 >> **Periodico::** Studies in Conservation
@@ -26,7 +26,7 @@ tema:: Comunicação, Conservação-Restauração
 >> **URL::** [http://www.tandfonline.com/doi/full/10.1080/00393630.2015.1117856](http://www.tandfonline.com/doi/full/10.1080/00393630.2015.1117856)
 >> **Nas coleções:** [[Conservação, Restauração & Patrimonio\|Conservação, Restauração & Patrimonio]] 
 >>  
->>   Date Added: 2023-02-17 (ao Zotero), no obsidian desde [[02. Journal/Daily/2023-02-24\|2023-02-24]]
+>>   Date Added: 2023-02-17 (ao Zotero), no obsidian desde [[2023-02-24\|2023-02-24]]
 
 
 
@@ -167,11 +167,8 @@ tema:: Comunicação, Conservação-Restauração
 
 
 ***
-| Relacionados                                                                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[04. Cadernos/= 2023-02-24 - 📝️ Comunicando Ciencia da conservação\|= 2023-02-24 - 📝️ Comunicando Ciencia da conservação]]<br><small>*Modificado em: 3:07 PM - May 17, 2023*</small> \| <small>Criado em: 3:20 PM - February 24, 2023</small> |
-| [[04. Cadernos/= 2023-05-11 - Indice comentado\|= 2023-05-11 - Indice comentado]]<br><small>*Modificado em: 1:19 PM - May 27, 2023*</small> \| <small>Criado em: 1:27 PM - May 11, 2023</small>                                                  |
-| [[07. Projetos/TCC/= 2023-05-17 - 2.2 Como essas ideias evoluiram\|= 2023-05-17 - 2.2 Como essas ideias evoluiram]]<br><small>*Modificado em: 1:10 PM - October 10, 2023*</small> \| <small>Criado em: 3:27 PM - May 17, 2023</small>            |
+| Relacionados |
+| ------------ |
 
 { .block-language-dataview}
 ***
