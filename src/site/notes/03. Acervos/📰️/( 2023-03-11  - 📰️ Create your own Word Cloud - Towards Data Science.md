@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//2023-03-11-create-your-own-word-cloud-towards-data-science/","title":"( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science","tags":["🧠️/📥️/📰️/🟩️"],"created":"2023-03-11T20:42:00.222-03:00","updated":"2023-07-02T14:13:14.521-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//2023-03-11-create-your-own-word-cloud-towards-data-science/","title":"( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science","tags":["🧠️/📥️/📰️/🟩️"],"created":"2024-01-02T22:12:27.269-03:00","updated":"2024-01-02T22:12:41.140-03:00"}
 ---
 
 
 >[!abstract]+ Sobre
 >- `Titulo da nota:`  [[03. Acervos/📰️/( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science\|( 2023-03-11  - 📰️ Create your own Word Cloud - Towards Data Science]]
->- `Tipo:`  [[00. Obsidian/Z/(\|(]]
+>- `Tipo:`  [[(\|(]]
 >- `Autor:`  Gurucharan M K
 >- ` Publicado em:` 2023-03-11
 >- ` URL:`  https://towardsdatascience.com/create-your-own-word-cloud-705798556574
