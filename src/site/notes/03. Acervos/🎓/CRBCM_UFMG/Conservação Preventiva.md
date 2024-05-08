@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//crbcm-ufmg/conservacao-preventiva/","tags":["🧠️/🎓/CRBCMUFMG"],"created":"2023-06-14T09:43:19.546-03:00","updated":"2023-06-14T09:53:11.933-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//crbcm-ufmg/conservacao-preventiva/","tags":["🧠️/🎓/CRBCMUFMG"],"created":"2024-01-02T22:12:25.395-03:00","updated":"2024-01-02T22:12:39.564-03:00"}
 ---
 
 
@@ -21,7 +21,7 @@ Composição material da obra de arte. Vulnerabilidade de materiais às degrada�
 ***
 #### Outras disciplinas desta formação
 
-| Arquivo                                                                                                             | Professores       | Palavras chave                               |
+| File                                                                                                                | Professores       | Palavras chave                               |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
 | [[03. Acervos/🎓/CRBCM_UFMG/Causas de Deterioração em Bens Culturais\|Causas de Deterioração em Bens Culturais]] | Alessandra Rosado | Causas de deterioração,Análise e diagnóstico |
 
