@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-04-incursoes-sobre-os-termos-e-conceitos-da-educacao-museal/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-04T16:50:29.283-03:00","updated":"2023-06-04T17:02:25.943-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-04-incursoes-sobre-os-termos-e-conceitos-da-educacao-museal/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2024-01-02T22:12:25.935-03:00","updated":"2024-01-02T22:12:41.711-03:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 >> "A educação em museu pode ser definida como um conjunto de valores, conceitos, saberes e práticas cujo objetivo é o desenvolvimento do visitante. Para abordar o tema, a proposta deste artigo é fazer algumas incursões sobre o entendimento de termos e conceitos da área em questão. Não se pretende fazer uma análise exaustiva, mas revisitar referências que destacam controvérsias de linguagem nas suas definições em diferentes países. Este interesse é motivado por indagações, ainda recorrentes, associadas à compreensão de termos como educação formal, não formal, informal e museal, que podem ser tornar confusos em função de suas finalidades. Isto porque são compartilhados por diferentes instituições com as quais se interrelacionam. Este fato ocorre, essencialmente, uma vez que a maior parte da literatura de caráter museológico difundida sobre os estudos de público provém de países ocidentais desenvolvidos e está e divulgada principalmente em inglês ou francês. Cotejando a literatura nacional e estrangeira pode-se estabelecer o caminho percorrido para a construção dos termos e conceitos usados na consolidação do corpo teórico da educação em museu. Considerando as definições do sociólogo francês Bourdieu, é possível entender a educação museal como um campo de conhecimento, ainda em construção, com pouca autonomia e em processo de acúmulo de capital científico. Neste sentido, busca-se contribuir para o adensamento deste tipo de educação, valorizando-a e legitimando-a, tanto no que diz respeito às suas práticas quanto aos profissionais que as desenvolvem."
 >
 >> [!info]+ **Metadados**
->> **Tipo:** [[00. Obsidian/Z/&\|&]] - journalArticle
+>> **Tipo:** [[&\|&]] - journalArticle
 >> **Autor:** Sibele Cazelli,Maria Esther Valente
 >> **Publicado em:** 2019-09-01
 >> **Periódico::** Revista Docência e Cibercultura
