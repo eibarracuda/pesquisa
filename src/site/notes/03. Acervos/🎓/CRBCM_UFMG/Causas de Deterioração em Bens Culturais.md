@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//crbcm-ufmg/causas-de-deterioracao-em-bens-culturais/","tags":["🧠️/🎓/CRBCMUFMG"],"created":"2023-06-14T08:48:59.359-03:00","updated":"2023-07-02T14:13:23.484-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//crbcm-ufmg/causas-de-deterioracao-em-bens-culturais/","tags":["🧠️/🎓/CRBCMUFMG"],"created":"2024-01-02T22:12:25.390-03:00","updated":"2024-01-02T22:12:39.563-03:00"}
 ---
 
 
@@ -16,8 +16,8 @@ Deterioração de bens culturais: agentes físico-mecânicos, químicos e bioló
 
 
 ### Procedimentos avaliativos
-- [[04. Cadernos/= 2019-11 - Embalagens - Transporte de livro\|Protótipo de embalagem - livro]]
-- [[04. Cadernos/= 2019-11 - Diagnóstico de Estado de Conservação - Porta de Amílcar de Castro\| Diagnóstico de Estado de Conservação - Porta de Amílcar de Castro]]
+- [[= 2019-11 - Embalagens - Transporte de livro\|Protótipo de embalagem - livro]]
+- [[= 2019-11 - Diagnóstico de Estado de Conservação - Porta de Amílcar de Castro\| Diagnóstico de Estado de Conservação - Porta de Amílcar de Castro]]
 
 
 
@@ -30,7 +30,7 @@ Deterioração de bens culturais: agentes físico-mecânicos, químicos e bioló
 ***
 #### Outras disciplinas desta formação
 
-| Arquivo                                                                         | Professores     | Palavras chave                                                                                              |
+| File                                                                            | Professores     | Palavras chave                                                                                              |
 | ------------------------------------------------------------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------- |
 | [[03. Acervos/🎓/CRBCM_UFMG/Conservação Preventiva\|Conservação Preventiva]] | Willi de Barros | <ul><li>Agentes de degradação</li><li>Fatores ambientais</li><li>Controle de condições ambientais</li></ul> |
 
