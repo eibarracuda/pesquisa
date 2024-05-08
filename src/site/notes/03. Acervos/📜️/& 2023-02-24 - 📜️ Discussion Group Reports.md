@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-02-24-discussion-group-reports/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-02-24T19:36:45.255-03:00","updated":"2023-05-15T19:35:20.577-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-02-24-discussion-group-reports/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2024-01-02T22:12:25.909-03:00","updated":"2024-01-02T22:12:41.700-03:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Rome, 16-18 October 2013
 Discussion group reports"
 >
 >> [!info]+ **Metadados**
->> **Tipo:** [[00. Obsidian/Z/&\|&]]
+>> **Tipo:** [[&\|&]]
 >> **Autor:**  ICCROM
 >> **Publicado em:** 2013
 >> **Periodico::** [[]], 
@@ -31,7 +31,7 @@ Discussion group reports"
 
 ***
 
-
+[[= 2023-05-17 - 2.1 Perspectivas iniciais\|= 2023-05-17 - 2.1 Perspectivas iniciais]]
 
 ***
 
@@ -170,7 +170,7 @@ Discussion group reports"
 ***
 **Pelo mesmo autor:**
 
-| Arquivo                                                                                                         | Tipo  | Status | Criado em        | Palavras-chave                                                                              |
+| File                                                                                                            | Tipo  | Status | Criado em        | Palavras-chave                                                                              |
 | --------------------------------------------------------------------------------------------------------------- | ----- | ------ | ---------------- | ------------------------------------------------------------------------------------------- |
 | [[03. Acervos/📜️/& 2023-02-24 - 📜️ Discussion Group Reports\|& 2023-02-24 - 📜️ Discussion Group Reports]] | paper | 🟩️    | 2023-02-24 19:37 | <ul><li>Conservation science</li><li>ICCROM FORUM</li><li>Conservação-Restauração</li></ul> |
 
