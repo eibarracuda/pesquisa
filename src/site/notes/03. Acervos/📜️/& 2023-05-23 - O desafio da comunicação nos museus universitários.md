@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-05-23-o-desafio-da-comunicacao-nos-museus-universitarios/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-05-23T15:23:36.236-03:00","updated":"2023-07-02T14:13:13.303-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-05-23-o-desafio-da-comunicacao-nos-museus-universitarios/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2024-01-02T22:12:25.925-03:00","updated":"2024-01-02T22:12:41.706-03:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 >> "New ways of conceiving communication challenge university museums to break with the hierarchical model, which presupposes a lack of information from the visitor, in favor of multi-referenced communication, in which new actors and narratives emerge in the museum scene. The article analyzes the nature of collection within universities, the musealisation and the communication modalities of this heritage, and the alternatives that emphasize the democratization of museums' relations with the public: the exhibitions of controversies and the dynamics of knowledge production, include collaborative and negotiation processes, and the use of information technologies as a tool to expand audiences and the formation of networks of researchers and collections."
 >
 >> [!info]+ **Metadados**
->> **Tipo:** [[00. Obsidian/Z/&\|&]] - journalArticle
+>> **Tipo:** [[&\|&]] - journalArticle
 >> **Autor:** Letícia Julião
 >> **Publicado em:** 2020-12-09
 >> **Periódico::** Museologia & Interdisciplinaridade
