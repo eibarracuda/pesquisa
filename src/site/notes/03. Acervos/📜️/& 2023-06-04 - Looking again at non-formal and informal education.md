@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-04-looking-again-at-non-formal-and-informal-education/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-04T16:50:36.395-03:00","updated":"2023-07-02T14:13:13.103-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-04-looking-again-at-non-formal-and-informal-education/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2024-01-02T22:12:25.941-03:00","updated":"2024-01-02T22:12:41.714-03:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 >> ""
 >
 >> [!info]+ **Metadados**
->> **Tipo:** [[00. Obsidian/Z/&\|&]] - webpage
+>> **Tipo:** [[&\|&]] - webpage
 >> **Autor:** Alan Rogers
 >> **Publicado em:** 2004-01-01
 >> **Periódico::** 
