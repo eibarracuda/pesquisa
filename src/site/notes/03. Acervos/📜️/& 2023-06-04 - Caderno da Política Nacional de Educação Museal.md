@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-04-caderno-da-politica-nacional-de-educacao-museal/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-04T16:50:33.254-03:00","updated":"2023-07-02T14:13:13.270-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-06-04-caderno-da-politica-nacional-de-educacao-museal/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2024-01-02T22:12:25.930-03:00","updated":"2024-01-02T22:12:41.709-03:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 >> ""
 >
 >> [!info]+ **Metadados**
->> **Tipo:** [[00. Obsidian/Z/&\|&]] - book
+>> **Tipo:** [[&\|&]] - book
 >> **Autor:** IBRAM
 >> **Publicado em:** 2018-01-01
 >> **Periódico::** 
