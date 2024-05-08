@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//and-2023-02-22-heritage-conservation-science-reflections2015/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-02-22T17:18:04.207-03:00","updated":"2023-07-02T14:13:13.468-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//and-2023-02-22-heritage-conservation-science-reflections2015/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2024-01-02T22:12:25.894-03:00","updated":"2024-01-02T22:12:41.691-03:00"}
 ---
 
 
@@ -8,14 +8,14 @@
 
 ## Metadata:
 
-- type: [[00. Obsidian/Z/&\|&]]
+- type: [[&\|&]]
 - author::  [[Alison Heritage\|Alison Heritage]], [[Stavroula Golfomitsou\|Stavroula Golfomitsou]]
 	- notable_authors::
 - keywords:: - specific_subject::
 - general_subject::
 - doi:: * DOI: [10.1080/00393630.2015.1117858](https://doi.org/10.1080/00393630.2015.1117858)
 - 
-- reviewed_date:: [[<% tp.date.now("YYYY-MM-DD") %>\|<% tp.date.now("YYYY-MM-DD") %>]]
+- reviewed_date:: [[01. Agenda/Daily/2024-01-02\|2024-01-02]]
 * Date Added: [2023-02-22](2023-02-22)
 - 
 
@@ -60,10 +60,8 @@
 <span class="highlight" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FAph0dTj8%2Fitems%2F87SMRFFI%22%2C%22annotationKey%22%3A%22PH6SRSQ3%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%227%22%2C%22position%22%3A%7B%22pageIndex%22%3A6%2C%22rects%22%3A%5B%5B401.56%2C497.956%2C537.014%2C507.226%5D%2C%5B309.999%2C484.975%2C537.069%2C494.245%5D%2C%5B309.999%2C471.995%2C536.952%2C481.265%5D%2C%5B309.999%2C458.955%2C537.084%2C468.225%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FAph0dTj8%2Fitems%2FR2INTYD2%22%5D%2C%22locator%22%3A%227%22%7D%7D"><span style="background-color: #ffd40080">“Conservation science, like many other specialized areas of applied research with limited funding resources, is under increasing pressure to make evident its relevance and delivery of benefit.”</span></span> <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FAph0dTj8%2Fitems%2FR2INTYD2%22%5D%2C%22locator%22%3A%227%22%7D%5D%2C%22properties%22%3A%7B%7D%7D">(<span class="citation-item">Heritage e Golfomitsou, 2015, p. 7</span>)</span>
 
 ***
-| Relacionados                                                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[04. Cadernos/= 2023-05-11 - Indice comentado\|= 2023-05-11 - Indice comentado]]<br><small>*Modificado em: 1:19 PM - May 27, 2023*</small> \| <small>Criado em: 1:27 PM - May 11, 2023</small>                                       |
-| [[07. Projetos/TCC/= 2023-05-17 - 2.2 Como essas ideias evoluiram\|= 2023-05-17 - 2.2 Como essas ideias evoluiram]]<br><small>*Modificado em: 1:10 PM - October 10, 2023*</small> \| <small>Criado em: 3:27 PM - May 17, 2023</small> |
+| Relacionados |
+| ------------ |
 
 { .block-language-dataview}
 ***
