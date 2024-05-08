@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-acervos//ha-sentido-na-educacao-nao-formal-na-perspectiva-da-formacao-integral/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2023-06-04T16:50:26.858-03:00","updated":"2023-07-02T14:13:13.150-03:00"}
+{"dg-publish":true,"permalink":"/03-acervos//ha-sentido-na-educacao-nao-formal-na-perspectiva-da-formacao-integral/","tags":["🧠️/📥️/📜️/🟩️"],"created":"2024-01-02T22:12:25.958-03:00","updated":"2023-07-02T14:13:13.150-03:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 >> "The aim of this paper is to present the Integral Formation as the origin for the construction of emancipatory and transformer educational processes. In addition to exposing the concepts of Non-Formal Education and Integral Formation based on selected authors and emphasizing on problematize the first. The conception of an Integral Formation is stand up for as a model that covers different types of education, in an integrated way and with common goals. The idea of Non-Formal Education thus becomes meaningless with that prospect. It presents the example of Museum Education as a part of the plot that weaves the Integral Formation, indicating conceptual controversies of this particular field."
 >
 >> [!info]+ **Metadados**
->> **Tipo:** [[00. Obsidian/Z/&\|&]] - journalArticle
+>> **Tipo:** [[&\|&]] - journalArticle
 >> **Autor:** Fernanda Santana Rabello De Castro
 >> **Publicado em:** 2015-12-09
 >> **Periódico::** Museologia & Interdisciplinaridade
